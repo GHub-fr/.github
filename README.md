@@ -10,4 +10,4 @@ github meta data
   
   
 <a href="https://GHub.fr"><img src="https://GHub.fr/storage/img/logo.png" width=100 height=100></a>  
-<a href="https://discord.gg/ssC6KYMjZz"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a>  
+<a href="https://discord.gg/rF25kjuv4v"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a>  
