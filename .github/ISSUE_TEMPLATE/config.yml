@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://GHub.fr/discord/
+    about: Posez vos questions ici
+  - name: Docs
+    url: https://GHub-fr.github.io/docs/
+    about: Documentation
