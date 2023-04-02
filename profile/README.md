@@ -6,14 +6,14 @@
 [github.com/GHub-fr](https://github.com/GHub-fr)  
   
 <a href=""><img src="https://img.shields.io/github/commit-activity/m/GHub-fr/.github?color=red&style=for-the-badge"></a>
-<a href=""><img src="https://img.shields.io/github/last-commit/GHub-fr/.github?color=red&style=for-the-badge"></a>  
+<a href=""><img src="https://img.shields.io/github/last-commit/GHub-fr/.github?color=red&style=for-the-badge"></a><br>
 <a href=""><img src="https://img.shields.io/github/stars/GHub-fr?color=red&style=for-the-badge"></a>
 <a href=""><img src="https://img.shields.io/github/stars/GHub-fr/.github?color=red&label=repo%20stars&style=for-the-badge"></a>
-<a href=""><img src="https://img.shields.io/github/contributors/GHub-fr/.github?style=for-the-badge"></a>  
+<a href=""><img src="https://img.shields.io/github/contributors/GHub-fr/.github?style=for-the-badge"></a><br>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/GHub-fr/.github?color=red"></a>
-<a href=""><img src="https://img.shields.io/github/repo-size/GHub-fr/.github?color=red"></a>  
+<a href=""><img src="https://img.shields.io/github/repo-size/GHub-fr/.github?color=red"></a><br>
 <a href=""><img src="https://komarev.com/ghpvc/?username=GHub-fr&color=red&label=%F0%9F%91%80"></a>
-<a href="https://GHub.fr/discord"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a>  
+<a href="https://GHub.fr/discord"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a><br>
   
 ----
   
