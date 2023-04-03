@@ -1,6 +1,7 @@
 ## .github/profile/README.md
 # GHub.fr
-<a href="https://GHub.fr"><img src="https://avatars.githubusercontent.com/u/128578613?s=200&v=4" width=100 height=100></a>  
+<a href="https://GHub.fr"><img src="https://avatars.githubusercontent.com/u/128578613?s=200&v=4" width=100 height=100></a>
+<br>
 <a href=""><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FGHub.fr"></a>
 <br>
 [GHub.fr](https://GHub.fr) | [/discord](https://GHub.fr/discord)  
