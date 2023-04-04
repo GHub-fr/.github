@@ -32,9 +32,10 @@
 @[lx78WyY0J5](https://github.com/lx78WyY0J5) | @[Toi ?](https://github.com/)  
   
 # Repo
+**Docs** : [Participants](https://GHub-fr.github.io/pages/views/opensource/participants.html)  
+**Meta files** : [.github](https://github.com/GHub-fr/.github) | [Support](https://github.com/GHub-fr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/GHub-fr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/GHub-fr/.github/security/policy) | [Issue template](https://github.com/GHub-fr/.github/tree/main/.github/ISSUE_TEMPLATE) | [Code of conduct](https://github.com/GHub-fr/.github/blob/main/CODE_OF_CONDUCT.md) | [License](https://github.com/GHub-fr/.github/blob/main/LICENSE.md)
+  
 **Site** : [Page](https://GHub-fr.github.io) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io) | [Tableau](https://github.com/orgs/GHub-fr/projects/6)  
-**Docs** : [Participants](https://GHub-fr.github.io/pages/views/opensource/participants.html) | [Contribuer](https://GHub-fr.github.io/pages/views/opensource/contribuer.html) | [Code de conduite](https://GHub-fr.github.io/pages/views/opensource/code_of_conduct.html)  
-**Meta files** : [.github](https://github.com/GHub-fr/.github) | [Support](https://github.com/GHub-fr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/GHub-fr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/GHub-fr/.github/blob/main/SECURITY.md) | [Issue template](https://github.com/GHub-fr/.github/tree/main/.github/ISSUE_TEMPLATE)  
 **Discord** : [Repo](https://github.com/GHub-fr/bot) | [Tableau](https://github.com/orgs/GHub-fr/projects/2)  
 **Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Tableau](https://github.com/orgs/GHub-fr/projects/3)  
   
