@@ -44,3 +44,4 @@
 CMS : @[Azuriom](https://github.com/Azuriom) | [Repo externe](https://github.com/Azuriom/Azuriom)  
 Github Chat : @[Giscus](https://github.com/Giscus) | [Repo externe](https://github.com/Giscus/Giscus)  
 Discord bot : @[Javacord](https://github.com/Javacord) | [Repo externe](https://github.com/Javacord/Javacord)  
+PaperMC : @[PaperMC](https://github.com/PaperMC) | [Repo externe](https://github.com/PaperMC/Paper)  
