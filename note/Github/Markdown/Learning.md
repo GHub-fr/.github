@@ -18,4 +18,4 @@ _This text is italicized_
 ~~This was mistaken text~~
 ```
 # Devient :
-![](Learning-img.png)
+![](https://github.com/GHub-fr/.github/blob/main/note/Github/Markdown/exemple.png)
