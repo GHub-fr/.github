@@ -33,18 +33,21 @@
 @[lx78WyY0J5](https://github.com/lx78WyY0J5) | @[Toi ?](https://github.com/)  
   
 # Repo
+### .github  
 **Meta files** : [.github](https://github.com/GHub-fr/.github) | [Tableau Github](https://github.com/orgs/GHub-fr/projects/6)  
-[Support](https://github.com/GHub-fr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/GHub-fr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/GHub-fr/.github/security/policy) | [Issue template](https://github.com/GHub-fr/.github/tree/main/.github/ISSUE_TEMPLATE) | [Code of conduct](https://github.com/GHub-fr/.github/blob/main/CODE_OF_CONDUCT.md) | [License](https://github.com/GHub-fr/.github/blob/main/LICENSE.md)
-  
+[Support](https://github.com/GHub-fr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/GHub-fr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/GHub-fr/.github/security/policy) | [Issue template](https://github.com/GHub-fr/.github/tree/main/.github/ISSUE_TEMPLATE) | [Code of conduct](https://github.com/GHub-fr/.github/blob/main/CODE_OF_CONDUCT.md) | [License](https://github.com/GHub-fr/.github/blob/main/LICENSE.md)  
+**Note** : [README.md](https://github.com/GHub-fr/.github/blob/main/note/README.md) | [... **SOON**](https://GHub.fr/discord)
+
 **Site** : [Page](https://GHub-fr.github.io) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io) | [Tableau](https://github.com/orgs/GHub-fr/projects/4)  
 **Server** : [Repo](https://github.com/GHub-fr/server) | [Tableau](https://github.com/orgs/GHub-fr/projects/6)  
 **Discord** : [Repo](https://github.com/GHub-fr/bot) | [Tableau](https://github.com/orgs/GHub-fr/projects/2)  
 **Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Tableau](https://github.com/orgs/GHub-fr/projects/3)  
-  
+**ResourcePack** : [Repo](https://github.com/GHub-fr/resourcePack) | [Latest release](https://github.com/GHub-fr/resourcePack/releases/latest)
+
 ----
   
 # Externe
 CMS : @[Azuriom](https://github.com/Azuriom) | [Repo externe](https://github.com/Azuriom/Azuriom)  
-Github Chat : @[Giscus](https://github.com/Giscus) | [Repo externe](https://github.com/Giscus/Giscus)  
+~~Github Chat : @[Giscus](https://github.com/Giscus) | [Repo externe](https://github.com/Giscus/Giscus)~~  
 Discord bot : @[Javacord](https://github.com/Javacord) | [Repo externe](https://github.com/Javacord/Javacord)  
 PaperMC : @[PaperMC](https://github.com/PaperMC) | [Repo externe](https://github.com/PaperMC/Paper)  
