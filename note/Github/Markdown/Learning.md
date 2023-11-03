@@ -18,11 +18,4 @@ _This text is italicized_
 ~~This was mistaken text~~
 ```
 # Devient :
-> # A first-level heading
-> ## A second-level heading
-> ### A third-level heading
-> [GitHub Pages](https://pages.github.com/).
-> [Contribution guidelines for this project](docs/CONTRIBUTING.md)
-> **This is bold text**
-> _This text is italicized_
-> ~~This was mistaken text~~
+![](Learning-img.png)
