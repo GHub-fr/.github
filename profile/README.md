@@ -27,7 +27,7 @@
 # Contribuer
 **Discussions** : [Liste](https://github.com/orgs/GHub-fr/discussions) | [Créer une discussion](https://github.com/orgs/GHub-fr/discussions/new) | [Bienvenue !](https://github.com/orgs/GHub-fr/discussions/1)  
 **Problèmes** : [Liste](https://github.com/GHub-fr/.github/issues) | [Créer un nouveau problème](https://github.com/GHub-fr/.github/issues/new/choose)  
-**Tableaux** : [Liste](https://github.com/orgs/GHub-fr/projects) | [RoadMap](https://github.com/orgs/GHub-fr/projects/1)  
+**Tableaux** : [Liste](https://github.com/orgs/GHub-fr/projects) | [Tableaux ouverts](https://github.com/orgs/GHub-fr/projects?query=is%3Aopen) | [RoadMap](https://github.com/orgs/GHub-fr/projects/1)  
   
   
 @[lx78WyY0J5](https://github.com/lx78WyY0J5) | @[Toi ?](https://github.com/)  
