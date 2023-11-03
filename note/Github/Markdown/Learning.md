@@ -18,4 +18,8 @@ _This text is italicized_
 ~~This was mistaken text~~
 ```
 # Devient :
-![](https://github.com/GHub-fr/.github/blob/main/note/Github/Markdown/exemple.png)
+![Code_exemple](https://github.com/GHub-fr/.github/assets/84735589/4020560a-d73a-4c88-a07f-c7faef53c103)
+
+# Consulter la source
+Vous trouverez en haut ou sur votre editeur de code plusieurs moyens de prévisualiser ou lire la source du fichier
+![image](https://github.com/GHub-fr/.github/assets/84735589/47a78dbd-9f2d-4bfc-8d8d-71384c48c0f4)
