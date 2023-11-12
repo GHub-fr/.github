@@ -19,6 +19,8 @@ Ce fichier peut ensuite être **partagé sur Github** afin d'être **synchronis�
 *This text is italicized*
 ~~This was mistaken text~~
 ```
+![chrome_8Dbf0glley](https://github.com/GHub-fr/.github/assets/84735589/31e99228-46fa-4b86-9e6d-215bc31394e1)
+
 # Devient :
 ![Code_exemple](https://github.com/GHub-fr/.github/assets/84735589/4020560a-d73a-4c88-a07f-c7faef53c103)
 
