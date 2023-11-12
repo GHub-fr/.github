@@ -1,7 +1,9 @@
 ## .github/note/README.md
 ---
 # Sommaire
-TO DO
+**TO DO**
+(Modifier le site pour ajouter une ancre à chaque titre)
+(Faire le sommaire en listant les titres / ancres)
 
 ---
 
