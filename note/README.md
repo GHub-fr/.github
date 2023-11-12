@@ -19,5 +19,4 @@ Les pulls request seront vérifiés puis par la suite validés ou refusés
 Les pages seront affichés en temps réel sur le site via un script
 
 # Markdown to HTML wrapper made in JS
-Dans le site [ghub-fr.github.io](https://ghub-fr.github.io) [[Repo](https://github.com/GHub-fr/GHub-fr.github.io/)] le contenu est transcrit de Markdown (.MD) vers HTML via un script JS  
-Github.com/ [GHub-fr.github.io/src/js/](https://github.com/GHub-fr/GHub-fr.github.io/tree/main/src/js) ▶ [markdown.js](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/js/markdown.js)
+Dans le site [ghub-fr.github.io](https://ghub-fr.github.io) [[Repo](https://github.com/GHub-fr/GHub-fr.github.io/)] le contenu est transcrit de Markdown (.MD) vers HTML via un script JS (Github.com/ [GHub-fr.github.io/src/js/](https://github.com/GHub-fr/GHub-fr.github.io/tree/main/src/js) ➡️ [markdown.js](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/js/markdown.js))
