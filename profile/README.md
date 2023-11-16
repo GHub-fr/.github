@@ -29,7 +29,7 @@
   
 # .github
 **Meta files** : [Repo](https://github.com/GHub-fr/.github) | [Tableau Github](https://github.com/orgs/GHub-fr/projects/6)  
-**Autre** : [Support](https://github.com/GHub-fr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/GHub-fr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/GHub-fr/.github/security/policy) | [Issue template](https://github.com/GHub-fr/.github/tree/main/.github/ISSUE_TEMPLATE) | [Code of conduct](https://github.com/GHub-fr/.github/blob/main/CODE_OF_CONDUCT.md) | [License](https://github.com/GHub-fr/.github/blob/main/LICENSE.md)  
+**Autre** : [Support](https://github.com/GHub-fr/.github/blob/main/SUPPORT.md) | [Contribution](https://github.com/GHub-fr/.github/blob/main/CONTRIBUTING.md) | [Sécurité](https://github.com/GHub-fr/.github/security/policy) | [Issue template](https://github.com/GHub-fr/.github/tree/main/.github/ISSUE_TEMPLATE) | [Code of conduct](https://github.com/GHub-fr/.github/blob/main/CODE_OF_CONDUCT.fr.md) | [License](https://github.com/GHub-fr/.github/blob/main/LICENSE.md)  
 **Note** : [README.md](https://github.com/GHub-fr/.github/blob/main/note/README.md) | [... **SOON**](https://GHub.fr/discord)
   
 <a href=""><img src="https://img.shields.io/github/commit-activity/m/GHub-fr/.github?color=red&style=for-the-badge"></a>
