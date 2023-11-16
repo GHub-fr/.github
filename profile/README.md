@@ -11,11 +11,9 @@
 [github.com/GHub-fr](https://github.com/GHub-fr)  
   
   
-<a href=""><img src="https://img.shields.io/github/stars/GHub-fr?color=red&style=for-the-badge"></a>
-<br>
-<a href=""><img src="https://komarev.com/ghpvc/?username=GHub-fr&color=red&label=%F0%9F%91%80"></a>
-<a href="https://GHub.fr/discord"><img src="https://discordapp.com/api/guilds/1081921426333909072/widget.png"></a>
-<br>
+<a href=""><img src="https://img.shields.io/github/stars/GHub-fr?color=red&style=for-the-badge"></a>  
+<a href=""><img src="https://komarev.com/ghpvc/?username=GHub-fr&color=red&label=%F0%9F%91%80"></a>  
+<a href="https://GHub.fr/discord"><img src="https://discordapp.com/api/guilds/1081921426333909072/widget.png"></a>  
   
 ----
   
