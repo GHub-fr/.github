@@ -5,6 +5,6 @@
 
 Ouvrez des [discussions](https://github.com/orgs/GHub-fr/discussions) pour donner votre avis sur les différents projets
 
-**__Pour modifier un fichier__**, vous devrez créer un [fork (clone)](https://docs.github.com/get-started/quickstart/fork-a-repo), et par la suite une [pull request (suggestion de modification)](https://docs.github.com/pull-requests)
+**Pour modifier un fichier**, vous devrez créer un [fork (clone)](https://docs.github.com/get-started/quickstart/fork-a-repo), et par la suite une [pull request (suggestion de modification)](https://docs.github.com/pull-requests)
 
 Si vous souhaitez discuter en privé d'un problème de sécurité, merci de vous référer à ce README : [.github/SECURITY.md](https://github.com/GHub-fr/.github/blob/main/SECURITY.md)
