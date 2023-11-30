@@ -1,5 +1,6 @@
 ## .github/note/Network/Fibre/README.md
 ---
+
 Sur ce guide on va vous expliquer le fonctionnement basique de la fibre optique
 
 ---
@@ -41,6 +42,8 @@ En France, la terminologie des nœuds de raccordement optique est définie par l
 
 Le 18 novembre 2011, l'ARCEP a publié une synthèse des réponses à sa consultation publique relative aux coûts de déploiement des réseaux [FTTH](https://fr.wikipedia.org/wiki/FTTH) dans laquelle il est question des nœuds de raccordement d'abonnés (NRA et NRO), des points de branchement optique (PBO) et des prises terminales optiques (PTO) présentes chez les abonnés.
 
+![image NRO SFR FTTH](https://epinalinfos.fr/wp-content/uploads/2021/03/d%C3%A91.jpg)
+
 ---
 
 # PB(O) : Point de Branchement Optique [source : fibre.guide](https://fibre.guide/deploiement/pbo)
@@ -59,7 +62,9 @@ Le PBO (Point de Branchement Optique) est un boîtier placé à l'extrémité am
 
 Le point de mutualisation (PM), ou point de flexibilité, est, sur un [réseau FTTH](https://fr.wikipedia.org/wiki/Réseau_FTTH) mutualisable, l'endroit où s'effectue la connexion entre les [fibres optiques](https://fr.wikipedia.org/wiki/Fibre_optique) des différents abonnés (c'est-à-dire de l'opérateur d'immeuble) et les fibres optiques des opérateurs commerciaux. Cette connexion peut être une [soudure](https://fr.wikipedia.org/wiki/Soudage) ou un [brassage](https://fr.wikipedia.org/wiki/Baie_de_brassage).
 
-![image PM](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/PMZ_SFR_%C3%A0_Beauvais.JPG/1280px-PMZ_SFR_%C3%A0_Beauvais.JPG)
+![image PM fermé](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/PMZ_SFR_%C3%A0_Beauvais.JPG/1280px-PMZ_SFR_%C3%A0_Beauvais.JPG)
+
+![image PM ouvert](https://lafibre.info/images/orange_pmz/202203_orange_mise_en_conformite_pmz_12.jpg)
 
 ---
 
@@ -124,6 +129,16 @@ Un connecteur Connecteur ST "Straight Tip" et SC "Switching Connector"
 Il extiste aussi des [fibres optiques plastiques](https://fr.wikipedia.org/wiki/Fibre_optique_plastique) à base de polymères [perfluorés](https://fr.wikipedia.org/wiki/Composé_perfluoré) (principalement le poly-per-fluoro-butényle-vinyl-éther) 
 
 ![image fibre optique plastique](https://upload.wikimedia.org/wikipedia/commons/0/0c/PZOa.png)
+
+---
+
+# PM vs NRO [source : echosdunet.net](https://www.echosdunet.net/reseau-internet/fibre/point-mutualisation#:~:text=Les%20points%20de%20mutualisation%20permettent,desservir%20plusieurs%20points%20de%20mutualisation.)
+
+Les points de mutualisation **(PM) permettent de faire le lien entre le transport optique et l'adressage de la fibre** : vers quelles zones distribuer et raccorder la fibre. 
+
+Chaque **nœud de raccordement constitue le point de départ d'un réseau de transport optique qui va desservir plusieurs** (PM) points de mutualisation.
+
+![image réseau fibre optique](https://www.echosdunet.net/sites/echosdunet.net/files/boucle-locale-optique-mutualis%C3%A9e.png)
 
 ---
 
