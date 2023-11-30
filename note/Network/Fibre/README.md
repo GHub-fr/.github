@@ -121,6 +121,10 @@ Un connecteur "Souriau"
 Un connecteur Connecteur ST "Straight Tip" et SC "Switching Connector"
 ![image connecteur ST et SC](https://upload.wikimedia.org/wikipedia/commons/c/c8/St-sc-fiber-connectors.jpg)
 
+Il extiste aussi des [fibres optiques plastiques](https://fr.wikipedia.org/wiki/Fibre_optique_plastique) à base de polymères [perfluorés](https://fr.wikipedia.org/wiki/Composé_perfluoré) (principalement le poly-per-fluoro-butényle-vinyl-éther) 
+
+![image fibre optique plastique](https://upload.wikimedia.org/wikipedia/commons/0/0c/PZOa.png)
+
 ---
 
 # Source
