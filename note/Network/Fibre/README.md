@@ -33,7 +33,7 @@ Lorsqu'un rayon lumineux entre dans une fibre optique à l'une de ses extrémit�
 
 ---
 
-# NRO : Nœud de raccordement optique [wikipedia.org](https://fr.wikipedia.org/wiki/Nœ3ud_de_raccordement_optique)
+# NRO : Nœud de raccordement optique [wikipedia.org](https://fr.wikipedia.org/wiki/Nœud_de_raccordement_optique)
 
 Le concept est similaire à celui du NRA avec quelques différences.
 
