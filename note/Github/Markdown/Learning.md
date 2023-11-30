@@ -12,24 +12,39 @@ Documentation : [Documentation github](https://docs.github.com/fr/get-started/wr
 # Exemple sur [ghub-fr.github.io](https://ghub-fr.github.io/cours/markdown) : 
 ```
 # A first-level heading
+
 ## A second-level heading
+
 ### A third-level heading
+
 [GitHub Pages](https://pages.github.com/).
+
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 **This is bold text**
+
 *This text is italicized*
+
 ~~This was mistaken text~~
+
+__this text is underlined__
+
+<details>
+<summary>Title</summary>
+
+**text exemple**
+</details>
 ```
 
 ---
 
 # Image du fichier .md
-![Code_exemple](https://github.com/GHub-fr/.github/assets/84735589/31e99228-46fa-4b86-9e6d-215bc31394e1)
+![Code_exemple](https://github.com/GHub-fr/.github/assets/84735589/7e0158fa-4d21-49ab-994a-776103dc66bd)
 
 ---
 
 # Devient sur [Github](https://github.com) :
-![Rendu](https://github.com/GHub-fr/.github/assets/84735589/4020560a-d73a-4c88-a07f-c7faef53c103)
+![Rendu](https://github.com/GHub-fr/.github/assets/84735589/b73d3c31-e47e-4b82-b645-bda036d4c99b)
 
 ---
 
