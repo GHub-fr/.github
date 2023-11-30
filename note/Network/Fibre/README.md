@@ -105,5 +105,24 @@ Lorsqu'il s'agit d'interconnexions de fibre optique, on parle de « jarretière 
 
 ---
 
+# Connecteur de fibre optique [wikipedia.org](https://fr.wikipedia.org/wiki/Connecteur_fibre_optique)
+
+Les connecteurs fibre optique sont des dispositifs normalisés terminant une fibre optique et permettant de la raccorder aux équipements terminaux comme les switchs, les [HBA](https://fr.wikipedia.org/wiki/Contrôleur_hôte_de_bus), les contrôleurs disques ou les librairies de sauvegarde dans un [réseau de stockage SAN](https://fr.wikipedia.org/wiki/Réseau_de_stockage_SAN), ou divers équipements utilisant la fibre optique.
+
+Un connecteur FC/PC
+![image connecteur fibre optique](https://upload.wikimedia.org/wikipedia/commons/4/43/FCPC_002.jpg)
+
+Un connecteur EC "European Connector"
+![image connecteur "European Connector"](https://upload.wikimedia.org/wikipedia/commons/1/1a/Connectique_fibre_optique_EC_%28European_Connector%29.jpg?uselang=fr)
+
+Un connecteur "Souriau"
+![image connecteur Souriau](https://upload.wikimedia.org/wikipedia/commons/8/8d/Connectique_fibre_optique_multimode_Souriau_bis.jpg?uselang=fr)
+
+Un connecteur Connecteur ST "Straight Tip" et SC "Switching Connector"
+![image connecteur ST et SC](https://upload.wikimedia.org/wikipedia/commons/c/c8/St-sc-fiber-connectors.jpg)
+
+---
+
 # Source
+
 Text et référence issues de : [wikipedia.org/wiki/Catégorie:Fibre_optique](https://fr.wikipedia.org/wiki/Catégorie:Fibre_optique), [wikipedia.org/wiki/Nœ3ud_de_raccordement_optique](https://fr.wikipedia.org/wiki/Nœ3ud_de_raccordement_optique), [wikipedia.ord/wiki/Optical_Network_Termination](https://fr.wikipedia.org/wiki/Optical_Network_Termination)
