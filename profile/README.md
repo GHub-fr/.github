@@ -1,4 +1,5 @@
 ## .github/profile/README.md
+---
 <a href="https://GHub.fr"><img src="https://avatars.githubusercontent.com/u/128578613?s=200&v=4" width=100 height=100></a>
 
 
@@ -58,4 +59,4 @@ CMS : @[Azuriom](https://github.com/Azuriom) | [Repo externe](https://github.com
 Discord bot : @[Javacord](https://github.com/Javacord) | [Repo externe](https://github.com/Javacord/Javacord)  
 PaperMC : @[PaperMC](https://github.com/PaperMC) | [Repo externe](https://github.com/PaperMC/Paper)  
 Waterfall : @[PaperMC](https://github.com/PaperMC) | [Repo externe](https://github.com/PaperMC/Waterfall)  
-Github pages : @[Github](https://github.com/github) | [Repo / Archive externe](https://github.com/github/welcome-to-github-and-pages) | [Site](https://pages.github.com/) | [Doc](https://docs.github.com/fr/pages) | [Jekyll plugins](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins) | [404 custom](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)  
+Github pages : @[Github](https://github.com/github) | [README](https://github.com/github/welcome-to-github-and-pages) | [Site](https://pages.github.com/) | [Doc](https://docs.github.com/fr/pages) | [Jekyll plugins](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins) | [404 custom](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)  
