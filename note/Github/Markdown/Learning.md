@@ -5,7 +5,7 @@ Sur ce guide on va vous expliquer le markdown
 **John Gruber a créé Markdown en 2004** en tant que **langage de balisage** facile à lire sous sa forme de code source.  
 Ce fichier peut ensuite être **partagé sur Github** afin d'être **synchronisé et donc le rendre collaboratif**
 
-[Documentation github](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [démarrage rapide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github), [écrire sur github](https://docs.github.com/fr/get-started/writing-on-github), [exemple sur un profil github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+Documentation : [Documentation github](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [démarrage rapide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github), [écrire sur github](https://docs.github.com/fr/get-started/writing-on-github), [exemple sur un profil github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 ---
 
@@ -37,6 +37,8 @@ Ce fichier peut ensuite être **partagé sur Github** afin d'être **synchronis�
 Vous trouverez en haut ou sur votre editeur de code **plusieurs moyens de prévisualiser ou lire la source du fichier**
 ![image](https://github.com/GHub-fr/.github/assets/84735589/47a78dbd-9f2d-4bfc-8d8d-71384c48c0f4)
 
+Liens : [preview Github](https://github.com/GHub-fr/.github/blob/main/note/Github/Markdown/Learning.md), [source Github](https://github.com/GHub-fr/.github/blob/main/note/Github/Markdown/Learning.md?plain=1), [raw Github](https://raw.githubusercontent.com/GHub-fr/.github/main/note/Github/Markdown/Learning.md)
+
 ---
 
 # Utilisation de nos jours
@@ -47,4 +49,4 @@ Néanmoins, les sites Web et projets suivants ont adopté CommonMark / MarkDown�
 ---
 
 # Source
-Text et référence issues de : [wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
+Text et référence issues de : [wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown), [docs.github.com](https://docs.github.com/)
