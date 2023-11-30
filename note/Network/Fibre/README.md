@@ -4,7 +4,7 @@ Sur ce guide on va vous expliquer le fonctionnement basique de la fibre optique
 
 ---
 
-# NRO : Nœud de raccordement optique [wiki](https://fr.wikipedia.org/wiki/Nœ3ud_de_raccordement_optique
+# NRO : Nœud de raccordement optique [wiki](https://fr.wikipedia.org/wiki/Nœ3ud_de_raccordement_optique)
 
 Le concept est similaire à celui du NRA avec quelques différences.
 
