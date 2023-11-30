@@ -144,4 +144,4 @@ Chaque **nœud de raccordement constitue le point de départ d'un réseau de tra
 
 # Source
 
-Text et référence issues de : [wikipedia.org/wiki/Catégorie:Fibre_optique](https://fr.wikipedia.org/wiki/Catégorie:Fibre_optique), [wikipedia.org/wiki/Nœ3ud_de_raccordement_optique](https://fr.wikipedia.org/wiki/Nœ3ud_de_raccordement_optique), [wikipedia.ord/wiki/Optical_Network_Termination](https://fr.wikipedia.org/wiki/Optical_Network_Termination)
+Text et référence issues de : [wikipedia.org/wiki/Catégorie:Fibre_optique](https://fr.wikipedia.org/wiki/Catégorie:Fibre_optique), [echosdunet.net](https://www.echosdunet.net), [fibre.guide](https://fibre.guide)
