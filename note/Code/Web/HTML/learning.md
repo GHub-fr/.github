@@ -49,8 +49,10 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 - ⚠️**Attention aux '** ils permettent de ne pas détecter une balise
 ---
 # Consulter le code d'une page
-[view-source:](view-source:https://doc.ghub.fr/cours/html) (Peut être bloqué car il n'est pas censé être utilisé depuis une page web comme lien) 
-Ce lien permet de charger la **source d'une page** (de la même façon que vous la créerez)
+[view-source:](view-source:https://doc.ghub.fr/cours/html) (Peut être bloqué car il n'est pas censé être utilisé depuis une page web comme lien)  
+Ce lien permet de charger le **code source d'une page** (de la même façon que vous la créerez)
 
-Vous pouvez aussi "inspecter" le code live avec un **clique droit sur la page** (A.K.A "**DevTools**")
+Vous pouvez aussi **inspecter et modifier le code en direct** avec un **clique droit sur la page** (A.K.A "**DevTools**")  
 Il peut changer en fonction de votre navigateur
+
+![d2tl4Oi0I7](https://github.com/GHub-fr/.github/assets/84735589/096b576d-3f49-4761-a132-7963769e28b4)
