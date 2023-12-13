@@ -10,31 +10,19 @@ Documentation : [Documentation github](https://docs.github.com/fr/get-started/wr
 ---
 
 # Exemple sur [ghub-fr.github.io](https://ghub-fr.github.io/cours/markdown) : 
-```
 # A first-level heading
-
 ## A second-level heading
-
 ### A third-level heading
-
 [GitHub Pages](https://pages.github.com/).
-
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
-
 **This is bold text**
-
 *This text is italicized*
-
 ~~This was mistaken text~~
-
 __this text is underlined__
-
 <details>
 <summary>Title</summary>
-
 **text exemple**
 </details>
-```
 
 ---
 
