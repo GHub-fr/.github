@@ -47,3 +47,7 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
   - ```"```	<pre>```& quot ;```</pre> Interprété comme le début et la fin d'une valeur d'attributs
 - ⚠️**Attention aux espaces** il en va de même pour les commentaires
 - ⚠️**Attention aux '** ils permettent de ne pas détecter une balise
+---
+# Consulter le code d'une page
+[view-source:](view-source:https://doc.ghub.fr/cours/html) <a href="view-source:https://doc.ghub.fr/cours/html">Lien</a> Ce lien permet de charger la **source d'une page** (de la même façon que vous la créerez)
+Vous pouvez aussi "inspecter" le code live avec un **clique droit sur la page** (A.K.A "**DevTools**")
