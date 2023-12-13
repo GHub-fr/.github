@@ -20,24 +20,27 @@ HTML est inspiré du [Standard Generalized Markup Language](https://fr.wikipedia
 ---
 
 # Syntaxe de HTML
+---
 ```
 &lt;TITLE&gt;Exemple de titre&lt;/TITLE&gt;
 &lt;p&gt;
 Ceci est une phrase avec un &lt;a HREF=cible.html>hyperlien&lt;/a&gt;.
 Ceci est un paragraphe sans hyperlien.
 &lt;/p&gt;
-&lt;!-- ABC --&gt;
+&lt;!-- Commentaire non visible --&gt;
 &lt;pre&gt; ABC &lt;/pre&gt;
 ```
+---
 ```
 <TITLE>Exemple de titre</TITLE>
 <p>
 Ceci est une phrase avec un <a HREF=cible.html>hyperlien</a>.
 Ceci est un paragraphe sans hyperlien.
 </p>
-<!-- ABC -->
+<!-- Commentaire non visible -->
 <pre> ABC </pre>
 ```
+---
 Cet exemple contient du texte, cinq balises et une référence d’entité :
 
 - **<'TITLE'>** est la balise ouvrante de l’élément TITLE.
@@ -50,7 +53,7 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 - **< !-- {CODE OU COMMENTAIRE} -- >** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
 - **<'pre'>** représente du texte préformaté, généralement écrit avec une police à chasse fixe. Le texte est affiché tel quel, les espaces utilisés dans le document HTML seront retranscrits
 - Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity)
-- ```&```	```&amp;``` Interprété comme le début d'une référence d'entité ou de caractère.
-- ```<```	```&lt;``` Interprété comme le début d'une balise
-- ```>``` ```&gt;``` Interprété comme la fin d'une balise
-- ```"```	```&quot;``` Interprété comme le début et la fin d'une valeur d'attributs
+- ```&```	<pre>```&amp;```</pre> Interprété comme le début d'une référence d'entité ou de caractère.
+- ```<```	<pre>```&lt;```</pre> Interprété comme le début d'une balise
+- ```>``` <pre>```&gt;```</pre> Interprété comme la fin d'une balise
+- ```"```	<pre>```&quot;```</pre> Interprété comme le début et la fin d'une valeur d'attributs
