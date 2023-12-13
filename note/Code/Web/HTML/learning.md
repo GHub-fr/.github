@@ -21,6 +21,7 @@ HTML est inspiré du [Standard Generalized Markup Language](https://fr.wikipedia
 
 # Syntaxe de HTML
 ```
+<pre>
 <!--
 <TITLE>Exemple de HTML</TITLE>
 <p>
@@ -28,6 +29,7 @@ Ceci est une phrase avec un <a HREF=cible.html>hyperlien</a>.
 Ceci est un paragraphe sans hyperlien.
 </p>
 -->
+</pre>
 ```
 Cet exemple contient du texte, cinq balises et une référence d’entité :
 
@@ -38,4 +40,5 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 - - **HREF=cible.html**, l’attribut HREF dont la valeur est cible.html.
 - **<'P'>** est la balise ouvrante de l’élément P. Toutefois, elle est utilisée ici comme s’il s’agissait d’un séparateur de paragraphe, et c’est même ainsi qu’elle est souvent présentée dans les plus anciennes documentations de HTML. Il s’agit de la balise ouvrante du paragraphe dont le contenu est Ceci est un paragraphe où; il n’y a pas d’hyperlien. La balise fermante de l’élément P, qui est optionnelle, est ici omise. L’élément P est implicitement terminé lorsqu’un nouveau paragraphe commence ou que l’élément parent est fermé (cas non présent).
 - Les balises peuvent être indifféremment écrites en minuscules ou majuscules. L’usage des minuscules devient plus courant car XHTML les impose.
-- **< !-- {CODE OU COMMENTAIRE} -- > ** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
+- **<pre>< !-- {CODE OU COMMENTAIRE} -- ></pre>** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
+- **<'pre'>** représente du texte préformaté, généralement écrit avec une police à chasse fixe. Le texte est affiché tel quel, les espaces utilisés dans le document HTML seront retranscrits
