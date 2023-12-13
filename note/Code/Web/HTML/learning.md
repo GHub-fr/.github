@@ -21,15 +21,22 @@ HTML est inspiré du [Standard Generalized Markup Language](https://fr.wikipedia
 
 # Syntaxe de HTML
 ```
-<pre>
-<!--
-<TITLE>Exemple de HTML</TITLE>
+&lt;TITLE&gt;Exemple de titre&lt;/TITLE&gt;
+&lt;p&gt;
+Ceci est une phrase avec un &lt;a HREF=cible.html>hyperlien&lt;/a&gt;.
+Ceci est un paragraphe sans hyperlien.
+&lt;/p&gt;
+&lt;!-- ABC --&gt;
+&lt;pre&gt; ABC &lt;/pre&gt;
+```
+```
+<TITLE>Exemple de titre</TITLE>
 <p>
 Ceci est une phrase avec un <a HREF=cible.html>hyperlien</a>.
 Ceci est un paragraphe sans hyperlien.
 </p>
--->
-</pre>
+<!-- ABC -->
+<pre> ABC </pre>
 ```
 Cet exemple contient du texte, cinq balises et une référence d’entité :
 
@@ -40,5 +47,10 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 - - **HREF=cible.html**, l’attribut HREF dont la valeur est cible.html.
 - **<'P'>** est la balise ouvrante de l’élément P. Toutefois, elle est utilisée ici comme s’il s’agissait d’un séparateur de paragraphe, et c’est même ainsi qu’elle est souvent présentée dans les plus anciennes documentations de HTML. Il s’agit de la balise ouvrante du paragraphe dont le contenu est Ceci est un paragraphe où; il n’y a pas d’hyperlien. La balise fermante de l’élément P, qui est optionnelle, est ici omise. L’élément P est implicitement terminé lorsqu’un nouveau paragraphe commence ou que l’élément parent est fermé (cas non présent).
 - Les balises peuvent être indifféremment écrites en minuscules ou majuscules. L’usage des minuscules devient plus courant car XHTML les impose.
-- **<pre>< !-- {CODE OU COMMENTAIRE} -- ></pre>** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
+- **< !-- {CODE OU COMMENTAIRE} -- >** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
 - **<'pre'>** représente du texte préformaté, généralement écrit avec une police à chasse fixe. Le texte est affiché tel quel, les espaces utilisés dans le document HTML seront retranscrits
+- Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity)
+- ```&```	```&amp;``` Interprété comme le début d'une référence d'entité ou de caractère.
+- ```<```	```&lt;``` Interprété comme le début d'une balise
+- ```>``` ```&gt;``` Interprété comme la fin d'une balise
+- ```"```	```&quot;``` Interprété comme le début et la fin d'une valeur d'attributs
