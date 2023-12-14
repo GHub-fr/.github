@@ -46,7 +46,7 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 ---
 
 # Attention à des fins d'utilisation multiplateforme
-- Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity)
+- Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity) [Liste - html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/named-characters.html)
 ---
 
 ```&```	<pre>```& amp ;```</pre>
