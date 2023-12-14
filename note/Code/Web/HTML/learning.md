@@ -29,7 +29,9 @@ Ceci est un paragraphe sans hyperlien.
 &lt;!-- Commentaire non visible --&gt;
 &lt;pre&gt; ABC &lt;/pre&gt;
 ```
+
 ---
+
 Cet exemple contient du texte, cinq balises et une référence d’entité :
 - **<'TITLE'>** est la balise ouvrante de l’élément TITLE.
 - **<'/TITLE'>** est la balise fermante de l’élément TITLE.
@@ -40,14 +42,38 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 - Les balises peuvent être indifféremment écrites en minuscules ou majuscules. L’usage des minuscules devient plus courant car XHTML les impose.
 - **< !-- {CODE OU COMMENTAIRE} -- >** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
 - **<'pre'>** représente du texte préformaté, généralement écrit avec une police à chasse fixe. Le texte est affiché tel quel, les espaces utilisés dans le document HTML seront retranscrits
+
+---
+
+# Attention à des fins d'utilisation multiplateforme
 - Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity)
-  - ```&```	<pre>```& amp ;```</pre> Interprété comme le début d'une référence d'entité ou de caractère.
-  - ```<```	<pre>```& lt ;```</pre> Interprété comme le début d'une balise
-  - ```>``` <pre>```& gt ;```</pre> Interprété comme la fin d'une balise
-  - ```"```	<pre>```& quot ;```</pre> Interprété comme le début et la fin d'une valeur d'attributs
+---
+
+```&```	<pre>```& amp ;```</pre>
+Interprété comme le début d'une référence d'entité ou de caractère.  
+
+---
+
+```<```	<pre>```& lt ;```</pre>  
+Interprété comme le début d'une balise  
+
+---
+
+```>``` <pre>```& gt ;```</pre>  
+Interprété comme la fin d'une balise  
+
+---
+
+```"```	<pre>```& quot ;```</pre>  
+Interprété comme le début et la fin d'une valeur d'attributs  
+
+---
+
 - ⚠️**Attention aux espaces** il en va de même pour les commentaires
 - ⚠️**Attention aux '** ils permettent de ne pas détecter une balise
+
 ---
+
 # Consulter le code d'une page
 
 ![d2tl4Oi0I7](https://github.com/GHub-fr/.github/assets/84735589/096b576d-3f49-4761-a132-7963769e28b4)
