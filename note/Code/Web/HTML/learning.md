@@ -1,5 +1,3 @@
-## .github/note/Code/Web/CSS/learning.md
----
 Sur ce guide on va vous expliquer le HTML  
 
 HTML (**Hypertext Markup Language** ; "langage de balisage d’hypertexte") dans sa dernière version "HTML5", est le langage de **balisage** conçu pour représenter et structurer [sémantiquement](https://fr.wikipedia.org/wiki/Sémantique) une page web.  
