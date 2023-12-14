@@ -1,5 +1,3 @@
-.github/SUPPORT.md
----
 [GHub.fr/discord](https://GHub.fr/discord)  
 [Profil Discord](https://GHub.fr/contact) du fondateur
 
