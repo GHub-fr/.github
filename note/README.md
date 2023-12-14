@@ -1,5 +1,3 @@
-## .github/note/README.md
----
 # Sommaire
 **TO DO**
 (Modifier le site pour ajouter une ancre à chaque titre)
