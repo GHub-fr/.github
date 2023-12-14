@@ -1,10 +1,11 @@
 <a href="https://GHub.fr"><img src="https://avatars.githubusercontent.com/u/128578613?s=200&v=4" width=100 height=100></a>
 
 
-[GHub.fr](https://GHub.fr) | [/discord](https://GHub.fr/discord)  
+[GHub.fr](https://GHub.fr) | [/discord](https://GHub.fr/discord) | [doc.GHub.fr](https://doc.ghub.fr)  
 
 <a href="https://GHub.fr"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FGHub.fr"></a> [GHub.fr](https://GHub.fr)  
 <a href="https://GHub-fr.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FGHub-fr.github.io"></a> [GHub-fr.github.io](https://GHub-fr.github.io)  
+<a href="https://doc.ghub.fr"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fdoc.ghub.fr"></a> [doc.ghub.fr](https://doc.ghub.fr)  
   
 [github.com/GHub-fr](https://github.com/GHub-fr)  
   
