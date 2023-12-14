@@ -1,6 +1,3 @@
-## .github/note/Network/Fibre/README.md
----
-
 Sur ce guide on va vous expliquer le fonctionnement basique de la fibre optique
 
 ---
