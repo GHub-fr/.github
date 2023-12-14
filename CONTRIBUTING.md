@@ -1,5 +1,3 @@
-## .github/CONTRIBUTING.md
----
 # Guide de contribution
 **Pour contribuer de manière efficace**, vous pouvez consulter la liste des [incidents](https://github.com/GHub-fr/.github/issues) ouverts, ou les [tableaux](https://github.com/orgs/GHub-fr/projects) listant les futurs mises à jour (et incidents pris en charge) afin de rester dans le thème des projets
 
