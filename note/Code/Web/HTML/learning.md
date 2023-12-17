@@ -68,7 +68,7 @@ Interprété comme le début et la fin d'une valeur d'attributs
 ---
 
 - ⚠️**Attention aux espaces** il en va de même pour les commentaires
-- ⚠️**Attention aux '** ils permettent de ne pas détecter une balise
+- ⚠️**Attention aux '** ils permettent de ne pas détecter une balise pour l'affichage du cours
 
 ---
 
