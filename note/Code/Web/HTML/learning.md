@@ -17,6 +17,7 @@ HTML est inspiré du [Standard Generalized Markup Language](https://fr.wikipedia
 - 1997 : HTML 3.2 et 4.0
 - 2000-2006 : [XHTML](https://fr.wikipedia.org/wiki/Extensible_Hypertext_Markup_Language)
 - De 2007 à nos jours : HTML 5 et abandon du XHTML 2
+
 </details>
 
 ---
@@ -48,6 +49,7 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 - Les balises peuvent être indifféremment écrites en minuscules ou majuscules. L’usage des minuscules devient plus courant car XHTML les impose.
 - **< !-- {CODE OU COMMENTAIRE} -- >** est la balise "commentaire" et permet de ne pas exécuter de code ou de laisser une note
 - **<'pre'>** représente du texte préformaté, généralement écrit avec une police à chasse fixe. Le texte est affiché tel quel, les espaces utilisés dans le document HTML seront retranscrits
+
 </details>
 
 ---
@@ -81,12 +83,14 @@ Interprété comme le début et la fin d'une valeur d'attributs
 
 - ⚠️**Attention aux espaces** il en va de même pour les commentaires
 - ⚠️**Attention aux '** ils permettent de ne pas détecter une balise pour l'affichage du cours
+
 </details>
 
 ---
 
 <details>
   <summary>Explication</summary>
+
 # Consulter le code d'une page
 
 ![d2tl4Oi0I7](https://github.com/GHub-fr/.github/assets/84735589/096b576d-3f49-4761-a132-7963769e28b4)
@@ -100,4 +104,5 @@ Vous pouvez aussi **inspecter et modifier le code en direct** avec un **clique d
 Il peut changer en fonction de votre navigateur
 
 ![chrome_Mgov4xW9UC](https://github.com/GHub-fr/.github/assets/84735589/d6272fe4-38a2-426b-941f-218f233d9976)
+
 </details>
