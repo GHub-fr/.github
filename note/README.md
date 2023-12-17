@@ -1,7 +1,5 @@
-# Sommaire
-**TO DO**
-(Modifier le site pour ajouter une ancre à chaque titre)
-(Faire le sommaire en listant les titres / ancres)
+Sur ce guide on va vous expliquer le fonctionnement du site  
+Tout les cours et guides utilisent le markdown en fichier principal
 
 ---
 
