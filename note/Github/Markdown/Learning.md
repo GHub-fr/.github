@@ -45,7 +45,7 @@ Liens : [preview Github](https://github.com/GHub-fr/.github/blob/main/note/Githu
 # Utilisation de nos jours
 Depuis 2019, CommonMark.org a été publié avec des problèmes majeurs qui restent toujours non résolus.
 
-Néanmoins, les sites Web et projets suivants ont adopté CommonMark / MarkDown : Discourse, GitHub, GitLab, Reddit, Qt, Stack Exchange (Stack Overflow) et Swift.
+Néanmoins, les sites Web et projets suivants ont adopté CommonMark / MarkDown : [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), Discourse, [GitHub](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), GitLab, Reddit, Qt, Stack Exchange (Stack Overflow), Swift, et d'autres ...
 
 ---
 
