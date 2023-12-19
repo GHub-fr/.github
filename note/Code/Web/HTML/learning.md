@@ -100,9 +100,9 @@ Il peut changer en fonction de votre navigateur
 
 ---
 
-[Liste MDN des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
-
 ## Exemple
+
+[Liste MDN des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 
 - **<'html'>**	Représente la **racine d'un document HTML**. Tout autre élément du document doit être un descendant de cet élément.
 - **<'head'>**	Fournit des informations générales (**métadonnées**) sur le document, incluant son titre et des liens ou des définitions vers des scripts et feuilles de style.
