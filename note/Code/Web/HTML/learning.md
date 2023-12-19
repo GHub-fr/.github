@@ -31,6 +31,7 @@ Ceci est un paragraphe sans hyperlien.
 
 ---
 
+## Explication
 Cet exemple contient du texte, cinq balises et une référence d’entité :
 - **<'TITLE'>** est la balise ouvrante de l’élément TITLE.
 - **<'/TITLE'>** est la balise fermante de l’élément TITLE.
@@ -44,7 +45,7 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 
 ---
 
-# Attention à des fins d'utilisation multiplateforme
+## Attention à des fins d'utilisation multiplateforme
 
 - Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity) [Liste - html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/named-characters.html)
 ---
@@ -87,3 +88,9 @@ Vous pouvez aussi **inspecter et modifier le code en direct** avec un **clique d
 Il peut changer en fonction de votre navigateur
 
 ![chrome_Mgov4xW9UC](https://github.com/GHub-fr/.github/assets/84735589/d6272fe4-38a2-426b-941f-218f233d9976)
+
+---
+
+# Liste des balises
+
+### TO DO
