@@ -7,7 +7,7 @@ Documentation : [Documentation github](https://docs.github.com/fr/get-started/wr
 
 ---
 
-# Exemple sur [ghub-fr.github.io](https://ghub-fr.github.io/cours/markdown) : 
+# Exemple sur [doc.ghub.fr](https://doc.ghub.fr/cours/markdown) : 
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
