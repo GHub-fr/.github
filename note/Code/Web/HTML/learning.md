@@ -28,7 +28,9 @@ Ceci est un paragraphe sans hyperlien.
 &lt;!-- Commentaire non visible --&gt;
 &lt;pre&gt; ABC &lt;/pre&gt;
 ```
-
+```
+<p>Test code block no display HTML</p>
+```
 ---
 
 ## Explication
@@ -45,10 +47,11 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 
 ---
 
-## Attention à des fins d'utilisation multiplateforme
+### Attention à des fins d'utilisation multiplateforme
+
+Pour des fins d'utilisation multiplateforme (sur le site [doc.ghub.fr](https://doc.ghub.fr))
 
 - Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity) [Liste - html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/named-characters.html)
----
 
 ```&```	<pre>```& amp ;```</pre>
 Interprété comme le début d'une référence d'entité ou de caractère.  
@@ -80,13 +83,25 @@ Interprété comme le début et la fin d'une valeur d'attributs
 
 ![d2tl4Oi0I7](https://github.com/GHub-fr/.github/assets/84735589/096b576d-3f49-4761-a132-7963769e28b4)
 
+(Menu "clique droit" sur Chrome v.100+)
+
+---
+
 [view-source:](view-source:https://doc.ghub.fr/cours/html) (Peut être bloqué car il n'est pas censé être utilisé depuis une page web comme lien)  
-Ce lien permet de charger le **code source d'une page** (de la même façon que vous la créerez)
+
+- Ce lien permet de charger le **code source d'une page** (de la même façon que vous la créerez)
+- Ouvrez le via "clique droit", puis "Afficher le code source"
+- Vous retourne le fichier de base permettant de charger ce site
 
 ![chrome_Zf8S87O7vL](https://github.com/GHub-fr/.github/assets/84735589/aff1b890-46d5-40e1-8f1f-f4a0fb62d3ca)
 
+---
+
 Vous pouvez aussi **inspecter et modifier le code en direct** avec un **clique droit sur la page** (A.K.A "**DevTools**")  
-Il peut changer en fonction de votre navigateur
+
+- Il peut changer en fonction de votre navigateur
+- Ouvrez le via un "clique droit" et "inspecter"
+- Celui là permet de voire et modifier le code du site en temps réel
 
 ![chrome_Mgov4xW9UC](https://github.com/GHub-fr/.github/assets/84735589/d6272fe4-38a2-426b-941f-218f233d9976)
 
@@ -97,6 +112,8 @@ Il peut changer en fonction de votre navigateur
 [MDN Qu'est ce qu'un élément HTML](https://developer.mozilla.org/fr/docs/Glossary/Element)
 
 ![image d'un élément HTML](https://developer.mozilla.org/fr/docs/Glossary/Element/anatomy-of-an-html-element.png)
+
+- __**Liste complète des éléments**__ [sur le MDN Mozilla](https://developer.mozilla.org/fr/docs/Glossary/Element) "mozilla developer network"
 
 ---
 
@@ -114,4 +131,3 @@ Il peut changer en fonction de votre navigateur
 - **<'footer'>**	Représente le pied de page de la section ou de la racine de sectionnement la plus proche. **Un élément <'footer'> contient habituellement des informations sur l'autrice ou l'auteur de la section**, les données relatives au droit d'auteur (copyright) ou les liens vers d'autres documents en relation.
 - **<'header'>**	L'élément HTML **<'header'>** représente du contenu introductif, **généralement un groupe de contenu introductif ou de contenu aidant à la navigation**. Il peut contenir des éléments de titre, mais aussi d'autres éléments tels qu'un logo, un formulaire de recherche, le nom d'auteur, etc.
 - **<'h1'>, <'h2'>, <'h3'>, <'h4'>, <'h5'>, <'h6'>**	Les éléments **<'h1'>** à **<'h6'>** représentent six niveaux de titres dans un document, **<'h1'>** est le plus important et **<'h6'>** est le moins important.
-- Liste complète sur le MDN Mozilla : [lien](https://developer.mozilla.org/fr/docs/Glossary/Element)

@@ -18,6 +18,7 @@ Merci pour ton signalement !
 
 # Créer ou modifier du contenu (PR)
 - __N'hésitez pas à envoyer une **pull request**__, toute aide est la bien venue 👌
+
 ⭕ Même un faute d'orthographe peut passer dans les notes ...
 Et vous pouvez aider, et [rendre votre compte et contributions visibles](https://doc.ghub.fr/github/contributeur) 👑, [voire statistiques](https://doc.ghub.fr/github/statistiques) 📊
 - Les pulls request seront __**vérifiés puis par la suite validés ou refusés**__
@@ -39,7 +40,7 @@ Et de la même manière __**depuis votre éditeur de code (via Git) ou Github en
 
 - [vscode](vscode://) vscode://
 - [github windows](github-windows://) github-windows://
-- [github web](https://github.com)
+- [github.com](https://github.com) website
 - [Calculatrice](calculator://) calculator://
 
 ---
