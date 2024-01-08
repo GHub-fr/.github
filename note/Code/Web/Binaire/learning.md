@@ -30,6 +30,7 @@ Dans ces mémoires, on y stock nos donnés de manière logique, sans quoi, impos
 | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 | 
 |     |    |    |    |   |   |   |   |
 ```
+(Vous pouvez écrire dans les tableaux sur [doc.ghub.fr/cours/binaire](https://doc.ghub.fr/cours/binaire))
 
 - Une case vide ne vaut rien, elle n'ajoute rien au résultat
 - Une case avec un bite stocké rajoute la valeur assigné au résultat
