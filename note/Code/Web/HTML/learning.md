@@ -73,18 +73,19 @@ Vous pouvez aussi **inspecter et modifier le code en direct** avec un **clique d
 
 ---
 
-# Liste des éléments HTML
+# Un éléments HTML ? 😓
 
 [MDN Qu'est ce qu'un élément HTML](https://developer.mozilla.org/fr/docs/Glossary/Element)
 
 ![image d'un élément HTML](https://developer.mozilla.org/fr/docs/Glossary/Element/anatomy-of-an-html-element.png)
 
-- __**Liste complète des éléments**__ [sur le MDN Mozilla](https://developer.mozilla.org/fr/docs/Glossary/Element) "mozilla developer network"
+Exemple d'un élément text **P** avec une class "nice" (Pour appliquer des styles ou sélecteur de code) et comme contenu (et donc text) "Hello world!"
 
 ---
 
 ## Exemple
 
+- __**Liste complète des éléments**__ [sur le MDN Mozilla](https://developer.mozilla.org/fr/docs/Glossary/Element) "mozilla developer network"
 [Liste MDN des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 
 - **html**	Représente la **racine d'un document HTML**. Tout autre élément du document doit être un descendant de cet élément.
