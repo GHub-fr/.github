@@ -21,7 +21,7 @@ Merci pour ton signalement ! :heart:
 Même un faute d'orthographe peut passer dans les notes ...
 Et vous pouvez aider, et [rendre votre compte et contributions visibles](https://doc.ghub.fr/github/contributeur), [voire statistiques](https://doc.ghub.fr/github/statistiques) ! 
 Les pulls request seront __**vérifiés puis par la suite validés ou refusés**__
-[CODE OF CONDUCT.md](https://github.com/GHub-fr/.github/blob/main/CODE_OF_CONDUCT.md) | [GHub-fr/README.md](https://github.com/GHub-fr/.github/blob/main/profile/README.md)
+[CODE OF CONDUCT.md](https://doc.ghub.fr/github/code_of_conduct) | [README.md](https://doc.ghub.fr/github/readme)
 
 ---
 
