@@ -87,13 +87,13 @@ Vous pouvez aussi **inspecter et modifier le code en direct** avec un **clique d
 
 [Liste MDN des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 
-- **<'html'>**	Représente la **racine d'un document HTML**. Tout autre élément du document doit être un descendant de cet élément.
-- **<'head'>**	Fournit des informations générales (**métadonnées**) sur le document, incluant son titre et des liens ou des définitions vers des scripts et feuilles de style.
-- **<'link'>**	Définit la **relation entre le document courant et une ressource externe**. Cet élément peut être utilisé pour définir un lien vers une feuille de style, vers les icônes utilisées en barre de titre ou comme icône d'application sur les appareils mobiles.
-- **<'meta'>**	Représente toute information de métadonnées qui ne peut pas être représentée par un des éléments (**<'base'>, <'link'>, <'script'>, <'style'> ou <'title'>**)
-- **<'style'>**	Contient des informations de **mise en forme** pour un document ou une partie d'un document. Par défaut, les instructions de mise en forme écrites dans cet élément sont écrites en **CSS**.
-- **<'title'>**	L'élément **<'title'>** définit le **titre du document (qui est affiché dans la barre de titre du navigateur ou dans l'onglet de la page)**. Cet élément ne peut contenir que du texte, les balises qu'il contiendrait seraient ignorées.
-- **<'body'>**	Représente le contenu principal du document HTML. **Il ne peut y avoir qu'un élément <'body'> par document.**
-- **<'footer'>**	Représente le pied de page de la section ou de la racine de sectionnement la plus proche. **Un élément <'footer'> contient habituellement des informations sur l'autrice ou l'auteur de la section**, les données relatives au droit d'auteur (copyright) ou les liens vers d'autres documents en relation.
-- **<'header'>**	L'élément HTML **<'header'>** représente du contenu introductif, **généralement un groupe de contenu introductif ou de contenu aidant à la navigation**. Il peut contenir des éléments de titre, mais aussi d'autres éléments tels qu'un logo, un formulaire de recherche, le nom d'auteur, etc.
-- **<'h1'>, <'h2'>, <'h3'>, <'h4'>, <'h5'>, <'h6'>**	Les éléments **<'h1'>** à **<'h6'>** représentent six niveaux de titres dans un document, **<'h1'>** est le plus important et **<'h6'>** est le moins important.
+- **html**	Représente la **racine d'un document HTML**. Tout autre élément du document doit être un descendant de cet élément.
+- **head**	Fournit des informations générales (**métadonnées**) sur le document, incluant son titre et des liens ou des définitions vers des scripts et feuilles de style.
+- **link**	Définit la **relation entre le document courant et une ressource externe**. Cet élément peut être utilisé pour définir un lien vers une feuille de style, vers les icônes utilisées en barre de titre ou comme icône d'application sur les appareils mobiles.
+- **meta**	Représente toute information de métadonnées qui ne peut pas être représentée par un des éléments (**base, link, script, style ou title**)
+- **style**	Contient des informations de **mise en forme** pour un document ou une partie d'un document. Par défaut, les instructions de mise en forme écrites dans cet élément sont écrites en **CSS**.
+- **title**	L'élément **title** définit le **titre du document (qui est affiché dans la barre de titre du navigateur ou dans l'onglet de la page)**. Cet élément ne peut contenir que du texte, les balises qu'il contiendrait seraient ignorées.
+- **body**	Représente le contenu principal du document HTML. **Il ne peut y avoir qu'un élément body par document.**
+- **footer**	Représente le pied de page de la section ou de la racine de sectionnement la plus proche. **Un élément footer contient habituellement des informations sur l'autrice ou l'auteur de la section**, les données relatives au droit d'auteur (copyright) ou les liens vers d'autres documents en relation.
+- **header**	L'élément HTML **header** représente du contenu introductif, **généralement un groupe de contenu introductif ou de contenu aidant à la navigation**. Il peut contenir des éléments de titre, mais aussi d'autres éléments tels qu'un logo, un formulaire de recherche, le nom d'auteur, etc.
+- **h1, h2, h3, h4, h5, h6**	Les éléments **h1** à **h6** représentent six niveaux de titres dans un document, **h1** est le plus important et **h6** est le moins important.
