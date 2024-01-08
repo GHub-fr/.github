@@ -17,7 +17,7 @@ HTML est inspiré du [Standard Generalized Markup Language](https://fr.wikipedia
 
 ---
 
-# Syntaxe de HTML
+# Syntaxe de HTML ✨
 
 ```
 <TITLE>Exemple de titre</TITLE>
@@ -45,7 +45,7 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 
 ---
 
-## Consulter le code d'une page
+## Consulter le code d'une page 🔬
 
 ![d2tl4Oi0I7](https://github.com/GHub-fr/.github/assets/84735589/096b576d-3f49-4761-a132-7963769e28b4)
 
@@ -83,10 +83,10 @@ Exemple d'un élément text **P** avec une class "nice" (Pour appliquer des styl
 
 ---
 
-## Exemple
+## Exemples et listes
 
-- __**Liste complète des éléments**__ [sur le MDN Mozilla](https://developer.mozilla.org/fr/docs/Glossary/Element) "mozilla developer network"
-[Liste MDN des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
+- __**Liste glossaire des éléments**__ [sur le MDN Mozilla](https://developer.mozilla.org/fr/docs/Glossary/Element) "mozilla developer network"
+- Doc [MDN des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 
 - **html**	Représente la **racine d'un document HTML**. Tout autre élément du document doit être un descendant de cet élément.
 - **head**	Fournit des informations générales (**métadonnées**) sur le document, incluant son titre et des liens ou des définitions vers des scripts et feuilles de style.
