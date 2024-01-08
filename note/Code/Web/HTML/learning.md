@@ -45,38 +45,6 @@ Cet exemple contient du texte, cinq balises et une référence d’entité :
 
 ---
 
-### Attention à des fins d'utilisation multiplateforme
-
-Pour des fins d'utilisation multiplateforme (sur le site [doc.ghub.fr](https://doc.ghub.fr))
-
-- Les caractères spéciaux peuvent être remplacés par différents codes [Entité - Glossaire developer.mozilla.org](https://developer.mozilla.org/fr/docs/Glossary/Entity) [Liste - html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/named-characters.html)
-
-```&```	<pre>```& amp ;```</pre>
-Interprété comme le début d'une référence d'entité ou de caractère.  
-
----
-
-```<```	<pre>```& lt ;```</pre>  
-Interprété comme le début d'une balise  
-
----
-
-```>``` <pre>```& gt ;```</pre>  
-Interprété comme la fin d'une balise  
-
----
-
-```"```	<pre>```& quot ;```</pre>  
-Interprété comme le début et la fin d'une valeur d'attributs  
-
----
-
-- ⚠️**Vérifiez la présence des codes vues plus haut** ils permettent de ne pas détecter une balise pour l'affichage du cours
-- ⚠️**Attention aux espaces** il en va de même pour les commentaires, ils bloqueront l'affichage d'une balise
-- ⚠️**Attention aux '** ils permettent de ne pas détecter une balise pour l'affichage du cours
-
----
-
 ## Consulter le code d'une page
 
 ![d2tl4Oi0I7](https://github.com/GHub-fr/.github/assets/84735589/096b576d-3f49-4761-a132-7963769e28b4)
