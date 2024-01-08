@@ -20,17 +20,15 @@ HTML est inspiré du [Standard Generalized Markup Language](https://fr.wikipedia
 # Syntaxe de HTML
 
 ```
-&lt;TITLE&gt;Exemple de titre&lt;/TITLE&gt;
-&lt;p&gt;
-Ceci est une phrase avec un &lt;a HREF=&quot;cible.html&quot;>hyperlien&lt;/a&gt;.
+<TITLE>Exemple de titre</TITLE>
+<p>
+Ceci est une phrase avec un <a HREF="cible.html">hyperlien</a>.
 Ceci est un paragraphe sans hyperlien.
-&lt;/p&gt;
-&lt;!-- Commentaire non visible --&gt;
-&lt;pre&gt; ABC &lt;/pre&gt;
+</p>
+<!-- Commentaire non visible -->
+<pre> AB   C (permet de conserver les espaces)</pre>
 ```
-```
-<p>Test code block no display HTML</p>
-```
+
 ---
 
 ## Explication
