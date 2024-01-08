@@ -78,5 +78,11 @@ Vous pouvez aussi le voire comme une rangé que vous remplissez petit à petit (
 
 Ou encore en décomponsant le calcul en puissance de 2 (Et oui), des divisons, des bouliers "mécanique", ...
 
-# Additionner, soustraire, ... en binaire
+## Additionner, soustraire, ... en binaire
 (Un jour)
+
+# Un octet ?
+
+# Créer du text
+
+# Héxa ?
