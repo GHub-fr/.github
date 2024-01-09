@@ -16,7 +16,7 @@ Merci pour ton signalement !
 - Soit en [créant un fichier](https://github.com/GHub-fr/.github/new/main/note), ou alors en modifiant ceux déjà établis pour les étoffer, comme [Corriger ce README.md](https://github.com/GHub-fr/.github/edit/main/note/README.md)
 - Puis en envoyant votre mise à jour au dépôt Github (Pull request "Demande de tirage") [Demandes en attenantes](https://github.com/GHub-fr/.github/pulls), [créer une PR](https://github.com/GHub-fr/.github/compare) 
 
-# Créer ou modifier du contenu (PR)
+## Créer ou modifier du contenu (PR)
 - __N'hésitez pas à envoyer une **pull request**__, toute aide est la bien venue 👌
 - **Pour modifier un fichier**, vous devrez créer un [fork (clone)](https://docs.github.com/get-started/quickstart/fork-a-repo), et par la suite une [pull request (suggestion de modification)](https://docs.github.com/pull-requests)
 
@@ -46,5 +46,5 @@ Et de la même manière __**depuis votre éditeur de code (via Git) ou Github en
 
 ---
 
-### Markdown to HTML wrapper made in JS
+## Markdown to HTML wrapper made in JS
 Dans le site [ghub-fr.github.io](https://doc.ghub.fr) [[Repo](https://github.com/GHub-fr/GHub-fr.github.io/)] le contenu est transcrit de Markdown (.MD) vers HTML via un script JS (Github.com/ [GHub-fr.github.io/src/js/](https://github.com/GHub-fr/GHub-fr.github.io/tree/main/src/js) ⏩ [markdown.js](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/js/markdown.js))
