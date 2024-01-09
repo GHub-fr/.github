@@ -8,21 +8,21 @@ Nous nous engageons à agir et interagir de manière à contribuer à une commun
 
 ## Nos critères
 
-Exemples de comportements qui contribuent à créer un environnement positif :
+**__Exemples de comportements qui contribuent à créer un environnement positif__** :
 
-* Faire preuve d'empathie et de bienveillance envers les autres
-* Être respectueux des opinions, points de vue et expériences divergents
-* Donner et recevoir avec grâce les critiques constructives
-* Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
-* Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu'individu, mais aussi pour l'ensemble de la communauté
+- Faire preuve d'empathie et de bienveillance envers les autres
+- Être respectueux des opinions, points de vue et expériences divergents
+- Donner et recevoir avec grâce les critiques constructives
+- Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
+- Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu'individu, mais aussi pour l'ensemble de la communauté
 
-Exemples de comportements inacceptables :
+**__Exemples de comportements inacceptables__** :
 
-* L'utilisation de langage ou d'images sexualisés et d'attentions ou d'avances sexuelles de toute nature
-* Le *trolling*, les commentaires insultants ou désobligeants et les attaques personnelles ou d'ordre politique
-* Le harcèlement en public ou en privé
-* La publication d'informations privées d'autrui, telle qu'une adresse postale ou une adresse électronique, sans leur autorisation explicite
-* Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée dans un cadre professionnel
+- L'utilisation de langage ou d'images sexualisés et d'attentions ou d'avances sexuelles de toute nature
+- Le *trolling*, les commentaires insultants ou désobligeants et les attaques personnelles ou d'ordre politique
+- Le harcèlement en public ou en privé
+- La publication d'informations privées d'autrui, telle qu'une adresse postale ou une adresse électronique, sans leur autorisation explicite
+- Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée dans un cadre professionnel
 
 ## Responsabilités d'application
 
