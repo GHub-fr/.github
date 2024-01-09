@@ -24,26 +24,6 @@ __this text is underlined__
 
 ---
 
-# Code fichier .md
-```
-# Exemple sur [doc.ghub.fr](https://doc.ghub.fr/cours/markdown) : 
-# A first-level heading
-## A second-level heading
-### A third-level heading
-[GitHub Pages](https://pages.github.com/).
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-**This is bold text**
-*This text is italicized*
-~~This was mistaken text~~
-__this text is underlined__
-<details>
-<summary>Title</summary>
-**text exemple**
-</details>
-```
-
----
-
 # Image du fichier .md
 ![Code_exemple](https://github.com/GHub-fr/.github/assets/84735589/7e0158fa-4d21-49ab-994a-776103dc66bd)
 
