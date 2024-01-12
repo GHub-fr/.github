@@ -47,10 +47,10 @@ Le 18 novembre 2011, l'ARCEP a publié une synthèse des réponses à sa consult
 
 Le PBO (Point de Branchement Optique) est un boîtier placé à l'extrémité amont du Câblage Client Final où l'on viendra raccorder les prises optiques des clients au réseau fibre optique vertical.
 
-### PBOI – Point de Branchement Optique Intérieur  
+## PBOI – Point de Branchement Optique Intérieur  
 ![image PBOI](https://fibre.guide/wp-content/uploads/2017/10/pboi-300x200.jpg)
 
-### PBOE – Point de Branchement Optique Extérieur  
+## PBOE – Point de Branchement Optique Extérieur  
 ![image PBOE](https://fibre.guide/wp-content/uploads/2018/07/PBOE-275x200.jpg)
 
 ---
