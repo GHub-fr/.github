@@ -1,6 +1,7 @@
-[doc.ghub.fr /discord](https://doc.ghub.fr/discord)
+# Où obtenir du support
+- [doc.ghub.fr/discord](https://doc.ghub.fr/discord)
+- [Contact](https://doc.ghub.fr/admin/contact) du fondateur
 
-[Contact](https://doc.ghub.fr/admin/contact) du fondateur
-
+# Support en cours
 Liste des [incidents / issues](https://doc.ghub.fr/github/issues) ouverts  
 [Discussions github](https://github.com/orgs/GHub-fr/discussions)
