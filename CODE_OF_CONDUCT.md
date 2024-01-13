@@ -1,5 +1,12 @@
 # Code de conduite *Contributor Covenant*
 
+# Fiches
+- [README](https://doc.ghub.fr/github/readme.html)
+- [Contribuer](https://doc.ghub.fr/github/contribuer.html)
+- [Support](https://doc.ghub.fr/github/support.html)
+- [Securitée](https://doc.ghub.fr/github/security.html)
+- [License](https://doc.ghub.fr/github/license.html)
+
 ## Notre engagement
 
 En tant que membres, contributeur·trice·s et dirigeant·e·s, nous nous engageons à faire de la participation à notre communauté une expérience sans harcèlement, quel que soit l'âge, la taille corporelle, le handicap visible ou invisible, l'appartenance ethnique, les caractéristiques sexuelles, l'identité et l'expression de genre, le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence personnelle, la race, la religion, ou l'identité et l'orientation sexuelle.
