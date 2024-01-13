@@ -13,3 +13,11 @@ Github meta data for profil
 - [Tableau](https://github.com/orgs/GHub-fr/projects/6/)
 - [Issues](https://github.com/GHub-fr/.github/issues)
 - [Commits](https://github.com/GHub-fr/.github/commits/main)
+
+# Fiches
+- [README](https://doc.ghub.fr/github/readme.html)
+- [Contribuer](https://doc.ghub.fr/github/contribuer.html)
+- [Support](https://doc.ghub.fr/github/support.html)
+- [Securitée](https://doc.ghub.fr/github/security.html)
+- [License](https://doc.ghub.fr/github/license.html)
+- [Code de conduite](https://doc.ghub.fr/github/code_of_conduct.html)
