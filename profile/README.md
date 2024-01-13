@@ -15,27 +15,31 @@
 ## Discussions : 
 - [Liste](https://github.com/orgs/GHub-fr/discussions) | [Créer une discussion](https://github.com/orgs/GHub-fr/discussions/new) | [Bienvenue !](https://github.com/orgs/GHub-fr/discussions/1)  
 
-## Problèmes / Issues :  
-- [Liste .github](https://github.com/GHub-fr/.github/issues) | [Liste plugin](https://github.com/GHub-fr/plugin/issues) | [Liste bot](https://github.com/GHub-fr/bot/issues) | [Liste server](https://github.com/GHub-fr/server/issues) | [Liste ResourcePack](https://github.com/GHub-fr/resourcePack/issues) | [Liste doc.ghub.fr](https://github.com/GHub-fr/GHub-fr.github.io/issues)  
+## Problèmes / Issues :
 - [Créer un nouveau problème](https://github.com/GHub-fr/.github/issues/new/choose) | [doc.ghub.fr/github/issues](https://doc.ghub.fr/github/issues.html)
+- [Liste .github](https://github.com/GHub-fr/.github/issues) | [Liste plugin](https://github.com/GHub-fr/plugin/issues) | [Liste bot](https://github.com/GHub-fr/bot/issues) | [Liste server](https://github.com/GHub-fr/server/issues) | [Liste ResourcePack](https://github.com/GHub-fr/resourcePack/issues) | [Liste GHub-fr.github.io](https://github.com/GHub-fr/GHub-fr.github.io/issues)
 
 ## Tableaux : 
 - [Liste](https://github.com/orgs/GHub-fr/projects) | [Tableaux ouverts](https://github.com/orgs/GHub-fr/projects?query=is%3Aopen) | [RoadMap](https://github.com/orgs/GHub-fr/projects/1)  
-- [Tableau .github](https://github.com/orgs/GHub-fr/projects/6) | [Tableau plugin](https://github.com/orgs/GHub-fr/projects/3) | [Tableau bot](https://github.com/orgs/GHub-fr/projects/2) | [Tableau server](https://github.com/orgs/GHub-fr/projects/6) | [Tableau resourcePack](https://github.com/orgs/GHub-fr/projects/9) | [Tableau doc.ghub.fr](https://github.com/orgs/GHub-fr/projects/4)
+- [Tableau .github](https://github.com/orgs/GHub-fr/projects/6) | [Tableau plugin](https://github.com/orgs/GHub-fr/projects/3) | [Tableau bot](https://github.com/orgs/GHub-fr/projects/2) | [Tableau server](https://github.com/orgs/GHub-fr/projects/6) | [Tableau resourcePack](https://github.com/orgs/GHub-fr/projects/9) | [Tableau GHub-fr.github.io](https://github.com/orgs/GHub-fr/projects/4)
 
-## Contributeurs
+## Contributeurs :
 - @[lx78WyY0J5](https://github.com/lx78WyY0J5) | @[Toi ?](https://github.com/)  
 - [doc.ghub.fr/github/contributeur](https://doc.ghub.fr/github/contributeur.html)
+
+### Commits :
+- [doc.ghub.fr/github/statistiques](https://doc.ghub.fr/github/statistiques.html)
+- [Commits .github](https://github.com/GHub-fr/.github/commits/main) | [Commits plugin](https://github.com/GHub-fr/plugin/commits/main) | [Commits bot](https://github.com/GHub-fr/bot/commits/main) | [Commits server](https://github.com/GHub-fr/server/commits/main) | [Commits resourcePack](https://github.com/GHub-fr/resourcePack/commits/main) | [Commits GHub-fr.github.io](https://github.com/GHub-fr/GHub-fr.github.io/commits/main)
 
 ----
 
 # Repo
-- **Site** : [Page](https://GHub-fr.github.io) | [Page DNS](https://doc.ghub.fr) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io)
+- **GHub-fr.github.io** : [Page](https://GHub-fr.github.io) | [Page DNS](https://doc.ghub.fr) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io)
 - **Server** : [Repo](https://github.com/GHub-fr/server)
 - **Bot** : [Repo](https://github.com/GHub-fr/bot) | [Latest release](https://github.com/GHub-fr/bot/releases/latest)
 - **Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Latest release](https://github.com/GHub-fr/plugin/releases/latest)
 - **ResourcePack** : [Repo](https://github.com/GHub-fr/resourcePack) | [Latest release](https://github.com/GHub-fr/resourcePack/releases/latest)
-- **.github** : [Repo](https://github.com/GHub-fr/.github) | [Cours repo](https://github.com/GHub-fr/.github/tree/main/note) | [README cours](https://doc.ghub.fr/cours/readme.html)
+- **.github** : [Repo](https://github.com/GHub-fr/.github) | [profile README](https://github.com/GHub-fr/.github/blob/main/profile/README.md) | [Cours repo](https://github.com/GHub-fr/.github/tree/main/note) | [README cours](https://doc.ghub.fr/cours/readme.html)
 
 ---
 
