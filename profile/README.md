@@ -1,12 +1,7 @@
 <a href="https://GHub.fr"><img src="https://avatars.githubusercontent.com/u/128578613?s=200&v=4" width=100 height=100></a>
 
 
-[GHub.fr](https://GHub.fr) | [/discord](https://GHub.fr/discord) | [doc.GHub.fr](https://doc.ghub.fr)  
-
-<a href="https://GHub.fr"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FGHub.fr"></a> [GHub.fr](https://GHub.fr)  
-<a href="https://GHub-fr.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FGHub-fr.github.io"></a> [GHub-fr.github.io](https://GHub-fr.github.io)  
-<a href="https://doc.ghub.fr"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fdoc.ghub.fr"></a> [doc.ghub.fr](https://doc.ghub.fr)  
-  
+[GHub.fr](https://GHub.fr) | [doc.GHub.fr](https://doc.ghub.fr) | [/discord](https://doc.ghub.fr/discord)   
 [github.com/GHub-fr](https://github.com/GHub-fr)  
   
   
@@ -46,8 +41,8 @@
 # Repo
 **Site** : [Page](https://GHub-fr.github.io) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io) | [Tableau](https://github.com/orgs/GHub-fr/projects/4)  
 **Server** : [Repo](https://github.com/GHub-fr/server) | [Tableau](https://github.com/orgs/GHub-fr/projects/6)  
-**Discord** : [Repo](https://github.com/GHub-fr/bot) | [Tableau](https://github.com/orgs/GHub-fr/projects/2)  
-**Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Tableau](https://github.com/orgs/GHub-fr/projects/3)  
+**Discord** : [Repo](https://github.com/GHub-fr/bot) | [Tableau](https://github.com/orgs/GHub-fr/projects/2) | [Latest release](https://github.com/GHub-fr/bot/releases/latest)  
+**Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Tableau](https://github.com/orgs/GHub-fr/projects/3) | [Latest release](https://github.com/GHub-fr/plugin/releases/latest)  
 **ResourcePack** : [Repo](https://github.com/GHub-fr/resourcePack) | [Latest release](https://github.com/GHub-fr/resourcePack/releases/latest)
   
 ----
