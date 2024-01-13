@@ -12,6 +12,10 @@
 ----
   
 # Contribuer
+- Merci de suivre ce guide sur comment [contribuer](https://doc.ghub.fr/github/contribuer.html),  
+- Ainsi que ce [cours sur l'utilisation de Github et du site de documentation](https://doc.ghub.fr/cours/readme.html)  
+- Voici au cas ou le [code de conduite](https://doc.ghub.fr/github/code_of_conduct.html) 👼 ...
+
 ## Discussions : 
 - [Liste](https://github.com/orgs/GHub-fr/discussions) | [Créer une discussion](https://github.com/orgs/GHub-fr/discussions/new) | [Bienvenue !](https://github.com/orgs/GHub-fr/discussions/1)  
 
