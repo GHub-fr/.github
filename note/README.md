@@ -4,7 +4,7 @@ Tout les cours et guides utilisent le markdown en fichier principal
 ---
 
 # Une erreur ? Une issue 😍
-Tu ne sais pas coder ? Déjà prince de signaler une erreur alors la corriger moi même :speak_no_evil:
+Tu ne sais pas coder ? Déjà prince de signaler une erreur alors la corriger moi même 🙊
 - [Ouvrir une issue](https://doc.ghub.fr/github/issues.html) "Problème"
 Merci pour ton signalement ! 
 
