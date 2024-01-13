@@ -4,7 +4,12 @@
 ---
 
 # Outils & liens
-- [README.md](https://doc.ghub.fr/github/readme)
-- Ouvrez des [discussions github](https://github.com/orgs/GHub-fr/discussions) pour donner votre avis sur les différents projets  
+- Ouvrez des [discussions github](https://github.com/orgs/GHub-fr/discussions) pour donner votre avis sur les différents projets
 - Un lien pour un [cours sur l'utilisation du site et Github](https://doc.ghub.fr/cours/readme) et un autre sur le [Markdown](http://doc.ghub.fr/cours/markdown)
-- Lien de sécurité pour parler en privé [SECURITY](https://doc.ghub.fr/github/security)
+
+# Fiches
+- [README](https://doc.ghub.fr/github/readme.html)
+- [Support](https://doc.ghub.fr/github/support.html)
+- [Securitée](https://doc.ghub.fr/github/security.html)
+- [License](https://doc.ghub.fr/github/license.html)
+- [Code de conduite](https://doc.ghub.fr/github/code_of_conduct.html)
