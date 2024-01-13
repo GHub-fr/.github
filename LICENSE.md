@@ -128,8 +128,8 @@ Version 2.0, January 2004
       reproduction, and distribution of the Work otherwise complies with
       the conditions stated in this License.
 
-## 6. 
-      Submission of Contributions. Unless You explicitly state otherwise,
+## 6. Submission of Contributions. 
+      Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
       by You to the Licensor shall be under the terms and conditions of
       this License, without any additional terms or conditions.
