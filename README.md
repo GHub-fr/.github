@@ -9,3 +9,7 @@ Github meta data for profil
 <br>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/GHub-fr/.github?color=red"></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/GHub-fr/.github?color=red"></a>
+
+- [Tableau](https://github.com/orgs/GHub-fr/projects/6/)
+- [Issues](https://github.com/GHub-fr/.github/issues)
+- [Commits](https://github.com/GHub-fr/.github/commits/main)
