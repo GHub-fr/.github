@@ -2,6 +2,13 @@
 [Apache License](apache.org/licenses/)
 Version 2.0, January 2004
 
+# Fiches
+- [README](https://doc.ghub.fr/github/readme.html)
+- [Contribuer](https://doc.ghub.fr/github/contribuer.html)
+- [Support](https://doc.ghub.fr/github/support.html)
+- [Securitée](https://doc.ghub.fr/github/security.html)
+- [Code de conduite](https://doc.ghub.fr/github/code_of_conduct.html)
+
 ## 1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
