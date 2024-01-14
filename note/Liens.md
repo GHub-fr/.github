@@ -1,71 +1,71 @@
 # Gouv
-- https://www.data.gouv.fr/
-- https://filigrane.beta.gouv.fr/
+- [data.gouv.fr](https://www.data.gouv.fr/)
+- [filigrane.beta.gouv.fr](https://filigrane.beta.gouv.fr/)
 
 # Outils
 ## Web
-- https://www.w3schools.com/
-- https://hits.dwyl.com/
+- [w3schools.com](https://www.w3schools.com/)
+- [hits.dwyl.com](https://hits.dwyl.com/)
 
 ## Réseau
-- https://www.wireshark.org/
-- https://npcap.com/
-- https://mxtoolbox.com/
+- [wireshark.org](https://www.wireshark.org/)
+- [npcap.com](https://npcap.com/)
+- [mxtoolbox.com](https://mxtoolbox.com/)
 
 ## Machine learning
-- https://chat.nbox.ai/
-- https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
-- https://thispersondoesnotexist.com/
+- [chat.nbox.ai](https://chat.nbox.ai/)
+- [huggingface.co](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+- [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
 
 ## Status
-- https://www.githubstatus.com/
+- [githubstatus.com](https://www.githubstatus.com/)
 
 ## Comptes
-- https://www.motdepasse.xyz/
-- https://www.mail-jetable.com/
-- https://online-sms.org/fr
+- [motdepasse.xyz](https://www.motdepasse.xyz/)
+- [mail-jetable.com](https://www.mail-jetable.com/)
+- [online-sms.org](https://online-sms.org/fr)
 
 ## Anti malware
-- https://www.virustotal.com/
-- https://www.nomoreransom.org/
+- [virustotal.com](https://www.virustotal.com/)
+- [nomoreransom.org](https://www.nomoreransom.org/)
 ### Phish.report
-- https://phish.report/
-- https://phish.report/analysis
-- https://phish.report/tools/hosting-lookup
+- [phish.report](https://phish.report/)
+  - [/analysis](https://phish.report/analysis)
+  - [/tools/hosting-lookup](https://phish.report/tools/hosting-lookup)
 ### safebrowsing.Google
-- https://safebrowsing.google.com/
-- https://safebrowsing.google.com/safebrowsing/report_phish/?hl=fr
-- https://safebrowsing.google.com/safebrowsing/report_badware/?hl=fr
-### Microsoft 
-- https://www.microsoft.com/en-us/wdsi/threats
-- https://www.microsoft.com/en-us/wdsi/support/report-exploit-guard
-- https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest
-- https://www.microsoft.com/en-us/wdsi/filesubmission
-- https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide
+- [safebrowsing.google.com](https://safebrowsing.google.com/)
+  - [/safebrowsing/report_phish](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=fr)
+  - [/safebrowsing/report_badware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=fr)
+### Microsoft
+- [/wdsi/threats](https://www.microsoft.com/en-us/wdsi/threats)
+- [/wdsi/support/report-exploit-guard](https://www.microsoft.com/en-us/wdsi/support/report-exploit-guard)
+- [/wdsi/support/report-unsafe-site-guest](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest)
+- [/wdsi/filesubmission](https://www.microsoft.com/en-us/wdsi/filesubmission)
+- [/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide)
 
 ## Inutile
-- https://http.cat/
-- https://www.estcequonmetenprodaujourdhui.info/
+- [http.cat](https://http.cat/)
+- [estcequonmetenprodaujourdhui.info](https://www.estcequonmetenprodaujourdhui.info/)
 
 ## URI
-- [Discord app protocol](https://gist.github.com/lx78WyY0J5/29da5f2fee03aa69caff48e9f3df0034)
-- vscode://
-- github-windows://
-- calculator://
-- sms://
-- tel://
-- mailto://
-- ms-settings://
-  - ms-settings:display
-  - ms-settings:clipboard
-  - ms-settings:startupapps
-- chrome://crash/
-  - chrome://inducebrowsercrashforrealz/
-  - chrome://settings/
-  - chrome://dino/
-  - chrome://media-engagement/
-  - chrome://site-engagement/
-  - chrome://discards/
-- ftp://
-- file:///C:/
-- view-source://
+- [Gist : Discord app protocol](https://gist.github.com/lx78WyY0J5/29da5f2fee03aa69caff48e9f3df0034)
+- [VSCode://](vscode://)
+- [Github-Windows://](github-windows://)
+- [calculator://](calculator://)
+- [SMS://](sms://)
+- [Tel://](tel://)
+- [MailTo://](mailto://)
+- [MS-Settings://](ms-settings://)
+  - [ms-settings:Display](ms-settings:display)
+  - [ms-settings:Clipboard](ms-settings:clipboard)
+  - [ms-settings:Startupapps](ms-settings:startupapps)
+- [Chrom crash](chrome://crash/)
+  - [Chrome://Induce browser crash for realz](chrome://inducebrowsercrashforrealz/)
+  - [Chrome://Settings](chrome://settings/)
+  - [Chrome://Dino](chrome://dino/)
+  - [Chrome://Media-Engagement](chrome://media-engagement/)
+  - [Chrome://Site-Engagement](chrome://site-engagement/)
+  - [Chrome://Discards](chrome://discards/)
+- [FTP](ftp://)
+- [File:///C:](file:///C:/)
+- [View-Source://](view-source://)
