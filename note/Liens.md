@@ -13,8 +13,8 @@
 - [wireshark.org](https://www.wireshark.org/)
 - [npcap.com](https://npcap.com/)
 - [mxtoolbox.com](https://mxtoolbox.com/)
-- [Red team field manual](https://github.com//GHub-fr/.github/tree/main/note/RTFM/v1.pdf)
-  - [TRFM v1.1](https://github.com//GHub-fr/.github/tree/main/note/RTFM/v1.1.pdf)
+- [Read The Manual First](https://github.com//GHub-fr/.github/tree/main/note/RTFM/v1.pdf)
+  - [RTFM v1.1](https://github.com//GHub-fr/.github/tree/main/note/RTFM/v1.1.pdf)
 
 ## Machine learning
 - [chat.nbox.ai](https://chat.nbox.ai/)
