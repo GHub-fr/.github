@@ -99,3 +99,9 @@ Exemple d'un élément text **P** avec une class "nice" (Pour appliquer des styl
 - __**header**__	L'élément HTML **header** représente du contenu introductif, **généralement un groupe de contenu introductif ou de contenu aidant à la navigation**. Il peut contenir des éléments de titre, mais aussi d'autres éléments tels qu'un logo, un formulaire de recherche, le nom d'auteur, etc.
 - __**h1, h2, h3, h4, h5, h6**__	Les éléments **h1** à **h6** représentent six niveaux de titres dans un document, **h1** est le plus important et **h6** est le moins important.
 - __**a**__ l'élément **a** permet de créer un lien vers une page web
+
+## Exemples de page HTML
+
+- La page que vous consultez : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/cours/html.html)
+- Le corps de la page "Chiffrement de César" : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/html/content/caesar.html) (chargé via JS), [Page web](https://doc.ghub.fr/outils/caesar.html)
+- Le Header avec les liens : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/html/include/header.html)
