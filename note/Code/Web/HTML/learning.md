@@ -102,6 +102,6 @@ Exemple d'un élément text **P** avec une class "nice" (Pour appliquer des styl
 
 ## Exemples de page HTML
 
-- La page que vous consultez : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/cours/html.html)
+- La page que vous consultez : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/cours/html.html) (pré-charge les pages)
 - Le corps de la page "Chiffrement de César" : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/html/content/caesar.html) (chargé via JS), [Page web](https://doc.ghub.fr/outils/caesar.html)
-- Le Header avec les liens : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/html/include/header.html)
+- Le Header avec les liens : [Code](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/html/include/header.html) (chargé via JS sur les pages requises)
