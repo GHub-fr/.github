@@ -2,6 +2,8 @@
 - [data.gouv.fr](https://www.data.gouv.fr/)
 - [filigrane.beta.gouv.fr](https://filigrane.beta.gouv.fr/)
 
+---
+
 # Outils
 ## Web
 - [w3schools.com](https://www.w3schools.com/)
@@ -25,27 +27,34 @@
 - [mail-jetable.com](https://www.mail-jetable.com/)
 - [online-sms.org](https://online-sms.org/fr)
 
-## Anti malware
+---
+
+# Anti malware
+## Top
 - [virustotal.com](https://www.virustotal.com/)
 - [nomoreransom.org](https://www.nomoreransom.org/)
-### Phish .report
+## Phish .report
 - [phish.report](https://phish.report/)
   - [/analysis](https://phish.report/analysis)
   - [/tools/hosting-lookup](https://phish.report/tools/hosting-lookup)
-### safebrowsing .Google .com
+## safebrowsing .Google .com
 - [safebrowsing.google.com](https://safebrowsing.google.com/)
   - [/safebrowsing/report_phish](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=fr)
   - [/safebrowsing/report_badware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=fr)
-### Microsoft .com
+## Microsoft .com
 - [/wdsi/threats](https://www.microsoft.com/en-us/wdsi/threats)
 - [/wdsi/support/report-exploit-guard](https://www.microsoft.com/en-us/wdsi/support/report-exploit-guard)
 - [/wdsi/support/report-unsafe-site-guest](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest)
 - [/wdsi/filesubmission](https://www.microsoft.com/en-us/wdsi/filesubmission)
 - [/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide)
 
+---
+
 ## Inutile
 - [http.cat](https://http.cat/)
 - [estcequonmetenprodaujourdhui.info](https://www.estcequonmetenprodaujourdhui.info/)
+
+---
 
 ## URI
 - [Gist : Discord app protocol](https://gist.github.com/lx78WyY0J5/29da5f2fee03aa69caff48e9f3df0034)
