@@ -28,15 +28,15 @@
 ## Anti malware
 - [virustotal.com](https://www.virustotal.com/)
 - [nomoreransom.org](https://www.nomoreransom.org/)
-### Phish.report
+### Phish .report
 - [phish.report](https://phish.report/)
   - [/analysis](https://phish.report/analysis)
   - [/tools/hosting-lookup](https://phish.report/tools/hosting-lookup)
-### safebrowsing.Google
+### safebrowsing .Google .com
 - [safebrowsing.google.com](https://safebrowsing.google.com/)
   - [/safebrowsing/report_phish](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=fr)
   - [/safebrowsing/report_badware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=fr)
-### Microsoft
+### Microsoft .com
 - [/wdsi/threats](https://www.microsoft.com/en-us/wdsi/threats)
 - [/wdsi/support/report-exploit-guard](https://www.microsoft.com/en-us/wdsi/support/report-exploit-guard)
 - [/wdsi/support/report-unsafe-site-guest](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest)
