@@ -8,6 +8,10 @@
 ## Web
 - [w3schools.com](https://www.w3schools.com/)
 - [hits.dwyl.com](https://hits.dwyl.com/)
+- [VSCode.dev](https://vscode.dev/)
+- [Cloud.google.com](https://cloud.google.com/shell?hl=fr)
+- [Google Dorks](https://fr.wikipedia.org/wiki/Google_hacking)
+  - [seela.io/blog/google-dorks ...](https://seela.io/blog/google-dorks-trouver-plus-en-cherchant-moins/)
 
 ## Réseau
 - [wireshark.org](https://www.wireshark.org/)
@@ -17,6 +21,9 @@
   - [RTFM v1.1](https://github.com//GHub-fr/.github/tree/main/note/RTFM/v1.1.pdf)
 
 ## Machine learning
+- [chat.openai.com](https://chat.openai.com/)
+  - [platform.openai.com/playground](https://platform.openai.com/playground)
+  - [openai.com/dall-e-2](https://openai.com/dall-e-2)
 - [chat.nbox.ai](https://chat.nbox.ai/)
 - [huggingface.co](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
 - [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
@@ -29,6 +36,13 @@
 - ~~[mail-jetable.com](https://www.mail-jetable.com/)~~ DNS_PROBE_FINISHED_NXDOMAIN
 - [online-sms.org](https://online-sms.org/fr)
 - [mytempsms.com/](https://mytempsms.com/)
+
+# UTF-8
+- [apps.timwhitlock.info/emoji](https://apps.timwhitlock.info/emoji/tables/unicode)
+
+# Text To Speech
+- [fromtexttospeech.com](http://www.fromtexttospeech.com/)
+- [text2speech.org](https://www.text2speech.org/)
 
 ---
 
@@ -56,6 +70,12 @@
 # Inutile
 - [http.cat](https://http.cat/)
 - [estcequonmetenprodaujourdhui.info](https://www.estcequonmetenprodaujourdhui.info/)
+- [Zoomquilt.rog](https://zoomquilt.org/)
+- [theuselessweb.com](https://theuselessweb.com/)
+- [google minesweeper](https://www.google.com/fbx?fbx=minesweeper)
+- [MapsTD.com](https://www.mapstd.com/)
+- [random.org/dice](https://www.random.org/dice/)
+- [checkboxrace.com](https://checkboxrace.com/)
 
 ---
 
