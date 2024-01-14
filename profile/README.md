@@ -9,21 +9,31 @@
 <a href=""><img src="https://komarev.com/ghpvc/?username=GHub-fr&color=red&label=%F0%9F%91%80"></a>  
 <a href="https://GHub.fr/discord"><img src="https://discordapp.com/api/guilds/1081921426333909072/widget.png"></a>  
   
-----
-  
+---
+
+# Repo
+- **GHub-fr.github.io** : [Page](https://GHub-fr.github.io) | [Page DNS](https://doc.ghub.fr) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io)
+- **Server** : [Repo](https://github.com/GHub-fr/server)
+- **Bot** : [Repo](https://github.com/GHub-fr/bot) | [Latest release](https://github.com/GHub-fr/bot/releases/latest)
+- **Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Latest release](https://github.com/GHub-fr/plugin/releases/latest)
+- **ResourcePack** : [Repo](https://github.com/GHub-fr/resourcePack) | [Latest release](https://github.com/GHub-fr/resourcePack/releases/latest)
+- **.github** : [Repo](https://github.com/GHub-fr/.github) | [profile README](https://github.com/GHub-fr/.github/blob/main/profile/README.md) | [Cours repo](https://github.com/GHub-fr/.github/tree/main/note) | [README cours](https://doc.ghub.fr/cours/readme.html)
+
+---
+
 # Contribuer
 - Merci de suivre ce guide sur comment [contribuer](https://doc.ghub.fr/github/contribuer.html),  
 - Ainsi que ce [cours sur l'utilisation de Github et du site de documentation](https://doc.ghub.fr/cours/readme.html)  
 - Voici au cas ou le [code de conduite](https://doc.ghub.fr/github/code_of_conduct.html) 👼 ...
 
-## Discussions : 
+### Discussions : 
 - [Liste](https://github.com/orgs/GHub-fr/discussions) | [Créer une discussion](https://github.com/orgs/GHub-fr/discussions/new) | [Bienvenue !](https://github.com/orgs/GHub-fr/discussions/1)  
 
-## Problèmes / Issues :
+### Problèmes / Issues :
 - [Créer un nouveau problème](https://github.com/GHub-fr/.github/issues/new/choose) | [doc.ghub.fr/github/issues](https://doc.ghub.fr/github/issues.html)
 - [Liste .github](https://github.com/GHub-fr/.github/issues) | [Liste plugin](https://github.com/GHub-fr/plugin/issues) | [Liste bot](https://github.com/GHub-fr/bot/issues) | [Liste server](https://github.com/GHub-fr/server/issues) | [Liste ResourcePack](https://github.com/GHub-fr/resourcePack/issues) | [Liste GHub-fr.github.io](https://github.com/GHub-fr/GHub-fr.github.io/issues)
 
-## Tableaux : 
+### Tableaux : 
 - [Liste](https://github.com/orgs/GHub-fr/projects) | [Tableaux ouverts](https://github.com/orgs/GHub-fr/projects?query=is%3Aopen) | [RoadMap](https://github.com/orgs/GHub-fr/projects/1)  
 - [Tableau .github](https://github.com/orgs/GHub-fr/projects/6) | [Tableau plugin](https://github.com/orgs/GHub-fr/projects/3) | [Tableau bot](https://github.com/orgs/GHub-fr/projects/2) | [Tableau server](https://github.com/orgs/GHub-fr/projects/6) | [Tableau resourcePack](https://github.com/orgs/GHub-fr/projects/9) | [Tableau GHub-fr.github.io](https://github.com/orgs/GHub-fr/projects/4)
 
@@ -34,16 +44,6 @@
 ### Commits :
 - [doc.ghub.fr/github/statistiques](https://doc.ghub.fr/github/statistiques.html)
 - [Commits .github](https://github.com/GHub-fr/.github/commits/main) | [Commits plugin](https://github.com/GHub-fr/plugin/commits/main) | [Commits bot](https://github.com/GHub-fr/bot/commits/main) | [Commits server](https://github.com/GHub-fr/server/commits/main) | [Commits resourcePack](https://github.com/GHub-fr/resourcePack/commits/main) | [Commits GHub-fr.github.io](https://github.com/GHub-fr/GHub-fr.github.io/commits/main)
-
-----
-
-# Repo
-- **GHub-fr.github.io** : [Page](https://GHub-fr.github.io) | [Page DNS](https://doc.ghub.fr) | [Repo](https://github.com/GHub-fr/GHub-fr.github.io)
-- **Server** : [Repo](https://github.com/GHub-fr/server)
-- **Bot** : [Repo](https://github.com/GHub-fr/bot) | [Latest release](https://github.com/GHub-fr/bot/releases/latest)
-- **Plugin** : [Repo](https://github.com/GHub-fr/plugin) | [Latest release](https://github.com/GHub-fr/plugin/releases/latest)
-- **ResourcePack** : [Repo](https://github.com/GHub-fr/resourcePack) | [Latest release](https://github.com/GHub-fr/resourcePack/releases/latest)
-- **.github** : [Repo](https://github.com/GHub-fr/.github) | [profile README](https://github.com/GHub-fr/.github/blob/main/profile/README.md) | [Cours repo](https://github.com/GHub-fr/.github/tree/main/note) | [README cours](https://doc.ghub.fr/cours/readme.html)
 
 ---
 
