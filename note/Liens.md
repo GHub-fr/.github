@@ -26,7 +26,7 @@
 
 ## Comptes
 - [motdepasse.xyz](https://www.motdepasse.xyz/)
-- [mail-jetable.com](https://www.mail-jetable.com/)
+- ~~[mail-jetable.com](https://www.mail-jetable.com/)~~ DNS_PROBE_FINISHED_NXDOMAIN
 - [online-sms.org](https://online-sms.org/fr)
 - [mytempsms.com/](https://mytempsms.com/)
 
