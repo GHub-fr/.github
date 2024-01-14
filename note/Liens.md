@@ -42,6 +42,7 @@
 
 # UTF-8
 - [apps.timwhitlock.info/emoji](https://apps.timwhitlock.info/emoji/tables/unicode)
+- [getEmoji.com](https://getemoji.com/)
 
 # Text To Speech
 - [fromtexttospeech.com](http://www.fromtexttospeech.com/)
