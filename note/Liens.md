@@ -50,13 +50,13 @@
 
 ---
 
-## Inutile
+# Inutile
 - [http.cat](https://http.cat/)
 - [estcequonmetenprodaujourdhui.info](https://www.estcequonmetenprodaujourdhui.info/)
 
 ---
 
-## URI
+# URI
 - [Gist : Discord app protocol](https://gist.github.com/lx78WyY0J5/29da5f2fee03aa69caff48e9f3df0034)
 - [VSCode://](vscode://)
 - [Github-Windows://](github-windows://)
