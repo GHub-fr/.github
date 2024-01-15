@@ -40,11 +40,14 @@
 - [online-sms.org](https://online-sms.org/fr)
 - [mytempsms.com/](https://mytempsms.com/)
 
-# UTF-8
+---
+
+# Autres outils
+## UTF-8
 - [apps.timwhitlock.info/emoji](https://apps.timwhitlock.info/emoji/tables/unicode)
 - [getEmoji.com](https://getemoji.com/)
 
-# Text To Speech
+## Text To Speech
 - [fromtexttospeech.com](http://www.fromtexttospeech.com/)
 - [text2speech.org](https://www.text2speech.org/)
 
