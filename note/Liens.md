@@ -74,7 +74,7 @@
 - [/wdsi/support/report-exploit-guard](https://www.microsoft.com/en-us/wdsi/support/report-exploit-guard)
 - [/wdsi/support/report-unsafe-site-guest](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest)
 - [/wdsi/filesubmission](https://www.microsoft.com/en-us/wdsi/filesubmission)
-- [/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide)
+- [/microsoft-365/security/intelligence/safety-scanner-download](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download)
 
 ---
 
