@@ -40,6 +40,10 @@
 - [online-sms.org](https://online-sms.org/fr)
 - [mytempsms.com/](https://mytempsms.com/)
 
+## Rétro ingénierie
+- [de4dot](https://github.com/de4dot/de4dot) .NET
+- [simple-assembly-explorer](https://github.com/wickyhu/simple-assembly-explorer) Assembly
+
 ---
 
 # Autres outils
