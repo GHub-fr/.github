@@ -32,19 +32,18 @@ Les pages seront affichés en temps réel sur le site via un script
 
 Vous pouvez cliquer sur ce bouton sur le [site](https://doc.ghub.fr/cours/readme) pour modifier un fichier .MD ![chrome_6l3t5ekLJQ](https://github.com/GHub-fr/.github/assets/84735589/a5f5ceb3-8d2f-4437-a4c7-73ae6413a547)  
 
+### Markdown to HTML wrapper made in JS
+Dans le site [doc.ghub.fr](https://doc.ghub.fr) [[Repo](https://github.com/GHub-fr/GHub-fr.github.io/)] le contenu est transcrit de Markdown (.MD) vers HTML via un script JS (Github.com/ [GHub-fr.github.io/src/js/](https://github.com/GHub-fr/GHub-fr.github.io/tree/main/src/js) ⏩ [markdown.js](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/js/markdown.js))
+
 ---
 
-Ou directement depuis [Github](https://github.com) ✌ ![chrome_9LG1sL1Fv4](https://github.com/GHub-fr/.github/assets/84735589/93b3bb7e-0bca-479c-8629-dc141fb2cb63)  
+## Ou depuis [Github.com](https://github.com) ✌
+
+Des boutons en haut et à droite permettent diverses actions sur les repo que vous consultez ![chrome_9LG1sL1Fv4](https://github.com/GHub-fr/.github/assets/84735589/93b3bb7e-0bca-479c-8629-dc141fb2cb63)  
 
 Et de la même manière __**depuis votre éditeur de code (via Git) ou Github en version application mobile / de bureau**__
-("Liens" dans l'entête du site)
 
-- [vscode](vscode://) vscode://
+- [vscode](vscode://) vscode:// URI
+- [vscode.dev](https://vscode.dev) VSCode en ligne
 - [github windows](github-windows://) github-windows://
-- [github.com](https://github.com) website
-- [Calculatrice](calculator://) calculator://
-
----
-
-## Markdown to HTML wrapper made in JS
-Dans le site [ghub-fr.github.io](https://doc.ghub.fr) [[Repo](https://github.com/GHub-fr/GHub-fr.github.io/)] le contenu est transcrit de Markdown (.MD) vers HTML via un script JS (Github.com/ [GHub-fr.github.io/src/js/](https://github.com/GHub-fr/GHub-fr.github.io/tree/main/src/js) ⏩ [markdown.js](https://github.com/GHub-fr/GHub-fr.github.io/blob/main/src/js/markdown.js))
+- [github.com](https://github.com) Github website
