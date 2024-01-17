@@ -30,6 +30,8 @@
 - [chat.nbox.ai](https://chat.nbox.ai/)
 - [huggingface.co](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
 - [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+- [mistral.ai](https://mistral.ai/)
+- [LMStudio.ai](https://lmstudio.ai/)
 
 ## Status
 - [githubstatus.com](https://www.githubstatus.com/)
