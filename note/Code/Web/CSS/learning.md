@@ -26,6 +26,7 @@ Choisir des éléments HTML à traiter à l'aide d'un type d'élément HTML, et 
 ```
 
 ---
+
 ## **Sélecteur**
 Choisir des éléments HTML à traiter à l'aide d'un identificateur ou une classe.
 ```
