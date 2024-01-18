@@ -13,7 +13,7 @@ La feuille de style **CSS** (__**Cascading Style Sheets**__) permet d'améliorer
 # Concepts Cœur de CSS
 ## **Sélecteur**
 Choisir des éléments HTML à traiter à l'aide d'un identificateur ou une classe.
-```css
+```
   .maClass {
     color: red;
   }
@@ -26,7 +26,7 @@ Choisir des éléments HTML à traiter à l'aide d'un identificateur ou une clas
 
 ## **Propriétés**
 Changer l'aspect visuel des éléments sélectionnés.
-```css
+```
 .maClass {
   color: red;
   font-size: 1.5em;
@@ -38,7 +38,7 @@ Changer l'aspect visuel des éléments sélectionnés.
 
 ## **Animations et Transitions**
 Ajouter une transition entre deux états visuels.
-```css
+```
 .maClass {
   animation: my-animation 2s ease;
 }
@@ -53,7 +53,7 @@ Ajouter une transition entre deux états visuels.
 
 ### **Transition**
 Faire une transition douce lors d'un événement.
-```css
+```
 .maClass:hover {
   background-color: blue;
   transition: background-color 1s ease;
@@ -64,7 +64,7 @@ Faire une transition douce lors d'un événement.
 
 ## Sélecteurs Multiples
 Les sélecteurs multiples permettent de s'adresser à plusieurs éléments HTML à la fois. Cela peut être utile pour appliquer des styles similaires à des éléments qui ont une structure semblable dans le HTML.
-```css
+```
 li, p, a, 
 h2, h3 {
   color: blue;
@@ -75,7 +75,7 @@ h2, h3 {
 
 ## Sélecteurs Pseudo-classes
 Les sélecteurs avec les symboles de pseudo-classes :: permettent d'appliquer des styles à des états particuliers de nos éléments. Par exemple, nous pouvons utiliser le hover pour les pointeurs du curseur, active lorsqu'un élément est actif ou focus pour des champs d'entrée.
-```css
+```
 a:hover {
   color: red;
 }
