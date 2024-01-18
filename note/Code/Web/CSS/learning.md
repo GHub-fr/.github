@@ -11,6 +11,21 @@ La feuille de style **CSS** (__**Cascading Style Sheets**__) permet d'améliorer
 ---
 
 # Concepts Cœur de CSS
+## **Syntaxe**
+Choisir des éléments HTML à traiter à l'aide d'un type d'élément HTML, et y attribuer une propriété
+```
+  body {
+    background-color: red;
+  }
+  footer {
+    font-size: 2em;
+  }
+  p, h1 {
+    color: red;
+  }
+```
+
+---
 ## **Sélecteur**
 Choisir des éléments HTML à traiter à l'aide d'un identificateur ou une classe.
 ```
