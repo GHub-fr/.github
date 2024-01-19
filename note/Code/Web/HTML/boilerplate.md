@@ -1,3 +1,5 @@
+# Boilerplate WEB
+## HTML
 ```
 <!DOCTYPE html>
 <html lang="fr">
@@ -27,3 +29,5 @@
   </body>
 </html>
 ```
+## CSS
+## JS
