@@ -46,14 +46,14 @@ Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagn
 ### < p >
  - Balise de paragraphe, utilisée pour définir un texte indépendant dans une page web
 
-### < h1> à <h6 >
+### < h1 > à < h6 >
  - Balises de titre utilisées pour définir les niveaux de titres d'un document HTML, de < h1 > (le plus important) à < h6 > (le moins important)
 
 ## Autre
 ### < img >
  - Balise utilisée pour insérer des images dans un document HTML
 
-### < ul> et <ol >
+### < ul > et < ol >
  - Balises de liste : < ul > (liste non ordonnée) et < ol > (liste ordonnée)
 
 ### < li >
@@ -62,7 +62,7 @@ Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagn
 ### < table >
  - Balise utilisée pour créer des tables dans un document HTML
 
-### < tr> et <td >
+### < tr > et < td >
  - Balises de table : < tr > (ligne) et < td > (cellule)
 
 ## Interfaces
@@ -87,7 +87,7 @@ Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagn
 ### < textarea >
  - Balise utilisée pour créer une zone de texte multiligne dans un formulaire ou une page web
 
-### < audio> et <video >
+### < audio > et < video >
  - Balises utilisées pour ajouter des médias audio et vidéo à un document HTML
 
 ### < source >
