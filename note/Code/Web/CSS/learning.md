@@ -36,6 +36,8 @@ Choisir des éléments HTML à traiter à l'aide d'un identificateur ou une clas
     font-size: 2em;
   }
 ```
+- **un id** s'applique à __un objet unique__ : il ne peut pas y avoir deux mêmes id dans une page
+- **une classe** peut caractériser __plusieurs objets__ (identiques ou non)
 
 ---
 
