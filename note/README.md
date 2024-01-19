@@ -16,6 +16,9 @@ Merci pour ton signalement !
 - Soit en [créant un fichier](https://github.com/GHub-fr/.github/new/main/note), ou alors en modifiant ceux déjà établis pour les étoffer, comme [Corriger ce README.md](https://github.com/GHub-fr/.github/edit/main/note/README.md)
 - Puis en envoyant votre mise à jour au dépôt Github (Pull request "Demande de tirage") [Demandes en attenantes](https://github.com/GHub-fr/.github/pulls), [créer une PR](https://github.com/GHub-fr/.github/compare) 
 
+- [GitHub Pull Request in 100 Seconds - YT - FireShip](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+- [Pull Request et Fork Par la pratique - YT - Thomas Mouchelet](https://www.youtube.com/watch?v=S0aH4kfy87k)
+
 ## Créer ou modifier du contenu (PR)
 - __N'hésitez pas à envoyer une **pull request**__, toute aide est la bien venue 👌
 - **Pour modifier un fichier**, vous devrez créer un [fork (clone)](https://docs.github.com/get-started/quickstart/fork-a-repo), et par la suite une [pull request (suggestion de modification)](https://docs.github.com/pull-requests)
