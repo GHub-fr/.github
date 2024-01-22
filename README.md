@@ -8,7 +8,7 @@
 <a href=""><img src="https://img.shields.io/github/languages/code-size/GHub-fr/.github?color=red"></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/GHub-fr/.github?color=red"></a>
 
-# Liens & Usage
+# Liens & utilité
 - [Note](https://github.com/GHub-fr/.github/tree/main/note) - Utilisé sur [doc.ghub.fr/cours/](https://doc.ghub.fr)...
 - [Profile Github](https://github.com/GHub-fr/.github/tree/main/profile)
 
