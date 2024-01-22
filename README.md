@@ -21,3 +21,7 @@ Github meta data for profil
 - [Securitée](https://doc.ghub.fr/github/security.html)
 - [License](https://doc.ghub.fr/github/license.html)
 - [Code de conduite](https://doc.ghub.fr/github/code_of_conduct.html)
+
+# Autre
+- [Note](https://github.com/GHub-fr/.github/tree/main/note)
+- [Profile Github](https://github.com/GHub-fr/.github/tree/main/profile)
