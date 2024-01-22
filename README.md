@@ -16,6 +16,7 @@
 - [Tableau](https://github.com/orgs/GHub-fr/projects/6/)
 - [Issues](https://github.com/GHub-fr/.github/issues)
 - [Commits](https://github.com/GHub-fr/.github/commits/main)
+- [Discussions](https://github.com/orgs/GHub-fr/discussions)
 
 # Fiches
 - [README](https://doc.ghub.fr/github/readme.html)
