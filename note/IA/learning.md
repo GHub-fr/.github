@@ -20,7 +20,7 @@ Avant de commencer, veuillez vérifier que vous disposez des prérequis suivants
 [Twitter](https://twitter.com/lmstudioai)
 
 # Modèles
-**Les LLM sont modifiés / fournis par [TheBloke](https://huggingface.co/TheBloke)** / [github](https://github.com/TheBloke)
+**Les LLM sont modifiés / fournis par [TheBloke](https://huggingface.co/TheBloke)** ([github](https://github.com/TheBloke))
 
 - [Mixtral 8x7B instruct v0.1](https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF)
 
