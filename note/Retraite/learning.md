@@ -28,12 +28,16 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Régime complémentaire
 - Régime supplémentaire
 
+Chaque régime procède à son propre versement bancaire
+
 ![pyramide-retraite-1](https://github.com/GHub-fr/.github/assets/84735589/123ebc78-f9d6-4507-934c-ebc97f40c812)
 
 ## Régime de base
 - La retraite de base est un régime de **__retraite par trimestre__** (3 mois, 4 trimestres/année).
 - Elle est **__calculée en fonction d’un taux de liquidation, du salaire moyen des 25 meilleures années et du nombre de trimestres validés__** (durée d'assurance).
 - Le taux de calcul de votre retraite dépend de votre âge, de votre situation et de votre durée d’assurance, c’est-à-dire du nombre de trimestres que vous avez acquis. Ce taux varie entre 37,5 et 50 %.
+- Régime général de la sécurité sociale
+- Par répartition
 
 ### Versement
 Une retraite de base versée par l'Assurance retraite du régime général de la Sécurité sociale, est **à terme échu** (ex : **__retraite de mai payée le 10 juin__**)
@@ -41,7 +45,7 @@ Une retraite de base versée par l'Assurance retraite du régime général de la
 ### Taux pleins
 Si vous ne remplissez pas les conditions pour obtenir le taux maximum, votre retraite est calculée avec un taux réduit. Votre retraite subit alors une « décote ». Le pourcentage de réduction dépend de votre âge et de votre durée d’assurance à la date de départ choisie. 
 
-#### Trimestres
+### Trimestres
 Trimestres requis par année de naisance :
 - **__1956 à 1957__** : **166** trimestres (41 années 6 mois), 62 ans.
 - **__1958 à 1960__** : **167** trimestres (41 années 9 mois), 62 ans.
@@ -55,7 +59,13 @@ Trimestres requis par année de naisance :
 - **__1967__** : **172** trimestres (années mois), 63 ans 9 mois.
 - **__À partir de 1968__** : **172** trimestres (années mois), 64 ans.
 
-#### Périodes comptés
+### Valeur d'un trimestre
+1 Trimestre = 200 x SMIC brut / H
+1 trimestre = 2330 € brut
+
+Source : [lassuranceretraite.fr](https://www.lassuranceretraite.fr/portail-info/portail-info/home/actif/montant-retraite/montant-retraite.html)
+
+### Périodes comptés
 Les périodes ci-dessous vous permettent de valider des trimestres : 
 - vos périodes d'activité salariée, salariée agricole, artisanale, commerciale qui ont donné lieu à des cotisations ; 
 - les périodes assimilées à des périodes d'assurance (maladie, maternité, etc.) ; 
@@ -87,9 +97,13 @@ Vous pouvez partir à la retraite avant d'avoir atteint l'âge légal dans les s
 
 ![chrome_IIR89Rj74Z](https://github.com/GHub-fr/.github/assets/84735589/4a6d0833-fca6-4e3a-b8e0-9251016be77e)
 
+Source : [retraitesdeletat.gouv.fr](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-pour-invalidite)
+
 
 ### Départ pour âge légal
 Une fois que vous avez atteint l’âge légal, votre retraite est calculée au taux maximum (aussi appelé « taux plein ») de 50 % si vous réunissez le nombre de trimestres nécessaires. Si ce n’est pas le cas, vous pouvez choisir de continuer à travailler jusqu’à l’atteindre.
+
+Source : [lassuranceretraite.fr](https://www.lassuranceretraite.fr/portail-info/home/actif/age-depart/age-depart-retraite.html)
 
 ### Taux maximum pour âge
 Un autre moyen d’obtenir le taux maximum consiste à retarder votre départ à la retraite jusqu’à l’âge du taux maximum automatique, situé entre 65 et 67 ans selon votre année de naissance.
@@ -108,39 +122,49 @@ Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que s
 - les assurés qui ont validé au moins un trimestre au titre de la majoration de durée d’assurance pour enfant handicapé ; 
 - les assurés qui ont apporté une aide effective en tant que salarié, ou aidant familial, pendant au moins 30 mois à leur enfant bénéficiaire de la prestation de compensation du handicap (PCH). 
 
-### Calcul
+### Calcul de décote
 - [lassuranceretraite.fr estimation retraite](https://www.lassuranceretraite.fr/portail-info/hors-menu/annexe/services-en-ligne/estimation-montant-retraite.html)
 
+(TA x SAM x Taux) / TR
+
+- TA = Trimestres acquis
+- SAM = Salair annuel moyen
+- Taux = 0.5 : 50% Maximum par régime
+- TR = Trimestres requis
 
 ## Régime complémentaire
 - La retraite complémentaire Agirc-Arrco est un régime de **__retraite par points__**. 
 - Comme son nom l'indique, elle **__intervient en complément de la retraite de base__**. Vos cotisations sont converties en points retraite au cours de votre carrière. **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
+- Complète le régime de base, 
+- Par répartition
 
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
 
 ## Régime supplémentaire
 En plus des retraites de base et complémentaires obligatoires, vous pouvez cotiser auprès de régimes d’épargne retraite individuelle (retraite supplémentaire/**surcomplémentaire**). Ces **__cotisations de type assurance sont facultatives__**.
+- Par capitalisation
+- Contractuel
 
-# Aides sous conditions de ressources
+## Aides sous conditions de ressources
 Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
-## Les aides financières pour les familles
+### Les aides financières pour les familles
 - Allocations familiales
 - Prestation d’accueil du jeune enfant (Paje)
 - Allocation de rentrée scolaire (ARS)
 - L’ Allocation Personnalisée d’ Autonomie APA
-## Les aides liées aux transports
+### Les aides liées aux transports
 - Aide SNCF
 - Aides spécifiques à l’Île-de-France
 - Aide au permis de conduire
-## Les aides au logement
+### Les aides au logement
 - L’aide personnalisée au logement (APL)
 - La garantie Loca Pass
 - Garantie Visale
-## Les aides pour les jeunes en alternance ou apprentis
+### Les aides pour les jeunes en alternance ou apprentis
 - L’aide mobili-jeune
 - Les aides régionales
-## Les aides pour les jeunes demandeurs d’emploi
+### Les aides pour les jeunes demandeurs d’emploi
 - La garantie jeunes
 - Le RSA Jeune
 - La prime d’activité
