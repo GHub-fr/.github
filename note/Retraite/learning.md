@@ -76,6 +76,16 @@ Certaines personnes ont droit à une retraite au taux maximum à 65 ans quelle q
 - des assurés qui ont apporté une aide effective, en tant que salarié ou aidant familial pendant au - moins 30 mois, à leur enfant bénéficiaire de la prestation de compensation du handicap ; 
 - des assurés nés du 01/07/1951 au 31/12/1955 qui ont eu ou élevé au moins 3 enfants, ont réduit ou cessé leur activité professionnelle pour élever un de ces enfants et valident un nombre de trimestres minimum avant cette interruption. 
 
+### Retraite Anticipé
+Vous pouvez partir à la retraite avant d'avoir atteint l'âge légal dans les situations suivantes :
+
+- pour [invalidité](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-pour-invalidite) ;
+- pour [carrière longue](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-pour-carriere-longue) ;
+- en qualité de [parent de trois enfants ou d'un enfant atteint d'une infirmité](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-en-qualite-de-parent-de-3-enfants-ou-dun-enfant-atteint-dune-infirmite) ;
+- au titre d'une [infirmité ou d'une maladie incurable](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-si-vous-ou-votre-conjoint-etes-atteint-dune-infirmite-ou-dune-maladie-incurable) ;
+- au titre d'une [incapacité permanente d'au moins 50 %](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-si-vous-etes-atteint-dune-incapacite-permanente-dau-moins-50).
+ 
+
 ### Départ pour âge légal
 Une fois que vous avez atteint l’âge légal, votre retraite est calculée au taux maximum (aussi appelé « taux plein ») de 50 % si vous réunissez le nombre de trimestres nécessaires. Si ce n’est pas le cas, vous pouvez choisir de continuer à travailler jusqu’à l’atteindre.
 
@@ -89,7 +99,17 @@ Un autre moyen d’obtenir le taux maximum consiste à retarder votre départ à
 - **__1954__** : **__66 ans 7 mois__**
 - **__À partir de 1955__** : **__67 ans__**
 
+Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que soit le nombre de trimestres pour : 
+- les titulaires de l’allocation des travailleurs de l’amiante (ATA) ;  
+- les personnes, nées avant 1956, qui ont eu ou élevé au moins 3 enfants, ont réduit ou cessé leur activité pour élever un de ces enfants et ont validé un nombre minimum de trimestres avant cette interruption ou réduction ; 
+- les assurés qui ont interrompu leur activité pour être aidant familial ; 
+- les assurés qui ont validé au moins un trimestre au titre de la majoration de durée d’assurance pour enfant handicapé ; 
+- les assurés qui ont apporté une aide effective en tant que salarié, ou aidant familial, pendant au moins 30 mois à leur enfant bénéficiaire de la prestation de compensation du handicap (PCH). 
+
 ### Calcul
+- [lassuranceretraite.fr estimation retraite](https://www.lassuranceretraite.fr/portail-info/hors-menu/annexe/services-en-ligne/estimation-montant-retraite.html)
+
+
 
 
 ## Régime complémentaire
