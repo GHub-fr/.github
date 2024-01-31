@@ -84,7 +84,9 @@ Vous pouvez partir à la retraite avant d'avoir atteint l'âge légal dans les s
 - en qualité de [parent de trois enfants ou d'un enfant atteint d'une infirmité](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-en-qualite-de-parent-de-3-enfants-ou-dun-enfant-atteint-dune-infirmite) ;
 - au titre d'une [infirmité ou d'une maladie incurable](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-si-vous-ou-votre-conjoint-etes-atteint-dune-infirmite-ou-dune-maladie-incurable) ;
 - au titre d'une [incapacité permanente d'au moins 50 %](https://retraitesdeletat.gouv.fr/actif/lage-de-depart/la-retraite-anticipee#le-depart-anticipe-si-vous-etes-atteint-dune-incapacite-permanente-dau-moins-50).
- 
+
+![chrome_IIR89Rj74Z](https://github.com/GHub-fr/.github/assets/84735589/4a6d0833-fca6-4e3a-b8e0-9251016be77e)
+
 
 ### Départ pour âge légal
 Une fois que vous avez atteint l’âge légal, votre retraite est calculée au taux maximum (aussi appelé « taux plein ») de 50 % si vous réunissez le nombre de trimestres nécessaires. Si ce n’est pas le cas, vous pouvez choisir de continuer à travailler jusqu’à l’atteindre.
