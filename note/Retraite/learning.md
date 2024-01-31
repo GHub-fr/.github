@@ -25,6 +25,8 @@ Par [Censure], via la formation [Censure] chez [Censure]
 - Régime complémentaire
 - Régime supplémentaire
 
+![pyramide-retraite-1](https://github.com/GHub-fr/.github/assets/84735589/123ebc78-f9d6-4507-934c-ebc97f40c812)
+
 ## Régime de base
 - La retraite de base est un régime de **__retraite par trimestre__** (3 mois, 4 trimestres/année).
 - Elle est **__calculée en fonction d’un taux de liquidation, du salaire moyen des 25 meilleures années et du nombre de trimestres validés__** (durée d'assurance).
