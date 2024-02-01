@@ -336,7 +336,7 @@ Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les __**pourboires**__.
 
 ## Régime supplémentaire
-En plus des retraites de base et complémentaires obligatoires, vous pouvez cotiser auprès de régimes d’épargne retraite individuelle (retraite supplémentaire/**surcomplémentaire**). Ces **__cotisations de type assurance sont facultatives__**.
+En plus des retraites de base et complémentaires obligatoires, vous pouvez cotiser auprès de régimes d’épargne retraite individuelle (retraite supplémentaire / **surcomplémentaire**). Ces **__cotisations de type assurance sont facultatives__**.
 - Par capitalisation
 - Contractuel
 
