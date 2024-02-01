@@ -77,6 +77,8 @@ Chaque régime procède à son propre versement bancaire
 - IRCEC (artistes-auteurs d'oeuvres originales) 
 - CAVIMAC (cultes) 
 
+---
+
 ## Régime de base
 - La retraite de base est un régime de **__retraite par trimestre__** (3 mois, 4 trimestres/année).
 - Elle est **__calculée en fonction d’un taux de liquidation, du salaire moyen des 25 meilleures années et du nombre de trimestres validés__** (durée d'assurance).
