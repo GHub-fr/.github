@@ -23,6 +23,14 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 ---
 
+## Lexique
+- GRC : Gestion relation client
+- RCR : Réseau conseil retraite
+- Part salariale : 
+- Part patronale :
+
+---
+
 # Régimes
 - Régime de base
 - Régime complémentaire
@@ -224,6 +232,10 @@ Les points Arrco ont été repris à l’identique et sont devenus des points Ag
 Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-Arrco.
 
 ### Calcul des points
+- [agirc-arrco.fr - Points de retraite, comment sont-ils obtenus](https://www.agirc-arrco.fr/ma-retraite/comprendre-ma-retraite/points-de-retraite-comment-sont-ils-obtenus/)
+- [agirc-arrco.fr - Points de retraite et événements de la carrière](https://www.agirc-arrco.fr/ma-retraite/comprendre-ma-retraite/points-de-retraite-et-evenements-de-la-carriere/)
+
+
 - __**PAA**__ = (SAB x TC) / SR
 - __**Montant annuel**__ = PAA * VPAA
 - __**Montant mensuel**__ = € annuel / 12
@@ -237,7 +249,7 @@ De 1 à 46 368 euros par an__)
 De 46 368 à 370 944 euros par an__)
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
-__VPAA__ = Valeur point Agirc-Arrco (1.4159)
+__VPAA__ = Valeur point Agirc-Arrco (1.4159 : 2023)
 - __PASS__ = Plafond annuel de la sécurité sociale (46'368€)
 - PASS * 8 = 370'944 €
 
