@@ -47,6 +47,7 @@ Il collabore avec le front-office, responsable des activités qui génèrent du 
 - **__TTC__** : Thème type complément  
 ou toutes taxes comprises
 - **__PCC__** : Période de carrière à compléter
+- **__PEC__** : Prise en charge
 - **__RCV__** : reconstitution carrière à valider
 - **__[RGPD](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)__** : Le règlement général sur la protection des données  
 ~ RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation  
@@ -357,45 +358,78 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - La prime d’activité
 
 ## Bilans et rendez-vous
+
 ### __**EIR**__ : Entretien information retraite  
 - 25 ans & +  
 - Informations pré / futur retraités  
 - 1 EIR max tout les 6 mois  
 - Moins de ~ 10 trous de carrière  
 - Aucune modification / réctification en cours
+
 ### **__BR__** : Bilan retraite  
 - 57 ans et +  
 - Deux ans avant le départ en retraite
+
 ### **__VR__** : Vérification carrière  
 - 25 ans à 57 ans
+
 ### __**IR**__ : Informations retraite  
 - 45 ans à 57 ans
+
 ### **__CR__** : Conseil retraite  
 - 45 ans  
 - permet de recomposer les trous de carrière
+
 ### **__événementiel__** :  
 - 45 ans à 62 ans  
 - lors de salons ou rendez-vous
+
 ### **__RIS__** : Relevé individuel de situation
 - Ce document vous est envoyé automatiquement tous les 5 ans  
 - à partir de 35 ans  
 - Par mail, courrier postal, ou espace Agirc-Arrco
+
 ### **__EIG__** : Estimation individuelle global  
 - votre résumé de vie professionnelle  
 - ce document, envoyé automatiquement par votre caisse de retraite l'année de vos 55 ans  
 - vous indique le montant estimatif de votre pension de retraite  
 - Ensuite, ce document vous sera envoyé tous les 5 ans jusqu'à votre départ à la retraite.
+
 ### **__RAP__** : relevé actualisé de points
 - récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
 - Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
 
 ## Liste d'applications
-### **__[M@arel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)__** : Simulateur de retraite  
-### **__GED__** : Vision miroir
-### __**GEDI**__ : ...
-### **__[Gesica](https://www.gesica.org/fr/outils/)__** : ...
+
+### [M@arel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)
+- Simulateur de retraite  
+
+### GED
+- Vision miroir
+- Permet de visualiser les PJ (pièces jointes), les modifiers
+- réaliser des révisions de carrière
+- Aide navigation
+- Compte ESAA bloqué
+
+### GEDI
+
+### Gesica
+- [lien](https://www.gesica.org/fr/outils/)
+- Envoie de RIS, EIG, RAP, etc...  
+[Bilans et rendez-vous](https://doc.ghub.fr/cours/retraite#Bilans_et_rendez-vous)
+- Combler les trous de carrière
+- Modification et lecture
+
+### SCL
+- Engagement et liquidation de dossier retraite
+
+### ESAA
+- Site web
+- Connexion via France Connect
+- Connexion via compte Agirc-Arrco : Carte identité (Titre de séjour non valide)
 
 ## Gestion de la Relation Client
+
 ### Définition
 La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
 
@@ -424,9 +458,12 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ~ Signalez la raison de la mise en attente  
 ~ **__3 minutes maximum__**, à la fin des quelles vous devrez reprendre l'appel, et si besoin remettre en attente de la même manière
 - Conclusion
-~ ...
+~ Résumer les actions effectués ou que le client devra réaliser
 - Clôture
-~ ...
+~ Proposer l'utilisation de l'espace Agirc-Arrco en ligne sécurisé
+- Prise de congé
+
+Si l'utilisateur qui appel n'est pas le client mais une tierce personne, vous devrez aussi prendre ses informations (à l'exception du NIR) et son n° de téléphone en cas d'erreur
 
 ### écoute active
 L'écoute active **vous invite à saisir et répondre ou intervenir sur chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
