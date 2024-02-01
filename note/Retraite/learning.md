@@ -46,6 +46,9 @@ Il collabore avec le front-office, responsable des activités qui génèrent du 
 ou toutes taxes comprises
 - **__PCC__** : Période de carrière à compléter
 - **__RCV__** : reconstitution carrière à valider
+- **__[RGPD](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)__** : Le règlement général sur la protection des données  
+~ RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation  
+~ Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
 - **__Part salariale__** : la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
 - __**Part patronale**__ : contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
 - Assiette des cotisations : [doc.ghub.fr/cours/retraite#Assiette_des_cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
@@ -388,7 +391,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - **__[M@arel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)__** : Simulateur de retraite  
 - **__GED__** : Vision miroir
 - __**GEDI**__ : 
-- **__Gesica__** : 
+- **__[Gesica](https://www.gesica.org/fr/outils/)__** : 
 
 ## Gestion de la Relation Client
 La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
