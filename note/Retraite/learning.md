@@ -543,5 +543,5 @@ L’un des points essentiels pour personnaliser votre relation client est de ré
 **__Les clients apprécient la rapidité et l’efficacité du service__**.  Mettez en place des mesures pour optimiser le temps d’attente, comme la mise en place d’un système de rappel ou la gestion proactive des files d’attente.  
 De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter les clients concernés et de résoudre leurs problèmes rapidement.
 
-#### DIVA
+### DIVA
 ...
