@@ -187,7 +187,7 @@ Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que s
 
 12528 **/ 12 = 1044€ mensuel**
 
-### Calcul coefficient de décote
+### Calcul coefficient de décote : Abattement
 - Coefficient de décote = **nombre de __trimestres manquants__ x __taux de décote par trimestre__**
 - Taux de décote par année d'ouverture
 des droits au départ à la retraite
