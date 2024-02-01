@@ -18,7 +18,7 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 ## Liens utiles
 
-- [Censure](https://Censure)
+- [Censure](https://Censure) *site public de l'entreprise*
 - [malakoffhumanis.com qu'est ce que la retraite de base et la retraite complementaire](https://www.malakoffhumanis.com/faq/contents/qu-est-ce-que-la-retraite-de-base-et-la-retraite-complementaire) 
 
 ---
