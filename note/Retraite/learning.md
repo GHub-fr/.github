@@ -32,6 +32,50 @@ Chaque régime procède à son propre versement bancaire
 
 ![pyramide-retraite-1](https://github.com/GHub-fr/.github/assets/84735589/123ebc78-f9d6-4507-934c-ebc97f40c812)
 
+# Liste de caisse
+## Organismes de retraite des salariés
+- CNAV (Régime général de la sécurité sociale) 
+- MSA (Mutualité Sociale Agricole)
+- ARRCO
+- AGIRC
+- IRCANTEC (Institution de Retraite Complémentaire des Agents Non Titulaires de l'Etat et des Collectivités publiques)
+- Banque de France
+- Retraite des Mines
+- CNIEG (Gaz-électricité) 
+- CRPCF (Comédie française) 
+- CRPCEN (clercs et employés de notaires) 
+- CRPN (Caisse de retraite du personnel navigant professionnel de l'aéronautique civile)
+- ENIM (marins)
+- Opéra de Paris
+- Port autonome de Strasbourg
+- RATP
+- SNCF
+
+## Organismes de retraite des fonctionnaires et ouvriers de l'Etat
+- CNRACL (Caisse Nationale de retraites des Agents des Collectivités Locales) 
+- RAFP (Régime Additionnel de la Fonction Publique) 
+- FSPOEIE (Fonds Spécial des Ouvriers des Etablissements de l'Etat)
+
+ 
+## Organismes de retraite des Non-salariés
+- MSA (Mutualité Sociale Agricole) 
+- RSI (Régime Social des Indépendants) 
+- CNAVPL (Caisse Nationale d'Assurance Vieillesse des Professions Libérales) 
+- CAVOM (officiers ministériels) 
+- CARMF (médecins) 
+- CARCD (dentistes)
+- CAVP (pharmaciens) 
+- CARSAF (sages-femmes) 
+- CARPIMKO (infirmiers, kinésithérapeutes) 
+- CARPV (vétérinaires) 
+- CAVAMAC(agents d'assurance) 
+- CAVEC (experts comptables) 
+- CIPAV (architectes et autres professions libérales) 
+ -CRN (notaires) 
+- CNBF (avocats) 
+- IRCEC (artistes-auteurs d'oeuvres originales) 
+- CAVIMAC (cultes) 
+
 ## Régime de base
 - La retraite de base est un régime de **__retraite par trimestre__** (3 mois, 4 trimestres/année).
 - Elle est **__calculée en fonction d’un taux de liquidation, du salaire moyen des 25 meilleures années et du nombre de trimestres validés__** (durée d'assurance).
