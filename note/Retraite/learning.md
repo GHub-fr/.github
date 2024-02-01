@@ -213,6 +213,14 @@ des droits au départ à la retraite
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
 
+### Fusion Agirc & Arrco
+Depuis le __**1er janvier 2019**, vous obtenez des points Agirc-Arrco__. **Si vous étiez __salarié avant cette date__, vous aviez des points Arrco** et, le **cas échéant, des points Agirc**. **__L’ensemble des points obtenus auprès des régimes Agirc et Arrco ont été intégralement repris par le régime Agirc-Arrco__**.
+
+Les points Arrco ont été repris à l’identique et sont devenus des points Agirc-Arrco.
+1 point de retraite Arrco = 1 point de retraite Agirc-Arrco
+
+Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-Arrco.
+
 ### Calcul des points
 - __**PAA**__ = (SAB x TC) / SR
 - __**Montant annuel**__ = PAA * VPAA
