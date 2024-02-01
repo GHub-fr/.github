@@ -35,7 +35,7 @@ rassemble plusieurs organismes contrôlés et gérés par les partenaires sociau
 - **__IRC__** : Institution de retraite complémentaire
 - **__ASPA__** : Allocation de solidarité aux personnes âgées
 - **__ESAA__** : Espace sécurisé Agirc Arrco  
-[espace-personnel.agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
+[espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
 - **__IA__** : Informations aux actifs
 - **__DSN__** : Déclaration sociale nominative
 - **__BRC__** : Bureau retraite complémentaire
@@ -54,13 +54,13 @@ ou toutes taxes comprises
 ~ Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
 - **__Part salariale__** : la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
 - __**Part patronale**__ : contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
-- Assiette des cotisations : [doc.ghub.fr/cours/retraite#Assiette_des_cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
+- Assiette des cotisations : [#Assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
 - **__Minoration__** : Réduction d'une valeurs
 - __**Majoration**__ : Augmentation d'une valeurs
 - __**Aidant familial**__ : une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
 - __**Plafond de la sécurité sociale**__ : Valeur maximum pour limiter un calcul
 - **__Décote__** : réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
-[doc.ghub.fr/cours/retraite#Calcul_de_décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
+[#Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
 - __**Abattement**__ : Rabais sur une somme à payer
 - __**Coefficient**__ : Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
 - __**Taux plein**__ : retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
