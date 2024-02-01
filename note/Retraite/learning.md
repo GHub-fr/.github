@@ -24,6 +24,8 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ---
 
 ## Lexique
+- **_Arrco_** : pour l'ensemble des salariés
+- **__Agirc__** : si vous êtes ou avez été cadre
 - __**GRC**__ : Gestion relation client
 - __**RCR**__ : Réseau conseil retraite
 - **__GPS__** : Groupe de protection sociale  
@@ -349,16 +351,33 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 
 ### Bilans et rendez-vous
 - __**EIR**__ : Entretien information retraite  
-25 ans & +  
-Informations pré retraite
+~ 25 ans & +  
+~ Informations pré / futur retraités  
+~ 1 EIR max tout les 6 mois  
+~ Moins de ~ 10 trous de carrière  
+~ Aucune modification / réctification en cours
 - **__BR__** : Bilan retraite  
-57 ans et +  
-Deux ans avant le départ en retraite
+~ 57 ans et +  
+~ Deux ans avant le départ en retraite
 - **__VR__** : Vérification carrière  
-25 ans à 57 ans
+~ 25 ans à 57 ans
 - __**IR**__ : Informations retraite  
-45 ans à 57 ans
+~ 45 ans à 57 ans
 - **__CR__** : Conseil retraite  
-45 ans  
-permet de recomposer les trous de carrière
-- **__événementiel__** : 45 ans à 62 ans, lors de salons ou rendez-vous
+~ 45 ans  
+~ permet de recomposer les trous de carrière
+- **__événementiel__** :  
+~ 45 ans à 62 ans  
+~ lors de salons ou rendez-vous
+- **__RIS__** : Relevé individuel de situation
+~ Ce document vous est envoyé automatiquement tous les 5 ans  
+~ à partir de 35 ans  
+~ Par mail, courrier postal, ou espace Agirc-Arrco
+- **__EIG__** : Estimation individuelle global  
+~ votre résumé de vie professionnelle  
+~ ce document, envoyé automatiquement par votre caisse de retraite l'année de vos 55 ans  
+~ vous indique le montant estimatif de votre pension de retraite  
+~ Ensuite, ce document vous sera envoyé tous les 5 ans jusqu'à votre départ à la retraite.
+- **__RAP__** : relevé actualisé de points
+~ récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
+~ Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
