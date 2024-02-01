@@ -404,6 +404,23 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 - Commencer une [écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
 
 ### écoute active
-L'écoute active **vous invite à saisir chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
+L'écoute active **vous invite à saisir et répondre ou intervenir sur chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
 
 Cette façon de communiquer permet de créer un **climat de confiance** avec votre interlocuteur. Ainsi, il se sent libre de s'exprimer comme il l'entend, sans jugement de votre part.
+
+1. Ne pas interrompre son interlocuteur
+La première étape de l'écoute bienveillante consiste à laisser votre interlocuteur s'exprimer clairement et librement. Cela suppose que vous ne devez pas l'interrompre. En effet, il nous arrive souvent de couper la parole à notre interlocuteur pour lui faire savoir que l'on a compris. Erreur à éviter absolument. Vous devez également au-delà du message verbal. Par exemple, interprétez les gestes comme les tics, le débit rapide ou le regard fuyant.
+
+2. S'adapter à sa personnalité
+Pour que l'autre ait pleinement confiance en vous, essayez de calquer votre mode de communication sur le sien. En effet, en reprenant sa façon de parler, ses tics de langage, ses temps de silence, votre partenaire se sentira plus à l'aise.
+
+3. L'inciter à approfondir son propos
+Lorsqu'il a fini de s'exprimer, essayez d'avoir davantage d'approfondissements de sa part. Questionnez votre interlocuteur si vous n'êtes pas certain.e d'avoir compris ses pensées. Faites tout de même attention à ne pas avancer des solutions ou des avis. L'idée est de l'inviter à exposer avec précision ses points de vue.
+
+4. Faire preuve de disponibilité
+L'autre clé de l'écoute active c'est de savoir reformuler le message partagé par votre interlocuteur. Cela permet de faire preuve de votre disponibilité, physiquement et temporellement, vis-à-vis de l'autre. En reformulant ce qu'il a dit, vous démontrez que vous êtes en plein dans la conversation. Il en résulte une relation apaisée.
+
+5. Être patient
+Évitez de faire preuve d'impatience comme si vous voulez en finir au plus vite pour la discussion. Il ne faut pas laisser paraître une quelconque marque de frustration ou d'impatience. Aussi vous devez vous abstenir des gestes qui risquent de déconcerter l'interlocuteur : soupir bruyant, regard perdu au plafond, etc.
+
+source : [cegos.fr](https://www.cegos.fr/ressources/mag/efficacite-professionnelle-3/quest-ce-que-lecoute-active)
