@@ -346,3 +346,19 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - La garantie jeunes
 - Le RSA Jeune
 - La prime d’activité
+
+### Bilans et rendez-vous
+- __**EIR**__ : Entretien information retraite  
+25 ans & +  
+Informations pré retraite
+- **__BR__** : Bilan retraite  
+57 ans et +  
+Deux ans avant le départ en retraite
+- **__VR__** : Vérification carrière  
+25 ans à 57 ans
+- __**IR**__ : Informations retraite  
+45 ans à 57 ans
+- **__CR__** : Conseil retraite  
+45 ans  
+permet de recomposer les trous de carrière
+- **__événementiel__** : 45 ans à 62 ans, lors de salons ou rendez-vous
