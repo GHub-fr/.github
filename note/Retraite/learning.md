@@ -351,7 +351,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Le RSA Jeune
 - La prime d’activité
 
-### Bilans et rendez-vous
+## Bilans et rendez-vous
 - __**EIR**__ : Entretien information retraite  
 ~ 25 ans & +  
 ~ Informations pré / futur retraités  
@@ -384,8 +384,11 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ~ récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
 ~ Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
 
-### Liste d'applications
+## Liste d'applications
 - **__[M@arel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)__** : Simulateur de retraite  
 - **__GED__** : Vision miroir
 - __**GEDI**__ : 
 - **__Gesica__** : 
+
+## Gestion de la Relation Client
+La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
