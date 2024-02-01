@@ -239,6 +239,24 @@ Le salair annuel brut devient ; **__SAB = SAB - PASS__**
 __**Les deux taux doivent être calculés**__  
 - Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé
 
+### Assiette des cotisations
+L’assiette des cotisations **correspond à la partie ou la totalité du __salaire sur laquelle des cotisations sont prélevées__**.
+
+Les cotisations Agirc-Arrco sont calculées sur les éléments de rémunération constituant l’assiette des cotisations de la retraite de base. Les cotisations Agirc-Arrco sont donc calculées __à partir du montant brut des salaires__.
+
+Les éléments de rémunération entrant dans l’assiette des cotisations
+
+Sont **__soumis aux cotisations Agirc-Arrco__** :
+- les **__salaires__**,
+- les **__primes__**,
+- les **__indemnités de fin de contrat__** de travail à durée déterminée,
+- les indemnités de __**congés payés**__,
+- les indemnités __**compensatrices de congés payés**__, de __**compte épargne temps ou de RTT**__,
+- les __**indemnités de non-concurrence**__,
+- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’assiette des cotisations de la Sécurité sociale,
+- les __**avantages en argent et en nature**__ (__**qui ne sont pas des remboursements de frais professionnels**__),
+- les __**pourboires**__.
+
 ## Régime supplémentaire
 En plus des retraites de base et complémentaires obligatoires, vous pouvez cotiser auprès de régimes d’épargne retraite individuelle (retraite supplémentaire/**surcomplémentaire**). Ces **__cotisations de type assurance sont facultatives__**.
 - Par capitalisation
