@@ -44,6 +44,8 @@ Il collabore avec le front-office, responsable des activités qui génèrent du 
 - **__RNGD__** : Référentiel National de Gestion des Droits
 - **__TTC__** : Thème type complément  
 ou toutes taxes comprises
+- **__PCC__** : Période de carrière à compléter
+- **__RCV__** : reconstitution carrière à valider
 - **__Part salariale__** : la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
 - __**Part patronale**__ : contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
 - Assiette des cotisations : [doc.ghub.fr/cours/retraite#Assiette_des_cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
@@ -56,7 +58,7 @@ ou toutes taxes comprises
 - __**Abattement**__ : Rabais sur une somme à payer
 - __**Coefficient**__ : Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
 - __**Taux plein**__ : retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
-
+- Liquidation : une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite (Exemple : Vider son compte retraite en vue du départ)
 ---
 
 ### To do list
@@ -381,3 +383,9 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - **__RAP__** : relevé actualisé de points
 ~ récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
 ~ Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
+
+### Liste d'applications
+- **__[M@arel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)__** : Simulateur de retraite  
+- **__GED__** : Vision miroir
+- __**GEDI**__ : 
+- **__Gesica__** : 
