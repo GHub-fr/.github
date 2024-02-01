@@ -404,4 +404,6 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 - Commencer une [écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
 
 ### écoute active
-L'écoute active est ...
+L'écoute active **vous invite à saisir chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
+
+Cette façon de communiquer permet de créer un **climat de confiance** avec votre interlocuteur. Ainsi, il se sent libre de s'exprimer comme il l'entend, sans jugement de votre part.
