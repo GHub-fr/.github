@@ -187,6 +187,23 @@ Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que s
 
 12528 **/ 12 = 1044€ mensuel**
 
+### Calcul coefficient de décote
+- Coefficient de décote = **nombre de __trimestres manquants__ x __taux de décote par trimestre__**
+- Taux de décote par année d'ouverture
+des droits au départ à la retraite
+
+- 2011 : 0.75%
+- 2012 : 0.875%
+- 2013 : 1%
+- 2014 : 1.125%
+- 2015 et au-delà : 1.25%
+
+**Exemple** : 
+- 11 trimestres manquants
+- Ouvre ses droits retraite en 2014
+
+11 * 1.125 = **__12.375%__**
+
 ## Régime complémentaire
 - La retraite complémentaire Agirc-Arrco est un régime de **__retraite par points__**. 
 - Comme son nom l'indique, elle **__intervient en complément de la retraite de base__**. Vos cotisations sont converties en points retraite au cours de votre carrière. **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
