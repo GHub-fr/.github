@@ -24,10 +24,44 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ---
 
 ## Lexique
-- GRC : Gestion relation client
-- RCR : Réseau conseil retraite
-- Part salariale : 
-- Part patronale :
+- __**GRC**__ : Gestion relation client
+- __**RCR**__ : Réseau conseil retraite
+- **__GPS__** : Groupe de protection sociale  
+rassemble plusieurs organismes contrôlés et gérés par les partenaires sociaux à la fois représentants des salariés et des employeurs (groupe paritaire)
+- **__IRC__** : Institution de retraite complémentaire
+- **__ASPA__** : Allocation de solidarité aux personnes âgées
+- **__ESAA__** : Espace sécurisé Agirc Arrco  
+[espace-personnel.agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
+- **__IA__** : Informations aux actifs
+- **__DSN__** : Déclaration sociale nominative
+- **__BRC__** : Bureau retraite complémentaire
+- **__BO__** : Back office (service d’appui1 ou post-marché selon la terminologie)  
+l'ensemble des activités de soutien, de contrôle et d'administration des opérations au sein d'une entreprise.
+Il collabore avec le front-office, responsable des activités qui génèrent du revenu ainsi qu'avec le middle-office qui assure le support de ce dernier.
+- **__RNI__** : Référentiels Nationaux Individus
+- **__RNGD__** : Référentiel National de Gestion des Droits
+- **__TTC__** : Thème type complément  
+ou toutes taxes comprises
+- **__Part salariale__** : la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
+- __**Part patronale**__ : contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
+- Assiette des cotisations : [doc.ghub.fr/cours/retraite#Assiette_des_cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
+- **__Minoration__** : Réduction d'une valeurs
+- __**Majoration**__ : Augmentation d'une valeurs
+- __**Aidant familial**__ : une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
+- __**Plafond de la sécurité sociale**__ : Valeur maximum pour limiter un calcul
+- **__Décote__** : réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
+[doc.ghub.fr/cours/retraite#Calcul_de_décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
+- __**Abattement**__ : Rabais sur une somme à payer
+- __**Coefficient**__ : Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
+- __**Taux plein**__ : retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
+
+---
+
+### To do list
+- Rachat de trimestres 
+- Rachat de points
+- Taux plein ?
+- Inter pro
 
 ---
 
@@ -84,6 +118,14 @@ Chaque régime procède à son propre versement bancaire
 - CNBF (avocats) 
 - IRCEC (artistes-auteurs d'oeuvres originales) 
 - CAVIMAC (cultes) 
+
+## Alliance professionnelle retraite
+- Agrica
+- Audiens
+- B2V
+- IRP auto
+- Lourmel
+- Pro BTP
 
 ---
 
@@ -250,13 +292,14 @@ De 46 368 à 370 944 euros par an__)
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
 __VPAA__ = Valeur point Agirc-Arrco (1.4159 : 2023)
-- __PASS__ = Plafond annuel de la sécurité sociale (46'368€)
-- PASS * 8 = 370'944 €
+- __PASS__ = Plafond annuel de la sécurité sociale (46'368€) (Maximum tranche 1)
+- PASS * 8 = 370'944 € (PASS **__Maximum tranche 2__**)
 
 - Si le **salair annuel brut est au supérieur ou égal au plafond annuel de la sécurité sociale** :
 Le salair annuel brut devient ; **__SAB = SAB - PASS__**  
 __**Les deux taux doivent être calculés**__ et additionés ensembles  
-- Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé
+- Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé seul
+- Convertissez par la suite les points en €
 
 ### Assiette des cotisations
 L’assiette des cotisations **correspond à la partie ou la totalité du __salaire sur laquelle des cotisations sont prélevées__**.
