@@ -173,7 +173,7 @@ Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que s
 (TA x SAM x Taux) / TR
 
 - TA = Trimestres acquis
-- SAM = Salair annuel moyen
+- SAM = Salaire annuel moyen
 - Taux = 0.5 : 50% Maximum par régime
 - TR = Trimestres requis
 
@@ -212,6 +212,12 @@ des droits au départ à la retraite
 
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
+
+### Calcul des points
+(SAB x TC) / SR
+- SAB = Salaire annuel brut
+- TC = Taux de cotisation
+- SR = Salaire référentiel
 
 ## Régime supplémentaire
 En plus des retraites de base et complémentaires obligatoires, vous pouvez cotiser auprès de régimes d’épargne retraite individuelle (retraite supplémentaire/**surcomplémentaire**). Ces **__cotisations de type assurance sont facultatives__**.
