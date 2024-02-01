@@ -24,8 +24,10 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ---
 
 ## Lexique
-- **_Arrco_** : pour l'ensemble des salariés
+- **__Arrco__** : pour l'ensemble des salariés
 - **__Agirc__** : si vous êtes ou avez été cadre
+- **__NIR__** : numéro de sécurité sociale  
+"numéro d'inscription au répertoire"  
 - __**GRC**__ : Gestion relation client
 - __**RCR**__ : Réseau conseil retraite
 - **__GPS__** : Groupe de protection sociale  
@@ -402,6 +404,14 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ~ [Entreprise] bonjour, je suis [Prénom], comment puis-je vous aider ?  
 - **Le client formule sa demande**
 - Commencer une [écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
+- Phrase de prise en charge
+~ Très bien, nous allons nous en occuper ensemble
+- Identifier le client
+~ NIR (numéro de sécurité sociale "numéro d'inscription au répertoire")  
+~ Nom & prénom  
+~ N° de téléphone  
+~ @ Mail  
+~ adresse postale (Surtout en cas d'envoie postal)  
 
 ### écoute active
 L'écoute active **vous invite à saisir et répondre ou intervenir sur chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
@@ -452,5 +462,3 @@ Il n’y a pas de miracle pour y parvenir, tout réside dans votre posture et vo
 Commencez immédiatement par une présentation claire, ainsi que celle de votre société.  
 __**Évitez le fameux « Allô »**__, qui refroidit immédiatement la conversation.  
 Concentrez-vous à 100 % sur votre appel et évitez de faire patienter votre interlocuteur.
-
-source : [cegos.fr](https://www.cegos.fr/ressources/mag/efficacite-professionnelle-3/quest-ce-que-lecoute-active)
