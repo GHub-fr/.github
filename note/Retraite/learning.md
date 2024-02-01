@@ -228,15 +228,20 @@ Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-
 
 - __SAB__ = Salaire annuel brut
 - __TC__ = Taux de cotisation  
-(__Tranche 1__ : 6.20%, __tranche 2__ : 17%)
+(__Tranche 1__ : 6.20%, __tranche 2__ : 17%)  
+(__Tranche 1 : De 1 à 3 864 euros par mois
+De 1 à 46 368 euros par an__)  
+(__Tranche 2 : De 3 864 à 30 912 euros par mois
+De 46 368 à 370 944 euros par an__)
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
 __VPAA__ = Valeur point Agirc-Arrco (1.4159)
-- __PASS__ = Plafond annuel de la sécurité sociale (370'944€)
+- __PASS__ = Plafond annuel de la sécurité sociale (46'368€)
+- PASS * 8 = 370'944 €
 
 - Si le **salair annuel brut est au supérieur ou égal au plafond annuel de la sécurité sociale** :
 Le salair annuel brut devient ; **__SAB = SAB - PASS__**  
-__**Les deux taux doivent être calculés**__  
+__**Les deux taux doivent être calculés**__ et additionés ensembles  
 - Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé
 
 ### Assiette des cotisations
