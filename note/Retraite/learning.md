@@ -404,14 +404,29 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ~ [Entreprise] bonjour, je suis [Prénom], comment puis-je vous aider ?  
 - **Le client formule sa demande**
 - Commencer une [écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
-- Phrase de prise en charge
+- Phrase de prise en charge  
 ~ Très bien, nous allons nous en occuper ensemble
-- Identifier le client
-~ NIR (numéro de sécurité sociale "numéro d'inscription au répertoire")  
-~ Nom & prénom  
-~ N° de téléphone  
-~ @ Mail  
-~ adresse postale (Surtout en cas d'envoie postal)  
+- **__Identifier le client__**  
+~ **__NIR__** (numéro de sécurité sociale "numéro d'inscription au répertoire")  
+~ **__Nom & prénom__**  
+~ **__N° de téléphone__**  
+~ __**@ Mail**__  
+~ __**adresse postale**__ (Surtout en cas d'envoie postal)  
+- __**Questionner sur la demande**__  
+~ Collectez le plus d'informations relative à la demande du client  
+~ __**Noter directement**__ sur le logiciel en même temps que l'utilisateur vos donne les informations afin de ne pas en oublier
+~ En raison des RGPD, merci de ne pas laisser de notes sur vos bureaux ou visibles de vos collègues...
+- __**Reformuler la demande du client**__  
+~ Permet de confirmer, rassurer, et faire savoir que la demande est bien comprise
+- __**Répondre ce qui va être fait, ou va devoir être fait**__
+- __**Réaliser une mise en attente**__  
+~ __**Prévenez votre interlocuteur de la mise en attente**__  
+~ Signalez la raison de la mise en attente  
+~ **__3 minutes maximum__**, à la fin des quelles vous devrez reprendre l'appel, et si besoin remettre en attente de la même manière
+- Conclusion
+~ ...
+- Clôture
+~ ...
 
 ### écoute active
 L'écoute active **vous invite à saisir et répondre ou intervenir sur chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
@@ -424,10 +439,10 @@ Cela suppose que vous ne devez pas l'interrompre.
 En effet, **__il nous arrive souvent de couper la parole à notre interlocuteur pour lui faire savoir que l'on a compris__**. Erreur à éviter absolument.  
 Vous devez aller également au-delà du message verbal, par exemple, interprétez les gestes comme les tics, **__le débit rapide ou le regard fuyant__**.
 
-- S'adapter à sa personnalité  
+- __**S'adapter à sa personnalité**__  
 Pour que l'autre ait pleinement confiance en vous, essayez de calquer votre mode de communication sur le sien. En effet, en reprenant sa façon de parler, ses tics de langage, ses temps de silence, votre partenaire se sentira plus à l'aise.
 
-- L'inciter à approfondir son propos  
+- **__L'inciter à approfondir son propos__**  
 Lorsqu'il a fini de s'exprimer, essayez d'avoir davantage d'approfondissements de sa part. **__Questionnez votre interlocuteur__** si vous n'êtes pas certain.e d'avoir compris ses pensées.  
 Faites tout de même attention à ne pas avancer des solutions ou des avis.  
 L'idée est de l'inviter à exposer avec précision ses points de vue.
@@ -436,7 +451,7 @@ L'idée est de l'inviter à exposer avec précision ses points de vue.
 L'autre clé de l'écoute active c'est de **__savoir reformuler le message partagé par votre interlocuteur__**. Cela permet de faire preuve de votre disponibilité, physiquement et temporellement, vis-à-vis de l'autre. __En reformulant ce qu'il a dit, vous démontrez que vous êtes en plein dans la conversation__. Il en résulte une relation apaisée.  
 Cela permet aussi de __**faire savoir que vous avez compris la demande du client**__
 
-- Être patient  
+- __**Être patient**__  
 Évitez de faire preuve d'impatience comme si vous voulez en finir au plus vite pour la discussion. __Il ne faut pas laisser paraître une quelconque marque de frustration ou d'impatience__. Aussi vous devez vous abstenir des gestes qui risquent de déconcerter l'interlocuteur : __**soupir bruyant, regard perdu au plafond, etc**__.
 
 - __**Le jargon**__ reste entre collégue  
@@ -455,10 +470,15 @@ Par exemple, lors de l’appel, **__utilisez leur nom pour établir efficacement
 Votre réussite repose sur vos échanges avec vos clients, ce qui contribue à valoriser l’image de votre entreprise.  
 Une fois à l’aise avec votre CRM et votre interlocuteur, vous serez automatiquement mieux préparés pour gérer les appels difficiles et maîtriser votre stress au téléphone.
 
-- Faire bonne impression  
+- **__Faire bonne impression__**  
 __**Assurez-vous d’utiliser un ton dynamique et courtois**__ !  
 C’est la clé d’une bonne communication avec le client.  
 Il n’y a pas de miracle pour y parvenir, tout réside dans votre posture et votre attitude.  
 Commencez immédiatement par une présentation claire, ainsi que celle de votre société.  
 __**Évitez le fameux « Allô »**__, qui refroidit immédiatement la conversation.  
 Concentrez-vous à 100 % sur votre appel et évitez de faire patienter votre interlocuteur.
+
+- **__Réduire le temps d’attente et les appels non aboutis__**  
+L’un des points essentiels pour personnaliser votre relation client est de réduire le temps d’attente et les appels non aboutis.  
+**__Les clients apprécient la rapidité et l’efficacité du service__**.  Mettez en place des mesures pour optimiser le temps d’attente, comme la mise en place d’un système de rappel ou la gestion proactive des files d’attente.  
+De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter les clients concernés et de résoudre leurs problèmes rapidement.
