@@ -177,6 +177,16 @@ Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que s
 - Taux = 0.5 : 50% Maximum par régime
 - TR = Trimestres requis
 
+**Exemple** : 
+- Née en **1964**
+- Départ à 63 ans, avec **171 trimestres requis**
+- La personne **n'a côtisé que 160 trimestres**
+- Son **salair moyen annuel est de : 26'780€**
+
+(160 * 26780 * 0.5) / 171 = **12'528€ annuel**
+
+12528 **/ 12 = 1044€ mensuel**
+
 ## Régime complémentaire
 - La retraite complémentaire Agirc-Arrco est un régime de **__retraite par points__**. 
 - Comme son nom l'indique, elle **__intervient en complément de la retraite de base__**. Vos cotisations sont converties en points retraite au cours de votre carrière. **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
