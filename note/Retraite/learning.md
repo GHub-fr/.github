@@ -72,6 +72,12 @@ ou toutes taxes comprises
 - Rachat de points
 - Taux plein ?
 - Inter pro
+- DMT & DMC
+- Appels confli
+- DIVA
+- Conclusion trame d'appel & prise congé
+- Cisco status
+- Liste des types d'appels 
 
 ---
 
@@ -436,6 +442,15 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Connexion via France Connect
 - Connexion via compte Agirc-Arrco : Carte identité (Titre de séjour non valide)
 
+### Cisco
+- Logiciel de gestion d'appel audio
+- Logiciel et matériel réseau
+
+### Pulse secure VPN
+- Sécuriser votre connexion
+- Crée un tunnel en chiffrant vos données envoyés et récus 
+[ivanti.com](https://www.ivanti.com/fr/company/history/pulse-secure)
+
 ## Gestion de la Relation Client
 
 ### Définition
@@ -527,3 +542,6 @@ Concentrez-vous à 100 % sur votre appel et évitez de faire patienter votre int
 L’un des points essentiels pour personnaliser votre relation client est de réduire le temps d’attente et les appels non aboutis.  
 **__Les clients apprécient la rapidité et l’efficacité du service__**.  Mettez en place des mesures pour optimiser le temps d’attente, comme la mise en place d’un système de rappel ou la gestion proactive des files d’attente.  
 De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter les clients concernés et de résoudre leurs problèmes rapidement.
+
+#### DIVA
+...
