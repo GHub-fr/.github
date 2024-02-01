@@ -214,10 +214,22 @@ des droits au départ à la retraite
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
 
 ### Calcul des points
-(SAB x TC) / SR
-- SAB = Salaire annuel brut
-- TC = Taux de cotisation
-- SR = Salaire référentiel
+- __**PAA**__ = (SAB x TC) / SR
+- __**Montant annuel**__ = PAA * VPAA
+- __**Montant mensuel**__ = € annuel / 12
+
+- __SAB__ = Salaire annuel brut
+- __TC__ = Taux de cotisation  
+(__Tranche 1__ : 6.20%, __tranche 2__ : 17%)
+- __SR__ = Salaire référentiel (17.4316)
+- __PAA__ = Points Agirc-Arrco  
+__VPAA__ = Valeur point Agirc-Arrco (1.4159)
+- __PASS__ = Plafond annuel de la sécurité sociale (370'944€)
+
+- Si le **salair annuel brut est au supérieur ou égal au plafond annuel de la sécurité sociale** :
+Le salair annuel brut devient ; **__SAB = SAB - PASS__**  
+__**Les deux taux doivent être calculés**__  
+- Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé
 
 ## Régime supplémentaire
 En plus des retraites de base et complémentaires obligatoires, vous pouvez cotiser auprès de régimes d’épargne retraite individuelle (retraite supplémentaire/**surcomplémentaire**). Ces **__cotisations de type assurance sont facultatives__**.
