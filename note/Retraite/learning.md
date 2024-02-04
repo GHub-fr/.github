@@ -24,62 +24,63 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ---
 
 ## Lexique
-### **__Arrco__**
+### Arrco
 pour l'ensemble des salariés
-### **__Agirc__**
+### Agirc
 si vous êtes ou avez été cadre
-### **__NIR__**
+### NIR
 numéro de sécurité sociale  
 "numéro d'inscription au répertoire"  
-### __**GRC**__
+### GRC
 Gestion relation client
-### __**RCR**__
+### RCR
 Réseau conseil retraite
-### **__GPS__**
-Groupe de protection sociale  
-rassemble plusieurs organismes contrôlés et gérés par les partenaires sociaux à la fois représentants des salariés et des employeurs (groupe paritaire)
-### **__IRC__**
+### GPS
+- Groupe de protection sociale  
+- Rassemble plusieurs organismes contrôlés et gérés par les partenaires sociaux à la fois représentants des salariés et des employeurs (groupe paritaire)
+### IRC
 Institution de retraite complémentaire
-### **__ASPA__**
+### ASPA
 Allocation de solidarité aux personnes âgées
-### **__ESAA__**
+### ESAA
 Espace sécurisé Agirc Arrco  
 [espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
-### **__IA__**
+### IA
 Informations aux actifs
-### **__DSN__**
+### DSN
 Déclaration sociale nominative
-### **__BRC__**
+### BRC
 Bureau retraite complémentaire
-### **__BO__**
-Back office (service d’appui1 ou post-marché selon la terminologie)  
-l'ensemble des activités de soutien, de contrôle et d'administration des opérations au sein d'une entreprise.
-Il collabore avec le front-office, responsable des activités qui génèrent du revenu ainsi qu'avec le middle-office qui assure le support de ce dernier.
-### **__RNI__**
+### BO
+- Back office (service d’appui1 ou post-marché selon la terminologie)  
+- l'ensemble des activités de soutien, de contrôle et d'administration des opérations au sein d'une entreprise.
+- Il collabore avec le front-office, responsable des activités qui génèrent du revenu ainsi qu'avec le middle-office qui assure le support de ce dernier.
+### RNI
 Référentiels Nationaux Individus
-### **__RNGD__**
+### RNGD
 Référentiel National de Gestion des Droits
-### **__TTC__**
+### TTC
 Thème type complément  
 ou toutes taxes comprises
-### **__PCC__**
+### PCC
 Période de carrière à compléter
-### **__PEC__**
+### PEC
 Prise en charge
-### **__RCV__**
+### RCV
 reconstitution carrière à valider
-### **__RGPD__**
-[RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
-Le règlement général sur la protection des données  
-~ RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation  
-~ Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
-### **__Part salariale__**
+### RGPD
+- [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
+- Le règlement général sur la protection des données
+- RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation
+- Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
+### Part salariale
 la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
 ### __**Part patronale**__
-contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
+- Contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. 
+- Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
 ### Assiette des cotisations
 [#Assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
-### **__Minoration__**
+### Minoration
 Réduction d'une valeurs
 ### __**Majoration**__
 Augmentation d'une valeurs
@@ -87,7 +88,7 @@ Augmentation d'une valeurs
 une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
 ### __**Plafond de la sécurité sociale**__
 Valeur maximum pour limiter un calcul
-### **__Décote__**
+### Décote
 réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
 [#Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
 ### __**Abattement**__
@@ -399,43 +400,43 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 
 ## Bilans et rendez-vous
 
-### __**EIR**__ : Entretien information retraite  
+### EIR : Entretien information retraite  
 - 25 ans & +  
 - Informations pré / futur retraités  
 - 1 EIR max tout les 6 mois  
 - Moins de ~ 10 trous de carrière  
 - Aucune modification / réctification en cours
 
-### **__BR__** : Bilan retraite  
+### BR : Bilan retraite  
 - 57 ans et +  
 - Deux ans avant le départ en retraite
 
-### **__VR__** : Vérification carrière  
+### VR : Vérification carrière  
 - 25 ans à 57 ans
 
-### __**IR**__ : Informations retraite  
+### IR : Informations retraite  
 - 45 ans à 57 ans
 
-### **__CR__** : Conseil retraite  
+### CR : Conseil retraite  
 - 45 ans  
 - permet de recomposer les trous de carrière
 
-### **__événementiel__** :  
+### événementiel :  
 - 45 ans à 62 ans  
 - lors de salons ou rendez-vous
 
-### **__RIS__** : Relevé individuel de situation
+### RIS : Relevé individuel de situation
 - Ce document vous est envoyé automatiquement tous les 5 ans  
 - à partir de 35 ans  
 - Par mail, courrier postal, ou espace Agirc-Arrco
 
-### **__EIG__** : Estimation individuelle global  
+### EIG : Estimation individuelle global  
 - votre résumé de vie professionnelle  
 - ce document, envoyé automatiquement par votre caisse de retraite l'année de vos 55 ans  
 - vous indique le montant estimatif de votre pension de retraite  
 - Ensuite, ce document vous sera envoyé tous les 5 ans jusqu'à votre départ à la retraite.
 
-### **__RAP__** : relevé actualisé de points
+### RAP : relevé actualisé de points
 - récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
 - Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
 
