@@ -5,6 +5,21 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 # Informations
 
+## To do list
+- Rachat de trimestres
+- Rachat de points
+- Taux plein ?
+- Inter pro
+- DMT & DMC
+- Appels confli
+- DIVA
+- Conclusion trame d'appel & prise congé
+- Cisco status
+- Liste des types d'appels 
+- Finir [#Trimestres](https://doc.ghub.fr/cours/retraite#Trimestres)
+
+---
+
 ## Numéro de téléphone
 - __**[39.96](tel:39.96) Malakof Humanis**__
 - __**[39.60](tel:39.60) Régime de base**__
@@ -138,21 +153,6 @@ une procédure de cessation de l'activité ou de dissolution d'une entreprise, p
 - Un système ou régime par répartition. 
 - L'ensemble des régimes obligatoires de retraite de base ou complémentaire fonctionne en France sur le principe de la répartition.
 - Les régimes redistribuent au cours d'une année, sous forme de pensions versées aux retraités, les cotisations encaissées la même année auprès des actifs.
-
----
-
-## To do list
-- Rachat de trimestres
-- Rachat de points
-- Taux plein ?
-- Inter pro
-- DMT & DMC
-- Appels confli
-- DIVA
-- Conclusion trame d'appel & prise congé
-- Cisco status
-- Liste des types d'appels 
-- Finir [#Trimestres](https://doc.ghub.fr/cours/retraite#Trimestres)
 
 ---
 
