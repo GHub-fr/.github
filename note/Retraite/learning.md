@@ -159,6 +159,23 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 - L'ensemble des régimes obligatoires de retraite de base ou complémentaire fonctionne en France sur le principe de la répartition.
 - Les régimes __redistribuent au cours d'une année, sous forme de pensions versées aux retraités, les cotisations encaissées la même année auprès des actifs__.
 
+### DMC
+- Durée moyenne de communication
+- Elle __mesure la moyenne du temps passé par un agent lors d'une interaction avec un client__ ou un appelant
+- varie en minutes (exemple : 7 min)
+
+- La [# DMT](#DMT) comporte d'autres valeurs de temps (écrit, mail, messages de suivis, ...)
+
+### DMT
+- Durée moyenne de traitement
+- Un indicateur clé de performance [# KPI](#KPI) essentiel dans l'univers des centres d'appels, __mesurant le temps moyen qu'un agent passe pour résoudre une interaction client__, que ce soit un __appel téléphonique, un chat en ligne, un e-mail ou toute autre__ forme d'interaction.
+
+### KPI
+- __key performance indicator__
+- Un __indicateur clé de performance__
+- Un indicateur utilisé pour l'__aide à la décision dans les organisations__.
+- Ils sont utilisés particulièrement en gestion de la performance organisationnelle.
+
 ---
 
 # Liste de caisse
