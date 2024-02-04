@@ -134,6 +134,11 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 ### Liquidation
 une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite (Exemple : Vider son compte retraite en vue du départ)
 
+### Répartition
+- Un système ou régime par répartition. 
+- L'ensemble des régimes obligatoires de retraite de base ou complémentaire fonctionne en France sur le principe de la répartition.
+- Les régimes redistribuent au cours d'une année, sous forme de pensions versées aux retraités, les cotisations encaissées la même année auprès des actifs.
+
 ---
 
 ### To do list
@@ -345,9 +350,11 @@ des droits au départ à la retraite
 
 ## Régime complémentaire
 - La retraite complémentaire Agirc-Arrco est un régime de **__retraite par points__**. 
-- Comme son nom l'indique, elle **__intervient en complément de la retraite de base__**. Vos cotisations sont converties en points retraite au cours de votre carrière. **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
+- Comme son nom l'indique, elle **__intervient en complément de la retraite de base__**.
+- Vos cotisations sont converties en points retraite au cours de votre carrière.
+- **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
 - Complète le régime de base, 
-- Par répartition
+- Par [#répartition](https://doc.ghub.fr/cours/retraite#répartition)
 
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
@@ -395,7 +402,7 @@ Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les indemnités de __**congés payés**__,
 - les indemnités __**compensatrices de congés payés**__, de __**compte épargne temps ou de RTT**__,
 - les __**indemnités de non-concurrence**__,
-- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’assiette des cotisations de la Sécurité sociale,
+- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[#assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations) de la Sécurité sociale,
 - les __**avantages en argent et en nature**__ (__**qui ne sont pas des remboursements de frais professionnels**__),
 - les __**pourboires**__.
 
