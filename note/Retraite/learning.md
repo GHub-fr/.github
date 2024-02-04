@@ -588,8 +588,6 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 [ivanti.com](https://www.ivanti.com/fr/company/history/pulse-secure)
 
 # Gestion de la Relation Client
-
-## Définition
 La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
 
 ## Trame d'appel
