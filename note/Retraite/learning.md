@@ -144,15 +144,18 @@ Rabais sur une somme à payer
 Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
 
 ### Taux plein
-retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
+retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
+- Vous partez en __retraite **avant 67 ans** en ayant un nombre précis de trimestres d'assurance retraite__, tous régimes confondus
+- Ou vous partez à la __retraite **à 67 ans**, quel que soit votre nombre de trimestres__ d'assurance retraite
 
 ### Liquidation
-une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite (Exemple : Vider son compte retraite en vue du départ)
+- Une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite
+- Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
 
 ### Répartition
 - Un système ou régime par répartition. 
 - L'ensemble des régimes obligatoires de retraite de base ou complémentaire fonctionne en France sur le principe de la répartition.
-- Les régimes redistribuent au cours d'une année, sous forme de pensions versées aux retraités, les cotisations encaissées la même année auprès des actifs.
+- Les régimes __redistribuent au cours d'une année, sous forme de pensions versées aux retraités, les cotisations encaissées la même année auprès des actifs__.
 
 ---
 
