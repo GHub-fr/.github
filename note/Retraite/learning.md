@@ -14,7 +14,6 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Appels confli
 - DIVA
 - Conclusion trame d'appel & prise congé
-- Cisco status
 - Liste des types d'appels
 
 ---
