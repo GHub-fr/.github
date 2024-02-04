@@ -10,7 +10,6 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Rachat de points
 - Taux plein ?
 - Inter pro
-- DMT & DMC
 - Appels confli
 - Conclusion trame d'appel & prise congé
 - Liste des types d'appels
