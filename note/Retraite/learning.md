@@ -387,9 +387,9 @@ Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-
 - __TC__ = Taux de cotisation  
 (__Taux__ Tranche 1 : 6.20%, tranche 2 : 17%)  
 (__Tranche 1__ : De 1 à 3 864 euros par mois
-De 1 à 46 368 euros par an__)  
+De 1 à 46 368 euros par an)  
 (__Tranche 2__ : De 3 864 à 30 912 euros par mois
-De 46 368 à 370 944 euros par an__)
+De 46 368 à 370 944 euros par an)
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
 __VPAA__ = Valeur point Agirc-Arrco (1.4159 : 2023)
