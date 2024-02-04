@@ -29,8 +29,12 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 ## Liens utiles
 
-- [Censure](https://Censure) *site public de l'entreprise*
-- [malakoffhumanis.com qu'est ce que la retraite de base et la retraite complementaire](https://www.malakoffhumanis.com/faq/contents/qu-est-ce-que-la-retraite-de-base-et-la-retraite-complementaire) 
+- [agirc - arrco .fr](https://agirc-arrco.fr/)
+- [malakoffhumanis .com](https://www.malakoffhumanis.com)
+- [intelcia .com](https://www.intelcia.com)
+
+### Autres liens
+- [malakoffhumanis .com / qu'est ce que la retraite de base et la retraite complementaire](https://www.malakoffhumanis.com/faq/contents/qu-est-ce-que-la-retraite-de-base-et-la-retraite-complementaire) 
 
 ---
 
@@ -102,9 +106,13 @@ reconstitution carrière à valider
 ### RGPD
 - [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
 - [# RGPD en entreprise](#RGPD_en_entreprise)
+
 - Le règlement général sur la protection des données
 - RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation
+
 - Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
+
+- Avec le RGPD, les transferts de données hors UE, y compris en ce qui concerne l'hébergement, restent possibles à condition d'être encadrés, par exemple par une décision d'adéquation d'un pays tiers, la signature des clauses contractuelles types ou encore l'adhésion à un code de conduite approuvé.
 
 ### Part salariale
 la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
