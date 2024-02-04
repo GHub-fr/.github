@@ -24,86 +24,120 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ---
 
 ## Lexique
+
 ### Arrco
 pour l'ensemble des salariés
+
 ### Agirc
 si vous êtes ou avez été cadre
+
 ### NIR
 numéro de sécurité sociale  
 "numéro d'inscription au répertoire"  
+
 ### GRC
 Gestion relation client
+
 ### RCR
 Réseau conseil retraite
+
 ### GPS
 - Groupe de protection sociale  
 - Rassemble plusieurs organismes contrôlés et gérés par les partenaires sociaux à la fois représentants des salariés et des employeurs (groupe paritaire)
+
 ### IRC
 Institution de retraite complémentaire
+
 ### ASPA
 Allocation de solidarité aux personnes âgées
+
 ### ESAA
 Espace sécurisé Agirc Arrco  
 [espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
+
 ### IA
 Informations aux actifs
+
 ### DSN
 Déclaration sociale nominative
+
 ### BRC
 Bureau retraite complémentaire
+
 ### BO
 - Back office (service d’appui1 ou post-marché selon la terminologie)  
 - l'ensemble des activités de soutien, de contrôle et d'administration des opérations au sein d'une entreprise.
 - Il collabore avec le front-office, responsable des activités qui génèrent du revenu ainsi qu'avec le middle-office qui assure le support de ce dernier.
+
 ### RNI
 Référentiels Nationaux Individus
+
 ### RNGD
 Référentiel National de Gestion des Droits
+
 ### TTC
 Thème type complément  
 ou toutes taxes comprises
+
 ### PCC
 Période de carrière à compléter
+
 ### PEC
 Prise en charge
+
 ### RCV
 reconstitution carrière à valider
+
 ### RGPD
 - [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
 - Le règlement général sur la protection des données
 - RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation
 - Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
+
 ### Part salariale
 la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
-### __**Part patronale**__
+
+### Part patronale
 - Contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. 
 - Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
+
 ### Assiette des cotisations
-[#Assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
+- L’assiette des cotisations **correspond à la partie ou la totalité du __salaire sur laquelle des cotisations sont prélevées__**.
+- Les cotisations Agirc-Arrco sont calculées sur les éléments de rémunération constituant l’assiette des cotisations de la retraite de base. Les cotisations Agirc-Arrco sont donc calculées __à partir du montant brut des salaires__.
+- Les éléments de rémunération entrant dans l’assiette des cotisations
+
 ### Minoration
 Réduction d'une valeurs
-### __**Majoration**__
+
+### Majoration
 Augmentation d'une valeurs
-### __**Aidant familial**__
+
+### Aidant familial
 une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
-### __**Plafond de la sécurité sociale**__
+
+### Plafond de la sécurité sociale
 Valeur maximum pour limiter un calcul
+
 ### Décote
 réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
 [#Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
-### __**Abattement**__
+
+### Abattement
 Rabais sur une somme à payer
-### __**Coefficient**__
+
+### Coefficient
 Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
-### __**Taux plein**__
+
+### Taux plein
 retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
+
 ### Liquidation
 une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite (Exemple : Vider son compte retraite en vue du départ)
 
 ---
 
 ### To do list
-- Rachat de trimestres 
+- Rachat de trimestres
 - Rachat de points
 - Taux plein ?
 - Inter pro
@@ -351,13 +385,6 @@ Le salair annuel brut devient ; **__SAB = SAB - PASS__**
 __**Les deux taux doivent être calculés**__ et additionés ensembles  
 - Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé seul
 - Convertissez par la suite les points en €
-
-### Assiette des cotisations
-L’assiette des cotisations **correspond à la partie ou la totalité du __salaire sur laquelle des cotisations sont prélevées__**.
-
-Les cotisations Agirc-Arrco sont calculées sur les éléments de rémunération constituant l’assiette des cotisations de la retraite de base. Les cotisations Agirc-Arrco sont donc calculées __à partir du montant brut des salaires__.
-
-Les éléments de rémunération entrant dans l’assiette des cotisations
 
 Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les **__salaires__**,
