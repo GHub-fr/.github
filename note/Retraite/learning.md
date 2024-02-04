@@ -354,7 +354,7 @@ des droits au départ à la retraite
 - Vos cotisations sont converties en points retraite au cours de votre carrière.
 - **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
 - Complète le régime de base, 
-- Par [#répartition](https://doc.ghub.fr/cours/retraite#répartition)
+- Par [#répartition](https://doc.ghub.fr/cours/retraite#Répartition)
 
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
