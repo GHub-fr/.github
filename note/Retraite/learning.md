@@ -16,7 +16,7 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Conclusion trame d'appel & prise congé
 - Cisco status
 - Liste des types d'appels 
-- Finir [#Trimestres](https://doc.ghub.fr/cours/retraite#Trimestres)
+- Finir [# Trimestres](https://doc.ghub.fr/cours/retraite#Trimestres)
 
 ---
 
@@ -105,6 +105,7 @@ reconstitution carrière à valider
 
 ### RGPD
 - [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
+- [# RGPD en entreprise](https://doc.ghub.fr/cours/retraite#RGPD_en_entreprise)
 - Le règlement général sur la protection des données
 - RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation
 - Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
@@ -135,22 +136,22 @@ Valeur maximum pour limiter un calcul
 
 ### Décote
 réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
-[#Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
+[# Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
 
 ### Abattement
 - Rabais sur une somme à payer
-- Utilise un pourcentage ou un [coefficient](https://doc.ghub.fr/cours/retraite#Coefficient)
+- Utilise un pourcentage ou un [# coefficient](https://doc.ghub.fr/cours/retraite#Coefficient)
 
 ### Coefficient
 - Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
-- Permet de calculer une [majoration](https://doc.ghub.fr/cours/retraite#Majoration) ou [minoration](https://doc.ghub.fr/cours/retraite#Minoration)
+- Permet de calculer une [# majoration](https://doc.ghub.fr/cours/retraite#Majoration) ou [# minoration](https://doc.ghub.fr/cours/retraite#Minoration)
 - Permet de passer de % à multiplicateur (exemple : 12% = x1.12)
 
 ### Taux plein
 retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
 - Vous partez en __retraite **avant 67 ans** en ayant un nombre précis de trimestres d'assurance retraite__, tous régimes confondus
 - Ou vous partez à la __retraite **à 67 ans**, quel que soit votre nombre de trimestres__ d'assurance retraite
-- [Trimestres requis pour un taux plein](https://doc.ghub.fr/cours/retraite#Trimestres)
+- [# Trimestres requis pour un taux plein](https://doc.ghub.fr/cours/retraite#Trimestres)
 
 ### Liquidation
 - Une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite
@@ -361,7 +362,7 @@ des droits au départ à la retraite
 - Vos cotisations sont converties en points retraite au cours de votre carrière.
 - **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
 - Complète le régime de base, 
-- Par [#répartition](https://doc.ghub.fr/cours/retraite#Répartition)
+- Par [# répartition](https://doc.ghub.fr/cours/retraite#Répartition)
 
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
@@ -409,7 +410,7 @@ Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les indemnités de __**congés payés**__,
 - les indemnités __**compensatrices de congés payés**__, de __**compte épargne temps ou de RTT**__,
 - les __**indemnités de non-concurrence**__,
-- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[#assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations) de la Sécurité sociale,
+- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[# assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations) de la Sécurité sociale,
 - les __**avantages en argent et en nature**__ (__**qui ne sont pas des remboursements de frais professionnels**__),
 - les __**pourboires**__.
 
@@ -509,7 +510,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ### Gesica
 - [lien](https://www.gesica.org/fr/outils/)
 - Envoie de RIS, EIG, RAP, etc...  
-[Bilans et rendez-vous](https://doc.ghub.fr/cours/retraite#Bilans_et_rendez-vous)
+[# Bilans et rendez-vous](https://doc.ghub.fr/cours/retraite#Bilans_et_rendez-vous)
 - Combler les trous de carrière
 - Modification et lecture
 
@@ -545,9 +546,9 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 
 ### Trame d'appel
 - **Accueil** du client
-~ [Entreprise] bonjour, je suis [Prénom], comment puis-je vous aider ?  
+~ (Entreprise) bonjour, je suis (Prénom), comment puis-je vous aider ?  
 - **Le client formule sa demande**
-- Commencer une [écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
+- Commencer une [# écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
 - Phrase de prise en charge  
 ~ Très bien, nous allons nous en occuper ensemble
 - **__Identifier le client__**  
@@ -637,7 +638,7 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - Sourire (Cela s'entendra au téléphone)
 
 ### RGPD en entreprise
-- [Qu'est ce que la RGPD](https://doc.ghub.fr/cours/retraite#RGPD)
+- [# RGPD](https://doc.ghub.fr/cours/retraite#RGPD)
 - Le RGPD s'applique-t-il à toutes les entreprises ? Oui. __Le RGPD s'applique à tous les professionnels, quels que soient leur taille et leur secteur d'activité__, mais l'application du RGPD est modulée selon la nature, le contexte, les finalités et les risques des traitements mis en œuvre
 - La conformité au RGPD démontre en effet l'engagement de l'entreprise à effectuer des __traitements de données personnelles de manière responsable__, ce qui renforce la confiance des clients et __prévient les risques de fuites de données ou de violations de la vie privée__ des personnes concernées.
 - Au sens du RGPD, est __considérée comme une donnée personnelle " toute information se rapportant à une personne__ physique identifiée ou identifiable ". Ainsi, le __**numéro de téléphone, comme élément permettant l'identification de la personne, sera considérée comme une donnée personnelle**__.
