@@ -147,6 +147,7 @@ Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
 retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
 - Vous partez en __retraite **avant 67 ans** en ayant un nombre précis de trimestres d'assurance retraite__, tous régimes confondus
 - Ou vous partez à la __retraite **à 67 ans**, quel que soit votre nombre de trimestres__ d'assurance retraite
+- [Trimestres requis pour un taux plein](https://doc.ghub.fr/cours/retraite#Trimestres)
 
 ### Liquidation
 - Une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite
