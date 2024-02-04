@@ -150,17 +150,9 @@ une procédure de cessation de l'activité ou de dissolution d'une entreprise, p
 
 ---
 
-# Régimes
-- Régime de base
-- Régime complémentaire
-- Régime supplémentaire
-
-Chaque régime procède à son propre versement bancaire
-
-![pyramide-retraite-1](https://github.com/GHub-fr/.github/assets/84735589/123ebc78-f9d6-4507-934c-ebc97f40c812)
-
 # Liste de caisse
 - [service-public.fr - Comment connaître ses caisses de retraite ?](https://www.service-public.fr/particuliers/vosdroits/F2504)
+
 ## Organismes de retraite des salariés
 - CNAV (Régime général de la sécurité sociale) 
 - MSA (Mutualité Sociale Agricole)
@@ -213,6 +205,15 @@ Chaque régime procède à son propre versement bancaire
 - Pro BTP
 
 ---
+
+# Régimes
+- Régime de base
+- Régime complémentaire
+- Régime supplémentaire
+
+Chaque régime procède à son propre versement bancaire
+
+![pyramide-retraite-1](https://github.com/GHub-fr/.github/assets/84735589/123ebc78-f9d6-4507-934c-ebc97f40c812)
 
 ## Régime de base
 - La retraite de base est un régime de **__retraite par trimestre__** (3 mois, 4 trimestres/année).
