@@ -5,9 +5,14 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 # Informations
 
+## Raccourcis
+- [# Numéro de téléphone](#Numéro-de-téléphone)
+- [# Trame d'appel](#Trame-d'appel)
+- [# Bilans et rendez-vous](#bilans-et-rendez-vous)
+- [# Liens utiles](#Liens-utiles)
+
 ## To do list
-- Rachat de trimestres
-- Rachat de points
+- Rachat de trimestres / points [lien AA](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/comment-racheter-des-trimestres-et-des-points-agirc-arrco-pour-ameliorer-ma-retraite/)
 - Taux plein ?
 - Inter pro
 - Appels confli
