@@ -385,10 +385,10 @@ Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-
 
 - __SAB__ = Salaire annuel brut
 - __TC__ = Taux de cotisation  
-(__Tranche 1__ : 6.20%, __tranche 2__ : 17%)  
-(__Tranche 1 : De 1 à 3 864 euros par mois
+(__Taux__ Tranche 1 : 6.20%, tranche 2 : 17%)  
+(__Tranche 1__ : De 1 à 3 864 euros par mois
 De 1 à 46 368 euros par an__)  
-(__Tranche 2 : De 3 864 à 30 912 euros par mois
+(__Tranche 2__ : De 3 864 à 30 912 euros par mois
 De 46 368 à 370 944 euros par an__)
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
