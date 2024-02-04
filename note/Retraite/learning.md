@@ -104,7 +104,7 @@ reconstitution carrière à valider
 
 ### RGPD
 - [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
-- [# RGPD en entreprise](https://doc.ghub.fr/cours/retraite#RGPD_en_entreprise)
+- [# RGPD en entreprise](#RGPD_en_entreprise)
 - Le règlement général sur la protection des données
 - RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation
 - Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
@@ -135,22 +135,22 @@ Valeur maximum pour limiter un calcul
 
 ### Décote
 réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
-[# Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
+[# Calcul de décote](#Calcul_de_décote)
 
 ### Abattement
 - Rabais sur une somme à payer
-- Utilise un pourcentage ou un [# coefficient](https://doc.ghub.fr/cours/retraite#Coefficient)
+- Utilise un pourcentage ou un [# coefficient](#Coefficient)
 
 ### Coefficient
 - Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
-- Permet de calculer une [# majoration](https://doc.ghub.fr/cours/retraite#Majoration) ou [# minoration](https://doc.ghub.fr/cours/retraite#Minoration)
+- Permet de calculer une [# majoration](#Majoration) ou [# minoration](#Minoration)
 - Permet de passer de % à multiplicateur (exemple : 12% = x1.12)
 
 ### Taux plein
 retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
 - Vous partez en __retraite **avant 67 ans** en ayant un nombre précis de trimestres d'assurance retraite__, tous régimes confondus
 - Ou vous partez à la __retraite **à 67 ans**, quel que soit votre nombre de trimestres__ d'assurance retraite
-- [# Trimestres requis pour un taux plein](https://doc.ghub.fr/cours/retraite#Trimestres)
+- [# Trimestres requis pour un taux plein](#Trimestres)
 
 ### Liquidation
 - Une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite
@@ -361,7 +361,7 @@ des droits au départ à la retraite
 - Vos cotisations sont converties en points retraite au cours de votre carrière.
 - **__Lors de votre départ en retraite, vos points sont reconvertis en pension de retraite__**.
 - Complète le régime de base, 
-- Par [# répartition](https://doc.ghub.fr/cours/retraite#Répartition)
+- Par [# répartition](#Répartition)
 
 ### Versement
 Une retraite complémentaire versée par l'Agirc-Arrco, est **à terme à échoir** (ex : **__retraite de mai payée le 1er mai__**)
@@ -409,7 +409,7 @@ Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les indemnités de __**congés payés**__,
 - les indemnités __**compensatrices de congés payés**__, de __**compte épargne temps ou de RTT**__,
 - les __**indemnités de non-concurrence**__,
-- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[# assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations) de la Sécurité sociale,
+- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[# assiette des cotisations](#Assiette_des_cotisations) de la Sécurité sociale,
 - les __**avantages en argent et en nature**__ (__**qui ne sont pas des remboursements de frais professionnels**__),
 - les __**pourboires**__.
 
@@ -510,7 +510,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ### Gesica
 - [gesica.org / outils](https://www.gesica.org/fr/outils/)
 - Envoie de RIS, EIG, RAP, etc...  
-[# Bilans et rendez-vous](https://doc.ghub.fr/cours/retraite#Bilans_et_rendez-vous)
+[# Bilans et rendez-vous](#Bilans_et_rendez-vous)
 - Combler les trous de carrière
 - Modification et lecture
 
@@ -549,7 +549,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ~ (Entreprise) bonjour, je suis (Prénom), comment puis-je vous aider ?
 
 ### Le client formule sa demande
-- Commencer une [# écoute active](https://doc.ghub.fr/cours/retraite#écoute_active)
+- Commencer une [# écoute active](#écoute_active)
 
 - Phrase de prise en charge  
 ~ Très bien, nous allons nous en occuper ensemble
@@ -564,7 +564,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ### Questionner sur la demande
 - Collectez le plus d'informations relative à la demande du client  
 - __**Noter directement**__ sur le logiciel en même temps que l'utilisateur vos donne les informations afin de ne pas en oublier
-- Attention à la [# RGPD en entreprise](https://doc.ghub.fr/cours/retraite#RGPD_en_entreprise) ...
+- Attention à la [# RGPD en entreprise](#RGPD_en_entreprise) ...
 
 ### Reformuler la demande du client
 - Permet de confirmer, rassurer, et faire savoir que la demande est bien comprise
@@ -647,7 +647,7 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - Sourire (Cela s'entendra au téléphone)
 
 # RGPD en entreprise
-- [# RGPD](https://doc.ghub.fr/cours/retraite#RGPD)
+- [# RGPD](#RGPD)
 
 - __Le RGPD s'applique à tous les professionnels, quels que soient leur taille et leur secteur d'activité__, mais l'application du RGPD est modulée selon la nature, le contexte, les finalités et les risques des traitements mis en œuvre
 
