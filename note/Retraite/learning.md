@@ -15,8 +15,7 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - DIVA
 - Conclusion trame d'appel & prise congé
 - Cisco status
-- Liste des types d'appels 
-- Finir [# Trimestres](https://doc.ghub.fr/cours/retraite#Trimestres)
+- Liste des types d'appels
 
 ---
 
