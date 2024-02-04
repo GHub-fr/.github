@@ -24,47 +24,81 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ---
 
 ## Lexique
-- **__Arrco__** : pour l'ensemble des salariés
-- **__Agirc__** : si vous êtes ou avez été cadre
-- **__NIR__** : numéro de sécurité sociale  
+### **__Arrco__**
+pour l'ensemble des salariés
+### **__Agirc__**
+si vous êtes ou avez été cadre
+### **__NIR__**
+numéro de sécurité sociale  
 "numéro d'inscription au répertoire"  
-- __**GRC**__ : Gestion relation client
-- __**RCR**__ : Réseau conseil retraite
-- **__GPS__** : Groupe de protection sociale  
+### __**GRC**__
+Gestion relation client
+### __**RCR**__
+Réseau conseil retraite
+### **__GPS__**
+Groupe de protection sociale  
 rassemble plusieurs organismes contrôlés et gérés par les partenaires sociaux à la fois représentants des salariés et des employeurs (groupe paritaire)
-- **__IRC__** : Institution de retraite complémentaire
-- **__ASPA__** : Allocation de solidarité aux personnes âgées
-- **__ESAA__** : Espace sécurisé Agirc Arrco  
+### **__IRC__**
+Institution de retraite complémentaire
+### **__ASPA__**
+Allocation de solidarité aux personnes âgées
+### **__ESAA__**
+Espace sécurisé Agirc Arrco  
 [espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
-- **__IA__** : Informations aux actifs
-- **__DSN__** : Déclaration sociale nominative
-- **__BRC__** : Bureau retraite complémentaire
-- **__BO__** : Back office (service d’appui1 ou post-marché selon la terminologie)  
+### **__IA__**
+Informations aux actifs
+### **__DSN__**
+Déclaration sociale nominative
+### **__BRC__**
+Bureau retraite complémentaire
+### **__BO__**
+Back office (service d’appui1 ou post-marché selon la terminologie)  
 l'ensemble des activités de soutien, de contrôle et d'administration des opérations au sein d'une entreprise.
 Il collabore avec le front-office, responsable des activités qui génèrent du revenu ainsi qu'avec le middle-office qui assure le support de ce dernier.
-- **__RNI__** : Référentiels Nationaux Individus
-- **__RNGD__** : Référentiel National de Gestion des Droits
-- **__TTC__** : Thème type complément  
+### **__RNI__**
+Référentiels Nationaux Individus
+### **__RNGD__**
+Référentiel National de Gestion des Droits
+### **__TTC__**
+Thème type complément  
 ou toutes taxes comprises
-- **__PCC__** : Période de carrière à compléter
-- **__PEC__** : Prise en charge
-- **__RCV__** : reconstitution carrière à valider
-- **__[RGPD](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)__** : Le règlement général sur la protection des données  
+### **__PCC__**
+Période de carrière à compléter
+### **__PEC__**
+Prise en charge
+### **__RCV__**
+reconstitution carrière à valider
+### **__RGPD__**
+[RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
+Le règlement général sur la protection des données  
 ~ RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation  
 ~ Les principaux objectifs du RGPD sont d'accroître à la fois la protection des personnes concernées par un traitement de leurs données à caractère personnel et la responsabilisation des acteurs de ce traitement. Ces principes pourront être appliqués grâce à l'augmentation du pouvoir des autorités de contrôle.
-- **__Part salariale__** : la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
-- __**Part patronale**__ : contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
-- Assiette des cotisations : [#Assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
-- **__Minoration__** : Réduction d'une valeurs
-- __**Majoration**__ : Augmentation d'une valeurs
-- __**Aidant familial**__ : une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
-- __**Plafond de la sécurité sociale**__ : Valeur maximum pour limiter un calcul
-- **__Décote__** : réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
+### **__Part salariale__**
+la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
+### __**Part patronale**__
+contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
+### Assiette des cotisations
+[#Assiette des cotisations](https://doc.ghub.fr/cours/retraite#Assiette_des_cotisations)
+### **__Minoration__**
+Réduction d'une valeurs
+### __**Majoration**__
+Augmentation d'une valeurs
+### __**Aidant familial**__
+une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
+### __**Plafond de la sécurité sociale**__
+Valeur maximum pour limiter un calcul
+### **__Décote__**
+réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
 [#Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
-- __**Abattement**__ : Rabais sur une somme à payer
-- __**Coefficient**__ : Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
-- __**Taux plein**__ : retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
-- Liquidation : une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite (Exemple : Vider son compte retraite en vue du départ)
+### __**Abattement**__
+Rabais sur une somme à payer
+### __**Coefficient**__
+Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
+### __**Taux plein**__
+retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : Vous partez en retraite avant 67 ans en ayant avez un nombre précis de trimestres d'assurance retraite, tous régimes confondus
+### Liquidation
+une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite (Exemple : Vider son compte retraite en vue du départ)
+
 ---
 
 ### To do list
