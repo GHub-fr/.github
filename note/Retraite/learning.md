@@ -637,5 +637,6 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - Sourire (Cela s'entendra au téléphone)
 
 ### RGPD en entreprise
-
-...
+- [Qu'est ce que la RGPD](https://doc.ghub.fr/cours/retraite#RGPD)
+- Le RGPD s'applique-t-il à toutes les entreprises ? Oui. __Le RGPD s'applique à tous les professionnels, quels que soient leur taille et leur secteur d'activité__, mais l'application du RGPD est modulée selon la nature, le contexte, les finalités et les risques des traitements mis en œuvre
+- La conformité au RGPD démontre en effet l'engagement de l'entreprise à effectuer des __traitements de données personnelles de manière responsable__, ce qui renforce la confiance des clients et __prévient les risques de fuites de données ou de violations de la vie privée__ des personnes concernées.
