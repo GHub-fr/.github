@@ -534,17 +534,28 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Logiciel de gestion d'appel audio
 - Logiciel et matériel réseau
 
-Status :
+- Cisco Jabber
+Cisco Jabber vous permet d'ajouter des contacts à partir d'applications de discussion telles que Google Talk ou Microsoft Lync. Vous pouvez également ajouter des contacts personnalisés pour les personnes ne possédant pas d'adresse de MI
+
+- Cisco Finesse
+Logiciel de supervision d'agent. Cela contribue à améliorer l’expérience de service client offerte par votre centre de téléphonie VoIP.
+
+Statuts :
 - **Ready** (Prêt)
 Vous allez recevoir un appel dès que vous êtes celui ayant le timer depuis le dernier appel le plus long
+
 - **Not Ready** (Pas prêt)
 Vous êtes connecté, mais pas prêt à recevoir d'appel
+
 - **Wrap-up**
 Délais après chaque appel pour laisser un temps de pause
-- ACW 'After call work' (Travail après l'appel)
+
+- **ACW** 'After call work' (Travail après l'appel)
 Similaire à "Non prêt" mais pour une durée maximum de quelques minutes (Ne se retire pas seul)
+
 - **Pause**
 Pause de quelques minutes suivant la configuration
+
 - **Pause repas**
 Pause longue pour la durée du repas  
 Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharger le compteur d'agent "prêt"
