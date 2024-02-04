@@ -244,17 +244,17 @@ Si vous ne remplissez pas les conditions pour obtenir le taux maximum, votre ret
 
 ### Trimestres
 Trimestres requis par année de naisance :
-- **__1956 à 1957__** : **166** trimestres (41 années 6 mois), 62 ans.
-- **__1958 à 1960__** : **167** trimestres (41 années 9 mois), 62 ans.
-- **__01/01 (Janv) au 31/08 (Août) 1961__** : **168** trimestres (42 années), 62 ans.
-- **__01/09 (Sept) au 31/12 (Dec) 1961__** : **169** trimestres (42 années 3 mois), 62 ans 3 mois.
-- **__1962__** : **169** trimestres (42 années 3 mois), 62 ans 6 mois.
-- **__1963__** : **170** trimestres (42 années 6 mois), 62 ans 9 mois.
-- **__1964__** : **171** trimestres (42 années 9 mois), 63 ans.
-- **__1965__** : **172** trimestres (43 années), 63 ans 3 mois.
-- **__1966__** : **172** trimestres (années mois), 63 ans 6 mois.
-- **__1967__** : **172** trimestres (années mois), 63 ans 9 mois.
-- **__À partir de 1968__** : **172** trimestres (années mois), 64 ans.
+- **__1956 à 1957__** : **166** trimestres (41 années 6 mois), départ à **62 ans**.
+- **__1958 à 1960__** : **167** trimestres (41 années 9 mois), départ à **62 ans**.
+- **__01/01 (Janv) au 31/08 (Août) 1961__** : **168** trimestres (42 années), départ à **62 ans**.
+- **__01/09 (Sept) au 31/12 (Dec) 1961__** : **169** trimestres (42 années 3 mois), départ à **62 ans 3 mois**.
+- **__1962__** : **169** trimestres (42 années 3 mois), départ à **62 ans 6 mois**.
+- **__1963__** : **170** trimestres (42 années 6 mois), départ à **62 ans 9 mois**.
+- **__1964__** : **171** trimestres (42 années 9 mois), départ à **63 ans**.
+- **__1965__** : **172** trimestres (43 années), départ à **63 ans 3 mois**.
+- **__1966__** : **172** trimestres (43 années), départ à **63 ans 6 mois**.
+- **__1967__** : **172** trimestres (43 années), départ à **63 ans 9 mois**.
+- **__À partir de 1968__** : **172** trimestres (43 années), **64 ans**.
 
 ### Valeur d'un trimestre
 1 Trimestre = 200 x SMIC brut / H
@@ -639,9 +639,11 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 
 ### RGPD en entreprise
 - [# RGPD](https://doc.ghub.fr/cours/retraite#RGPD)
-- Le RGPD s'applique-t-il à toutes les entreprises ? Oui. __Le RGPD s'applique à tous les professionnels, quels que soient leur taille et leur secteur d'activité__, mais l'application du RGPD est modulée selon la nature, le contexte, les finalités et les risques des traitements mis en œuvre
+- __Le RGPD s'applique à tous les professionnels, quels que soient leur taille et leur secteur d'activité__, mais l'application du RGPD est modulée selon la nature, le contexte, les finalités et les risques des traitements mis en œuvre
 - La conformité au RGPD démontre en effet l'engagement de l'entreprise à effectuer des __traitements de données personnelles de manière responsable__, ce qui renforce la confiance des clients et __prévient les risques de fuites de données ou de violations de la vie privée__ des personnes concernées.
-- Au sens du RGPD, est __considérée comme une donnée personnelle " toute information se rapportant à une personne__ physique identifiée ou identifiable ". Ainsi, le __**numéro de téléphone, comme élément permettant l'identification de la personne, sera considérée comme une donnée personnelle**__.
+- Au sens du RGPD, est __considérée comme une donnée personnelle " toute information se rapportant à une personne__ physique identifiée ou identifiable ". Ainsi, __un élément permettant l'identification de la personne, sera considérée comme une donnée personnelle__.
 - Des règles précises s'imposent à vous dans l'utilisation de données personnelles (__nom, email, numéro de téléphone, adresse postale, etc.__) à des fins de sollicitation commerciale ou professionnel. 
-- N'utilisez pas des données personnelles librement accessibles sur internet sans prendre des précautions, rien n'indique que l'utilisateur n'était pas à la recherche d'information, **__donner une information à l'écrit comme à l'oral à la quel l'utilisateur n'avait pas connaissance représente une fuite de donnée sévère__**
+- N'utilisez pas des données personnelles librement accessibles sur internet sans prendre des précautions
+- __Rien n'indique que l'utilisateur n'était pas à la recherche d'information__, gardez toujours une méfiance
+- **__donner une information à l'écrit comme à l'oral à la quel l'utilisateur n'avait pas connaissance représente une fuite de donnée__** sévère
 - Il reste possible de **__demander confirmation du nom, numéro de téléphone sans le divulguer afin de vérifier l'identité d'un interlocuteur__**
