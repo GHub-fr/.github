@@ -496,7 +496,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 
 ### M@arel
 - Simulateur de retraite
-- [agirc-arrco.fr](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)
+- [agirc-arrco.fr / estimer retraite simulateur marel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)
 
 ### GED
 - Vision miroir
@@ -508,7 +508,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ### GEDI
 
 ### Gesica
-- [lien](https://www.gesica.org/fr/outils/)
+- [gesica.org / outils](https://www.gesica.org/fr/outils/)
 - Envoie de RIS, EIG, RAP, etc...  
 [# Bilans et rendez-vous](https://doc.ghub.fr/cours/retraite#Bilans_et_rendez-vous)
 - Combler les trous de carrière
