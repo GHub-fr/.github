@@ -564,7 +564,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ### Questionner sur la demande
 - Collectez le plus d'informations relative à la demande du client  
 - __**Noter directement**__ sur le logiciel en même temps que l'utilisateur vos donne les informations afin de ne pas en oublier
-- Attention à la [RGPD en entreprise](https://doc.ghub.fr/cours/retraite#RGPD_en_entreprise) ...
+- Attention à la [# RGPD en entreprise](https://doc.ghub.fr/cours/retraite#RGPD_en_entreprise) ...
 
 ### Reformuler la demande du client
 - Permet de confirmer, rassurer, et faire savoir que la demande est bien comprise
