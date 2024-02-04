@@ -147,6 +147,7 @@ une procédure de cessation de l'activité ou de dissolution d'une entreprise, p
 - Conclusion trame d'appel & prise congé
 - Cisco status
 - Liste des types d'appels 
+- Finir [#Trimestres](https://doc.ghub.fr/cours/retraite#Trimestres)
 
 ---
 
