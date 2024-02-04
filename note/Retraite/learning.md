@@ -138,10 +138,13 @@ réduction qui est appliquée au montant de votre pension de retraite lorsque vo
 [#Calcul de décote](https://doc.ghub.fr/cours/retraite#Calcul_de_décote)
 
 ### Abattement
-Rabais sur une somme à payer
+- Rabais sur une somme à payer
+- Utilise un pourcentage ou un [coefficient](https://doc.ghub.fr/cours/retraite#Coefficient)
 
 ### Coefficient
-Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
+- Nombre qui multiplie la valeur d'une quantité. (En négatif ou positif)
+- Permet de calculer une [majoration](https://doc.ghub.fr/cours/retraite#Majoration) ou [minoration](https://doc.ghub.fr/cours/retraite#Minoration)
+- Permet de passer de % à multiplicateur (exemple : 12% = x1.12)
 
 ### Taux plein
 retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
@@ -626,5 +629,13 @@ L’un des points essentiels pour personnaliser votre relation client est de ré
 **__Les clients apprécient la rapidité et l’efficacité du service__**.  Mettez en place des mesures pour optimiser le temps d’attente, comme la mise en place d’un système de rappel ou la gestion proactive des files d’attente.  
 De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter les clients concernés et de résoudre leurs problèmes rapidement.
 
-### DIVA
+### DIVA(S)
+- **Débit**, ne parlez ni trop vite, ni trop lentement
+- **Intonation** et ton de voix
+- **Volume** de la voix
+- Articulation
+- Sourire (Cela s'entendra au téléphone)
+
+### RGPD en entreprise
+
 ...
