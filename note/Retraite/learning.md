@@ -534,6 +534,21 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Logiciel de gestion d'appel audio
 - Logiciel et matériel réseau
 
+Status :
+- **Ready** (Prêt)
+Vous allez recevoir un appel dès que vous êtes celui ayant le timer depuis le dernier appel le plus long
+- **Not Ready** (Pas prêt)
+Vous êtes connecté, mais pas prêt à recevoir d'appel
+- **Wrap-up**
+Délais après chaque appel pour laisser un temps de pause
+- ACW 'After call work' (Travail après l'appel)
+Similaire à "Non prêt" mais pour une durée maximum de quelques minutes (Ne se retire pas seul)
+- **Pause**
+Pause de quelques minutes suivant la configuration
+- **Pause repas**
+Pause longue pour la durée du repas  
+Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharger le compteur d'agent "prêt"
+
 ### Pulse secure VPN
 - Sécuriser votre connexion
 - Crée un tunnel en chiffrant vos données envoyés et récus 
