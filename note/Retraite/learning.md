@@ -403,28 +403,37 @@ En plus des retraites de base et complémentaires obligatoires, vous pouvez coti
 - Par capitalisation
 - Contractuel
 
+# Informations supplémentaires
+
 ## Aides sous conditions de ressources
 Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
+
 ### Les aides financières pour les familles
 - Allocations familiales
 - Prestation d’accueil du jeune enfant (Paje)
 - Allocation de rentrée scolaire (ARS)
 - L’ Allocation Personnalisée d’ Autonomie APA
+
 ### Les aides liées aux transports
 - Aide SNCF
 - Aides spécifiques à l’Île-de-France
 - Aide au permis de conduire
+
 ### Les aides au logement
 - L’aide personnalisée au logement (APL)
 - La garantie Loca Pass
 - Garantie Visale
+
 ### Les aides pour les jeunes en alternance ou apprentis
 - L’aide mobili-jeune
 - Les aides régionales
+
 ### Les aides pour les jeunes demandeurs d’emploi
 - La garantie jeunes
 - Le RSA Jeune
 - La prime d’activité
+
+# Réseau conseil retraite
 
 ## Bilans et rendez-vous
 
@@ -595,8 +604,7 @@ Une fois à l’aise avec votre CRM et votre interlocuteur, vous serez automatiq
 
 - **__Faire bonne impression__**  
 __**Assurez-vous d’utiliser un ton dynamique et courtois**__ !  
-C’est la clé d’une bonne communication avec le client.  
-Il n’y a pas de miracle pour y parvenir, tout réside dans votre posture et votre attitude.  
+Tout réside dans votre posture et votre attitude.  
 Commencez immédiatement par une présentation claire, ainsi que celle de votre société.  
 __**Évitez le fameux « Allô »**__, qui refroidit immédiatement la conversation.  
 Concentrez-vous à 100 % sur votre appel et évitez de faire patienter votre interlocuteur.
