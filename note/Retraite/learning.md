@@ -105,7 +105,7 @@ reconstitution carrière à valider
 
 ### RGPD
 - [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
-- [# RGPD en entreprise](#RGPD_en_entreprise)
+- [# RGPD en entreprise](#RGPD-en-entreprise)
 
 - Le règlement général sur la protection des données
 - RGPD, ou encore GDPR, de l'anglais General Data Protection Regulation
@@ -140,7 +140,7 @@ Valeur maximum pour limiter un calcul
 
 ### Décote
 réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
-[# Calcul de décote](#Calcul_de_décote)
+[# Calcul de décote](#Calcul-de-décote)
 
 ### Abattement
 - Rabais sur une somme à payer
@@ -431,7 +431,7 @@ Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les indemnités de __**congés payés**__,
 - les indemnités __**compensatrices de congés payés**__, de __**compte épargne temps ou de RTT**__,
 - les __**indemnités de non-concurrence**__,
-- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[# assiette des cotisations](#Assiette_des_cotisations) de la Sécurité sociale,
+- les indemnités liées à la __**rupture du contrat de travail**__ pour la fraction des sommes entrant dans l’[# assiette des cotisations](#Assiette-des-cotisations) de la Sécurité sociale,
 - les __**avantages en argent et en nature**__ (__**qui ne sont pas des remboursements de frais professionnels**__),
 - les __**pourboires**__.
 
@@ -532,7 +532,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ### Gesica
 - [gesica.org / outils](https://www.gesica.org/fr/outils/)
 - Envoie de RIS, EIG, RAP, etc...  
-[# Bilans et rendez-vous](#Bilans_et_rendez-vous)
+[# Bilans et rendez-vous](#Bilans-et-rendez-vous)
 - Combler les trous de carrière
 - Modification et lecture
 
@@ -595,7 +595,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ~ (Entreprise) bonjour, je suis (Prénom), comment puis-je vous aider ?
 
 ### Le client formule sa demande
-- Commencer une [# écoute active](#écoute_active)
+- Commencer une [# écoute active](#écoute-active)
 
 - Phrase de prise en charge  
 ~ Très bien, nous allons nous en occuper ensemble
@@ -610,7 +610,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 ### Questionner sur la demande
 - Collectez le plus d'informations relative à la demande du client  
 - __**Noter directement**__ sur le logiciel en même temps que l'utilisateur vos donne les informations afin de ne pas en oublier
-- Attention à la [# RGPD en entreprise](#RGPD_en_entreprise) ...
+- Attention à la [# RGPD en entreprise](#RGPD-en-entreprise) ...
 
 ### Reformuler la demande du client
 - Permet de confirmer, rassurer, et faire savoir que la demande est bien comprise
