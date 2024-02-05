@@ -538,28 +538,28 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 
 ## Bilans et rendez-vous
 
-### EIR : Entretien information retraite  
+### EIR : Entretien information retraite
 - 25 ans & +  
 - Informations pré / futur retraités  
 - 1 EIR max tout les 6 mois  
 - Moins de ~ 10 trous de carrière  
 - Aucune modification / réctification en cours
 
-### BR : Bilan retraite  
+### BR : Bilan retraite
 - 57 ans et +  
 - Deux ans avant le départ en retraite
 
-### VR : Vérification carrière  
+### VR : Vérification carrière
 - 25 ans à 57 ans
 
-### IR : Informations retraite  
+### IR : Informations retraite
 - 45 ans à 57 ans
 
-### CR : Conseil retraite  
+### CR : Conseil retraite
 - 45 ans  
 - permet de recomposer les trous de carrière
 
-### événementiel :  
+### EIR événementiel
 - 45 ans à 62 ans  
 - lors de salons ou rendez-vous
 
@@ -568,8 +568,8 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - à partir de 35 ans  
 - Par mail, courrier postal, ou espace Agirc-Arrco
 
-### EIG : Estimation individuelle global  
-- votre résumé de vie professionnelle  
+### EIG : Estimation individuelle global
+- Votre résumé de vie professionnelle
 - ce document, envoyé automatiquement par votre caisse de retraite l'année de vos 55 ans  
 - vous indique le montant estimatif de votre pension de retraite  
 - Ensuite, ce document vous sera envoyé tous les 5 ans jusqu'à votre départ à la retraite.
@@ -631,6 +631,7 @@ Système central de liquidation
 - Site web
 - Connexion via France Connect
 - Connexion via compte Agirc-Arrco : Carte identité (Titre de séjour non valide)
+- Ajout de document en ligne et scan automatique (Refuse seul les documents "illisibles")
 
 ### Cisco
 - Logiciel de gestion d'appel audio
@@ -821,6 +822,11 @@ Pour commencer un suivi de la demande de reraite, le dossier doit être complet
 - Ce document est obligatoire avant la date d'effet du départ en retraite pour commencer à liquider un dossier
 - L'IRCANTEC peut demander une notification provenant d'un régime particulier
 - Les informations sur la notification du régime de base vont définir les informations sur le régime complémentaire (Exemple : La date et motif de départ)
+- L'arrivée de la notification va générer la création de l'attestation de minoration
+
+## Attestation de minoration
+- Document détaillant les sommes versés et les minorations & majorations calculés
+- Le valider signifie que vous êtes d'accord avec les valeurs inscrites et les acceptés 
 
 ## Suivi de dossier
 - Vérifier sur la [# GED](#GED) puis ensuite sur [# SCL](#SCL)
@@ -828,6 +834,25 @@ Pour commencer un suivi de la demande de reraite, le dossier doit être complet
 
 # Liquidation de dossier
 Définition : [ # Liquidation](#liquidation)
+
+## Conditions de liquidation
+- Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
+
+- Le régime de base doit notifier avant de liquider complémentaire
+
+## DLR
+Demande de liquidation retraite
+
+## Cas particulier
+ex : RHF, ...
+
+### Engagement de dossier RHF
+Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suivantes : 
+- Date d'éffet
+- Date de naissance
+- Nom d'usage
+- Adresse postale
+- Adresse mail
 
 ## Paiement
 
@@ -844,29 +869,18 @@ Définition : [ # Liquidation](#liquidation)
 - 1 mois payé avant la date d'effet si le dossier est complet
 - 1 mois avant, et 1 mois après payés avec l'AGIRC-ARRCO
 - de ~ 1 à 2 semaines de temps de traitement
- 
+- Va créer une notification du régime concerné ainsi qu'un résumé de carrière
+- Il se lance seul lorsque le dossier est à 100% complété
+
 ### Paiement définitif
 - Paiement non minoré
 - Le calcul est "définitif" et le paiement suivra ce dit calcul
+- 1 à 3 mois sont requis pour passer de paiement provisoire à définitif
 
-
-## Conditions de liquidation
-- Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
-
-- Le régime de base doit notifier avant de liquider complémentaire
-
-## DLR
-Demande de liquidation retraite
-
-## Cas particulier
-
-### Engagement de dossier RHF
-Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suivantes : 
-- Date d'éffet
-- Date de naissance
-- Nom d'usage
-- Adresse postale
-- Adresse mail
+### Arrêt ou annulation des paiements
+- Engendrera un trop perçu des sommes versés via les paiements provisoire
+- Trop perçu remboursable par échelonnage
+- Exemple : L'assuré change sa date de départ
 
 ## Conclusion
 La personne obtient le statut de "retraité" / dossier payé une fois le dossier de retraite liquidé, les mensualités seront envoyés aux dates prévus
