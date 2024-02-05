@@ -240,6 +240,12 @@ Courrier postal
 ### AR
 Accusé de réception
 
+### PJ
+Pièce jointe
+
+### Preuves
+Document ou tout autres informations
+
 ---
 
 # Liste de caisse
@@ -300,7 +306,8 @@ Accusé de réception
 ---
 
 # Régimes
-- Régime de base
+- Régime de base  
+Le premier régime à contacter pour ouvrir ses droits afin d'obtenir la [# notification du régime de base](#notification-du-régime-de-base)
 - Régime complémentaire
 - Régime supplémentaire
 
@@ -572,6 +579,11 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
 - Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
 
+### Rendez-vous liquidation
+- Possible uniquement à l'ouverture et à la dernière phase de la liquidation du dossier
+- La personne doit donc déjà avoir ouvert ses droits retraite et commencer la liquidation
+- Permet d'avoir des informations sur la liquidation d'un dossier
+
 ## Liste d'applications
 
 ### M@arel
@@ -606,6 +618,8 @@ Système central de liquidation
 
 - Engagement et liquidation de dossier retraite
 - Réversion
+
+- Bouton certification : permet d'assurer que les donnés de l'utilisateur sont à jour (mois de ~ 3 mois)
 
 ### MCPD MCE
 - Questionnaire de mariage / décès
@@ -816,6 +830,8 @@ Définition : [ # Liquidation](#liquidation)
 
 - Le régime de base doit notifier avant de liquider complémentaire
 
+## DLR
+Demande de liquidation retraite
 
 ## Cas particulier
 
