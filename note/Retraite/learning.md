@@ -24,6 +24,7 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - [# RGCU](#RGCU) [# Alice](#Alice) [# Allure](#allure) [# DSN-FIAB](#DSN-FIAB)
 - Lurra = flux de remonté ?
 - [# notification du régime de base](#notification-du-régime-de-base)
+
 ---
 
 ## Numéro de téléphone
@@ -82,6 +83,11 @@ Allocation de solidarité aux personnes âgées
 ### ESAA
 Espace sécurisé Agirc Arrco  
 [espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
+
+### Relances
+Des relances mails automatiques sont crées chaque mois pour des documents manquants
+- Il est possible que des clients appellent pour signaler cette relance malgré l'envoie du document déjà réalisé, il sagit en réalité du [# délais de traitement](#délais-de-traitement) naturel
+- Il ne faut re-demander un document qui si il a été envoyé avant le délais de traitement, et est donc "perdu" ou n'a pas été traité correctement.
 
 ### IA
 Informations aux actifs
@@ -147,6 +153,9 @@ Augmentation d'une valeurs
 
 ### Aidant familial
 une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
+
+### Rapprochant
+Individu lié à la personne (parent, enfant, marital)
 
 ### Plafond de la sécurité sociale
 Valeur maximum pour limiter un calcul
@@ -223,8 +232,13 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 
 ### RGCU
 - Répertoire de Gestion des carrières uniques
-
 - NB : Lié / est Gesica ? [# Gesica](#Gesica)
+
+### CP
+Courrier postal
+
+### AR
+Accusé de réception
 
 ---
 
@@ -565,11 +579,15 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - [agirc-arrco.fr / estimer retraite simulateur marel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)
 
 ### GED
+Gestion électronique des documents
+
 - Vision miroir
 - Permet de visualiser les PJ (pièces jointes), les modifiers
 - réaliser des révisions de carrière
 - Aide navigation
 - Compte ESAA bloqué
+- Renvoyer des documents (Uniquement les documents sortants)  
+il est interdit de renvoyer des documents entrants (Hormis originale)
 
 ### GEDI
 
@@ -584,6 +602,8 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Contexte d’inter régimes
 
 ### SCL
+Système central de liquidation
+
 - Engagement et liquidation de dossier retraite
 - Réversion
 
@@ -772,13 +792,21 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 
 # Suivi des clients
 
+## Délais de traitement
+- Le délais de traitement des documents envoyés est de 3 semaines et pour les documents reçus est de 2 semaines
+- Le délais de traitement pour une demande de retraite est de 4 à 6 mois
+
 ## Suivi de demande de retraite
 Pour commencer un suivi de la demande de reraite, le dossier doit être complet
 - 4 à 6 mois sont préconisés pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#liquidation) 
 - Un dossier complet peut commencer à être payé 
 - Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
 
+- Vérifier sur la [# GED](#GED) puis ensuite sur [# SCL](#SCL)
+- Puis commencer à liquider le dossier
+
 ## Suivi de dossier
+...
 
 # Liquidation de dossier
 Définition : [ # Liquidation](#liquidation)
