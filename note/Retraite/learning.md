@@ -18,6 +18,7 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Appels confli
 - Conclusion trame d'appel & prise congé
 - Liste des types d'appels
+- Révision de dossier
 
 ---
 
@@ -190,6 +191,32 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 - Un __indicateur clé de performance__
 - Un indicateur utilisé pour l'__aide à la décision dans les organisations__.
 - Ils sont utilisés particulièrement en gestion de la performance organisationnelle.
+
+### ARE
+- Amortir rebondir enchainer
+- Méthode de gestion des appels
+
+### RHF
+- Résident hors France
+
+- Si vous habitez hors de France, prenez systématiquement l'attache de l'administration fiscale / de retraite locale pour vous faire préciser vos obligations déclaratives et de paiement dans votre pays de résidence, même si vous payez des impôts / cotisez en France
+
+- Il n’y a pas de condition de résidence. On peut donc vivre à l’étranger toute l’année, tout en continuant à percevoir sa pension de retraite française. Nous recommandons, toutefois, de contacter sa caisse de retraite pour s’assurer des modalités de versement de sa retraite
+
+- Afin de toucher votre pension à l’étranger, il convient d’effectuer une demande à votre caisse de retraite française (CNAV, par exemple) accompagnée d’un certificat de résidence et des coordonnées bancaires à l’étranger
+
+### SVI
+- Serveur vocal interactif
+- Un serveur vocal interactif ou SVI est un système informatique capable de dialoguer avec un utilisateur par téléphone
+
+### MEA
+- Mise en attente
+- Voire [# Trame d'appel](#Trame-d'appel) et [# Réaliser une mise en attente](#Réaliser-une-mise-en-attente)
+
+### RGCU
+- Répertoire de Gestion des carrières uniques
+
+- NB : Lié / est Gesica ? [# Gesica](#Gesica)
 
 ---
 
@@ -541,8 +568,11 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - [gesica.org / outils](https://www.gesica.org/fr/outils/)
 - Envoie de RIS, EIG, RAP, etc...  
 [# Bilans et rendez-vous](#Bilans-et-rendez-vous)
-- Combler les trous de carrière
-- Modification et lecture
+- Combler des trous de carrière
+- Modification et lecture et carrière
+- Rectifications de carrières
+
+- Contexte d’inter régimes
 
 ### SCL
 - Engagement et liquidation de dossier retraite
@@ -564,13 +594,13 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Logiciel de gestion d'appel audio
 - Logiciel et matériel réseau
 
-- Cisco Jabber
+#### Cisco Jabber
 Cisco Jabber vous permet d'ajouter des contacts à partir d'applications de discussion telles que Google Talk ou Microsoft Lync. Vous pouvez également ajouter des contacts personnalisés pour les personnes ne possédant pas d'adresse de MI
 
-- Cisco Finesse
+#### Cisco Finesse
 Logiciel de supervision d'agent. Cela contribue à améliorer l’expérience de service client offerte par votre centre de téléphonie VoIP.
 
-Statuts :
+#### Statuts Cisco
 - **Ready** (Prêt)
 Vous allez recevoir un appel dès que vous êtes celui ayant le timer depuis le dernier appel le plus long
 
@@ -594,6 +624,17 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 - Sécuriser votre connexion
 - Crée un tunnel en chiffrant vos données envoyés et récus 
 [ivanti.com](https://www.ivanti.com/fr/company/history/pulse-secure)
+
+### Alice
+- ?
+
+### DSN-FIAB
+- ?
+
+### ALLURE
+- ?
+
+---
 
 # Gestion de la Relation Client
 La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
@@ -628,6 +669,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 - __**Prévenez votre interlocuteur de la mise en attente**__  
 - Signalez la raison de la mise en attente  
 - **__3 minutes maximum__**, à la fin des quelles vous devrez reprendre l'appel, et si besoin remettre en attente de la même manière
+- __Remercier l'interlocuteur de sa patience pour reprendre l'appel__
 
 ### Conclusion
 - Résumer les actions effectués ou que le client devra réaliser
@@ -718,3 +760,15 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - **__donner une information à l'écrit comme à l'oral à la quel l'utilisateur n'avait pas connaissance représente une fuite de donnée__** sévère
 
 - Il reste possible de **__demander confirmation du nom, numéro de téléphone sans le divulguer afin de vérifier l'identité d'un interlocuteur__**
+
+# Liquidation
+
+## Cas particulier
+
+### Engagement de dossier RHF
+Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suivantes : 
+- Date d'éffet
+- Date de naissance
+- Nom d'usage
+- Adresse postale
+- Adresse mail
