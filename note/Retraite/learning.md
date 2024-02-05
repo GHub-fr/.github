@@ -570,9 +570,9 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 
 ### EIG : Estimation individuelle global
 - Votre résumé de vie professionnelle
-- ce document, envoyé automatiquement par votre caisse de retraite l'année de vos 55 ans  
-- vous indique le montant estimatif de votre pension de retraite  
-- Ensuite, ce document vous sera envoyé tous les 5 ans jusqu'à votre départ à la retraite.
+- Ce document, envoyé automatiquement par votre caisse de retraite l'année de vos 55 ans
+- Vous indique le montant estimatif de votre pension de retraite
+- Ensuite, ce document vous sera envoyé tous les 5 ans jusqu'à votre départ à la retraite
 
 ### RAP : relevé actualisé de points
 - récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
