@@ -19,6 +19,8 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Conclusion trame d'appel & prise congé
 - Liste des types d'appels
 - Révision de dossier
+- Hashtag (Conversion-des-points-Agirc-et-Arrco) [doc previssima .fr](https://www.previssima.fr/question-pratique/que-deviennent-les-anciens-points-agirc-dans-le-regime-unifie-agirc-arrco.html)
+- Personne sans RNI (Par voie postale, Identité complète à noter, Carte ID, bulletins de sallaires)
 
 ---
 
@@ -167,8 +169,11 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 - [# Trimestres requis pour un taux plein](#Trimestres)
 
 ### Liquidation
+- Vendre un bien, en argent liquide : Liquider des valeurs. 
+- Assainir une affaire de façon à régler ce que l'on doit et à récupérer ce qui est dû : Liquider un compte.
+
 - Une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite
-- Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
+
 - Voire [# Liquidation de dossier](#Liquidation-de-dossier)
 
 ### Répartition
@@ -227,8 +232,9 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 ## Organismes de retraite des salariés
 - CNAV (Régime général de la sécurité sociale) 
 - MSA (Mutualité Sociale Agricole)
-- ARRCO
-- AGIRC
+- ARRCO (Crée en 1962, 1999, passage de 44 régimes à un régime unifié créant l'ARRCO)
+- AGIRC (Création en 1947)
+- AGIRC-ARRCO (1er janvier 2019, les régimes de retraite complémentaire ARRCO et AGIRC fusionnent avec [# conversion des points](#Conversion-des-points-Agirc-et-Arrco) )
 - IRCANTEC (Institution de Retraite Complémentaire des Agents Non Titulaires de l'Etat et des Collectivités publiques)
 - Banque de France
 - Retraite des Mines
@@ -763,7 +769,13 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - Il reste possible de **__demander confirmation du nom, numéro de téléphone sans le divulguer afin de vérifier l'identité d'un interlocuteur__**
 
 # Liquidation de dossier
-Définition Liquidation
+Définition : [ # Liquidation](#liquidation)
+
+## Conditions
+- Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
+
+- Le régime de base doit notifier avant de liquider complémentaire
+
 
 ## Cas particulier
 
