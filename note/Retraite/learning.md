@@ -624,8 +624,8 @@ Système central de liquidation
 - Questionnaire de mariage / décès
 
 ### CRM
-- Informations sur les payements
-- Suivi des payements
+- Informations sur les paiements
+- Suivi des paiements
 
 ### ESAA
 - Site web
@@ -812,14 +812,15 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 ## Suivi de demande de retraite
 Pour commencer un suivi de la demande de reraite, le dossier doit être complet
 - 4 à 6 mois sont préconisés pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#liquidation) 
-- Un dossier complet peut commencer à être payé 
+- Un dossier complet peut commencer à être payé de manière provisoire jusqu'au paiements définitifs
 - Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
 - Phase de saisie des documents et d'information au pré-retraité
 
 ## Notification du régime de base
 - La notification du régime de base est un document comportant la date dé départ, le motif de départ ainsi que les informations de l'assuré
-- Ce document est obligatoire pour commencer à liquider un dossier
+- Ce document est obligatoire avant la date d'effet du départ en retraite pour commencer à liquider un dossier
 - L'IRCANTEC peut demander une notification provenant d'un régime particulier
+- Les informations sur la notification du régime de base vont définir les informations sur le régime complémentaire (Exemple : La date et motif de départ)
 
 ## Suivi de dossier
 - Vérifier sur la [# GED](#GED) puis ensuite sur [# SCL](#SCL)
@@ -828,7 +829,28 @@ Pour commencer un suivi de la demande de reraite, le dossier doit être complet
 # Liquidation de dossier
 Définition : [ # Liquidation](#liquidation)
 
-## Conditions
+## Paiement
+
+### Conditions
+- Si vous avez moins de 100 points vous ne pouvez pas avoir un paiement mensuel, ni un paiement définitif ou provisoire (Paiement unique lors de la liquidation)
+- De 100 à 200 points un [# Paiement provisoire](#paiement-provisoire) annuel peut être crée
+- Vous devez avoir > 200 points pour avoir un [# Paiement définitif](#paiement-définitif) et demande le [# Paiement provisoire](#paiement-provisoire) mensuel
+
+### Paiement provisoire
+- Paiement minoré (~ 50%) comparé au paiement définitif
+- Temporaire le temps de la fin du traitement du dossier
+- Permet de palier au manque de ressource de l'assuré
+- Laisse le temps de valider toutes les informations avant [# Paiement définitif](#paiement-définitif)
+- 1 mois payé avant la date d'effet si le dossier est complet
+- 1 mois avant, et 1 mois après payés avec l'AGIRC-ARRCO
+- de ~ 1 à 2 semaines de temps de traitement
+ 
+### Paiement définitif
+- Paiement non minoré
+- Le calcul est "définitif" et le paiement suivra ce dit calcul
+
+
+## Conditions de liquidation
 - Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
 
 - Le régime de base doit notifier avant de liquider complémentaire
