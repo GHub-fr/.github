@@ -23,7 +23,6 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Personne sans RNI (Par voie postale, Identité complète à noter, Carte ID, bulletins de sallaires)
 - [# RGCU](#RGCU) [# Alice](#Alice) [# Allure](#allure) [# DSN-FIAB](#DSN-FIAB)
 - Lurra = flux de remonté ?
-- [# notification du régime de base](#notification-du-régime-de-base)
 
 ---
 
@@ -815,12 +814,16 @@ Pour commencer un suivi de la demande de reraite, le dossier doit être complet
 - 4 à 6 mois sont préconisés pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#liquidation) 
 - Un dossier complet peut commencer à être payé 
 - Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
+- Phase de saisie des documents et d'information au pré-retraité
 
-- Vérifier sur la [# GED](#GED) puis ensuite sur [# SCL](#SCL)
-- Puis commencer à liquider le dossier
+## Notification du régime de base
+- La notification du régime de base est un document comportant la date dé départ, le motif de départ ainsi que les informations de l'assuré
+- Ce document est obligatoire pour commencer à liquider un dossier
+- L'IRCANTEC peut demander une notification provenant d'un régime particulier
 
 ## Suivi de dossier
-...
+- Vérifier sur la [# GED](#GED) puis ensuite sur [# SCL](#SCL)
+- Puis commencer à liquider le dossier
 
 # Liquidation de dossier
 Définition : [ # Liquidation](#liquidation)
@@ -842,3 +845,6 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 - Nom d'usage
 - Adresse postale
 - Adresse mail
+
+## Conclusion
+La personne obtient le statut de "retraité" / dossier payé une fois le dossier de retraite liquidé, les mensualités seront envoyés aux dates prévus
