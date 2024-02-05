@@ -21,7 +21,9 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Révision de dossier
 - Hashtag (Conversion-des-points-Agirc-et-Arrco) [doc previssima .fr](https://www.previssima.fr/question-pratique/que-deviennent-les-anciens-points-agirc-dans-le-regime-unifie-agirc-arrco.html)
 - Personne sans RNI (Par voie postale, Identité complète à noter, Carte ID, bulletins de sallaires)
-
+- [# RGCU](#RGCU) [# Alice](#Alice) [# Allure](#allure) [# DSN-FIAB](#DSN-FIAB)
+- Lurra = flux de remonté ?
+- [# notification du régime de base](#notification-du-régime-de-base)
 ---
 
 ## Numéro de téléphone
@@ -682,7 +684,7 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 - Résumer les actions effectués ou que le client devra réaliser
 
 ### Clôture
-- Proposer l'utilisation de l'espace Agirc-Arrco en ligne sécurisé
+- Proposer l'utilisation de l'espace Agirc-Arrco en ligne sécurisé [# ESAA](#ESAA) (Rapidité et autonomie)
 - Prise de congé
 
 ### Appelant tiers
@@ -767,6 +769,16 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - **__donner une information à l'écrit comme à l'oral à la quel l'utilisateur n'avait pas connaissance représente une fuite de donnée__** sévère
 
 - Il reste possible de **__demander confirmation du nom, numéro de téléphone sans le divulguer afin de vérifier l'identité d'un interlocuteur__**
+
+# Suivi des clients
+
+## Suivi de demande de retraite
+Pour commencer un suivi de la demande de reraite, le dossier doit être complet
+- 4 à 6 mois sont préconisés pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#liquidation) 
+- Un dossier complet peut commencer à être payé 
+- Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
+
+## Suivi de dossier
 
 # Liquidation de dossier
 Définition : [ # Liquidation](#liquidation)
