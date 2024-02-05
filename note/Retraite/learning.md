@@ -19,6 +19,12 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Conclusion trame d'appel & prise congé
 - Liste des types d'appels
 - Révision de dossier
+- Trimestres réputés cotisés et non réputés côtisés
+- Appel dissuadé = appel non abouti ?
+- MCPD & MCE peut bloquer un compte à l'étranger
+- Utilisateur à l'étranger = Besoin acte naissance et justificatif de domciliation
+- Info à jamais dire (montant, RPGD leak data, etc)
+- MàJ carrière = 1 sem de traitement BO
 - Hashtag (Conversion-des-points-Agirc-et-Arrco) [doc previssima .fr](https://www.previssima.fr/question-pratique/que-deviennent-les-anciens-points-agirc-dans-le-regime-unifie-agirc-arrco.html)
 - Personne sans RNI (Par voie postale, Identité complète à noter, Carte ID, bulletins de sallaires)
 - [# RGCU](#RGCU) [# Alice](#Alice) [# Allure](#allure) [# DSN-FIAB](#DSN-FIAB)
