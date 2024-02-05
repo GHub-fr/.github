@@ -169,6 +169,7 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 ### Liquidation
 - Une procédure de cessation de l'activité ou de dissolution d'une entreprise, par exemple dans le cas d'une faillite
 - Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
+- Voire [# Liquidation de dossier](#Liquidation-de-dossier)
 
 ### Répartition
 - Un système ou régime par répartition. 
@@ -761,7 +762,8 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 
 - Il reste possible de **__demander confirmation du nom, numéro de téléphone sans le divulguer afin de vérifier l'identité d'un interlocuteur__**
 
-# Liquidation
+# Liquidation de dossier
+Définition Liquidation
 
 ## Cas particulier
 
