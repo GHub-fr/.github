@@ -791,6 +791,12 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - Articulation
 - Sourire (Cela s'entendra au téléphone)
 
+## Appels conflictuels
+- Déséquilibre émotionnel de l'assuré
+- Avoir une empathie professionnelle
+- Discours dans les circonstance
+- 
+
 # RGPD en entreprise
 - [# RGPD](#RGPD)
 
