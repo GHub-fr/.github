@@ -795,7 +795,15 @@ De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter 
 - Déséquilibre émotionnel de l'assuré
 - Avoir une empathie professionnelle
 - Discours dans les circonstance
-- 
+- Répondre au manque / besoin de l'assuré
+- L'assuré peut avoir perdu confiance face à une perte d'autonomie
+- L'assuré peut passer par une variété de sentiment (colère,  tristesse, incertitudes, stress, ... )
+- Vous ne devez pas réagir à chaud et faire preuve d'objectivité professionnelle
+- Vous pouvez re impliquer l'assuré dans le dailogue en lui signalant que nous sommes là pour l'aider,  et que son propre calme l'aidera à régler ces détails au mieux
+- Ne pas utiliser [# La négation](#la-négation))
+- Rassurer l'assuré sur le devenir de sa demande
+- Ne mentez jamais à un client, et ne faites pas non plus de promesses, encore plus si difficile à tenir ou incertaine
+- Si l'interlocuteur est beaucoup trop virulent, passez en écoute passive silencieuse
 
 # RGPD en entreprise
 - [# RGPD](#RGPD)
