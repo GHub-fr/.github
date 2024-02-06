@@ -478,15 +478,19 @@ Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-
 - __SAB__ = Salaire annuel brut
 - __TC__ = Taux de cotisation  
 (__Taux__ Tranche 1 : 6.20%, tranche 2 : 17%)  
-(__Tranche 1__ : De 1 à 3 864 euros par mois
-De 1 à 46 368 euros par an)  
-(__Tranche 2__ : De 3 864 à 30 912 euros par mois
-De 46 368 à 370 944 euros par an)
+(__Tranche 1__ : De 1 à 3 864 euros par mois, de 1 à 46 368 euros par an, soit l'équivalent du PASS)
+
+(__Tranche 2__ : De 3 864 à 30 912 euros par mois, de 46 368 à 370 944 euros par an, soit 1 à 4 fois le PASS)
+
+(__Tranche 3__ : N'existe plus depuis 2016, fin de liquidation des points des cadres tranche 'C' en 2018, de 185 472 à 370 944 euros par mois, de 2 225 664 à 4 451 328 euros par an, soit de 4 à 8 fois le PASS)
+
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
 __VPAA__ = Valeur point Agirc-Arrco (1.4159 : 2023)
 - __PASS__ = Plafond annuel de la sécurité sociale (46'368€) (Maximum tranche 1)
-- PASS * 8 = 370'944 € (PASS **__Maximum tranche 2__**)
+- PASS x 4 = 185 472 €
+- PASS x 8 = 370 944 €
+- (PASS **__Maximum tranche 2__**)
 
 - Si le **salair annuel brut est au supérieur ou égal au plafond annuel de la sécurité sociale** :
 Le salair annuel brut devient ; **__SAB = SAB - PASS__**  
