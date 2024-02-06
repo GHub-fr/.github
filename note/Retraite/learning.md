@@ -722,10 +722,14 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 
 ### Conclusion
 - Résumer les actions effectués ou que le client devra réaliser
+- Reformuler la synthèse finale de l'appel
+- Demander la validation de l'assuré en lui demandant si il a bien compris les faits reformulés
 
 ### Clôture
 - Proposer l'utilisation de l'espace Agirc-Arrco en ligne sécurisé [# ESAA](#ESAA) (Rapidité et autonomie)
 - Prise de congé
+- Ne jamais utiliser "aurevoir"
+- 
 
 ### Appelant tiers
 Si l'utilisateur qui appel n'est pas le client mais une tierce personne, vous devrez aussi prendre ses informations (à l'exception du NIR) et son n° de téléphone en cas d'erreur
