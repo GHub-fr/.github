@@ -7,7 +7,7 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 ## Raccourcis
 - [# Numéro de téléphone](#Numéro-de-téléphone)
-- [# Trame d'appel](#Trame-d'appel)
+- [# Trame d'appel](#Trame-dappel)
 - [# Bilans et rendez-vous](#bilans-et-rendez-vous)
 - [# Liens utiles](#Liens-utiles)
 
@@ -233,7 +233,7 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 
 ### MEA
 - Mise en attente
-- Voire [# Trame d'appel](#Trame-d'appel) et [# Réaliser une mise en attente](#Réaliser-une-mise-en-attente)
+- Voire [# Trame d'appel](#Trame-dappel) et [# Réaliser une mise en attente](#Réaliser-une-mise-en-attente)
 
 ### RGCU
 - Répertoire de Gestion des carrières uniques
