@@ -3,7 +3,8 @@ Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagn
 # Liste d'éléments HTML : Liste et définitions
 ## Propriétés de base
 ### < !DOCTYPE html >
-- Déclaration du type de document HTML### C'est la première ligne d'un document HTML5
+- Déclaration du type de document HTML
+- C'est la première ligne d'un document HTML5
 
 ### < html >
 - Balise racine de tout document HTML, contenant tous les autres éléments
