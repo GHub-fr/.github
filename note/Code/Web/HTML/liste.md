@@ -1,4 +1,5 @@
 Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagnée de leurs définitions en français.
+
 **Attention** : Cette liste n'est pas exhaustive car le langage HTML est constamment évoluant et se perfectionnant avec chaque nouvelle version. Néanmoins, nous couvrirons ici les propriétés communes et les plus utilisées.
 # Liste d'éléments HTML : Liste et définitions
 ## Propriétés de base
