@@ -893,7 +893,7 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 ### Conditions
 - Si vous avez moins de 100 points vous ne pouvez pas avoir un paiement mensuel, ni un paiement définitif ou provisoire (Paiement unique lors de la liquidation)
 - De 100 à 200 points un [# Paiement provisoire](#paiement-provisoire) annuel peut être crée
-- Vous devez avoir > 200 points pour avoir un [# Paiement définitif](#paiement-définitif) et demande le [# Paiement provisoire](#paiement-provisoire) mensuel
+- Vous devez avoir plus 200 points pour avoir un [# Paiement définitif](#paiement-définitif) et demande le [# Paiement provisoire](#paiement-provisoire) mensuel
 
 ### Paiement provisoire
 - Paiement minoré (~ 50%) comparé au paiement définitif
