@@ -690,17 +690,17 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 ---
 
 # Gestion de la Relation Client
-La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
+- La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le **terme anglophone de CRM** (Customer Relationship Management). C'est une **__technique marketing et commerciale visant à mieux capter et analyser les données des clients__** ou prospects pour __**créer une relation de proximité et mieux les fidéliser**__.
 
 ## Trame d'appel
 ### Accueil du client
-~ (Entreprise) bonjour, je suis (Prénom), comment puis-je vous aider ?
+- `(Entreprise) bonjour, je suis (Prénom), comment puis-je vous aider ?`
 
 ### Le client formule sa demande
 - Commencer une [# écoute active](#écoute-active)
 
 - Phrase de prise en charge  
-~ Très bien, nous allons nous en occuper ensemble
+- `Très bien, nous allons nous en occuper ensemble`
 
 ### Identifier le client
 - **__NIR__** (numéro de sécurité sociale "numéro d'inscription au répertoire")  
@@ -733,64 +733,70 @@ La **GRC** (Gestion de la Relation Client) est aujourd'hui plus connue sous le *
 - Proposer l'utilisation de l'espace Agirc-Arrco en ligne sécurisé [# ESAA](#ESAA) (Rapidité et autonomie)
 - Prise de congé
 - Ne jamais utiliser "aurevoir"
-- 
 
 ### Appelant tiers
-Si l'utilisateur qui appel n'est pas le client mais une tierce personne, vous devrez aussi prendre ses informations (à l'exception du NIR) et son n° de téléphone en cas d'erreur
+- Si l'utilisateur qui appel n'est pas le client mais une tierce personne, vous devrez aussi prendre ses informations (à l'exception du NIR) et son n° de téléphone en cas d'erreur
 
 ## écoute active
-L'écoute active **vous invite à saisir et répondre ou intervenir sur chaque détail du message, verbal ou non, de la personne qui communique avec vous**. __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
-
-Cette façon de communiquer permet de créer un **climat de confiance** avec votre interlocuteur. Ainsi, il se sent libre de s'exprimer comme il l'entend, sans jugement de votre part.
+- L'écoute active **vous invite à saisir et répondre ou intervenir sur chaque détail du message, verbal ou non, de la personne qui communique avec vous**.
+- __Cela permet de lui **faire savoir que votre attention se focalise sur lui** et que vous avez entendu et compris son message__.
+- Cette façon de communiquer permet de créer un **climat de confiance** avec votre interlocuteur. Ainsi, il se sent libre de s'exprimer comme il l'entend, sans jugement de votre part.
 
 ### Ne pas interrompre son interlocuteur
-La première étape de l'écoute bienveillante consiste à **__laisser votre interlocuteur s'exprimer clairement et librement__**.  
-Cela suppose que vous ne devez pas l'interrompre. 
-En effet, **__il nous arrive souvent de couper la parole à notre interlocuteur pour lui faire savoir que l'on a compris__**. Erreur à éviter absolument.  
-Vous devez aller également au-delà du message verbal, par exemple, interprétez les gestes comme les tics, **__le débit rapide ou le regard fuyant__**.
+- La première étape de l'écoute bienveillante consiste à **__laisser votre interlocuteur s'exprimer clairement et librement__**.  
+- Cela suppose que vous ne devez pas l'interrompre. 
+- En effet, **__il nous arrive souvent de couper la parole à notre interlocuteur pour lui faire savoir que l'on a compris__**. Erreur à éviter absolument.  
+- Vous devez aller également au-delà du message verbal, par exemple, interprétez les gestes comme les tics, **__le débit rapide ou le regard fuyant__**.
 
 ### S'adapter à sa personnalité
-Pour que l'autre ait pleinement confiance en vous, essayez de calquer votre mode de communication sur le sien. En effet, en reprenant sa façon de parler, ses tics de langage, ses temps de silence, votre partenaire se sentira plus à l'aise.
+- Pour que l'autre ait pleinement confiance en vous, essayez de calquer votre mode de communication sur le sien.
+- En effet, en reprenant sa façon de parler, ses tics de langage, ses temps de silence, votre partenaire se sentira plus à l'aise.
+- Si la personne a reçu une mauvaise nouvelle, il ne vaut mieux pas dire "super" par exemple
 
 ### L'inciter à approfondir son propos
-Lorsqu'il a fini de s'exprimer, essayez d'avoir davantage d'approfondissements de sa part. **__Questionnez votre interlocuteur__** si vous n'êtes pas certain.e d'avoir compris ses pensées.  
-Faites tout de même attention à ne pas avancer des solutions ou des avis.  
-L'idée est de l'inviter à exposer avec précision ses points de vue.
+- Lorsqu'il a fini de s'exprimer, essayez d'avoir davantage d'approfondissements de sa part. **__Questionnez votre interlocuteur__** si vous n'êtes pas certain.e d'avoir compris ses pensées.  
+- Faites tout de même attention à ne pas avancer des solutions ou des avis.  
+- L'idée est de l'inviter à exposer avec précision ses points de vue.
 
 ### Faire preuve de disponibilité  
-L'autre clé de l'écoute active c'est de **__savoir reformuler le message partagé par votre interlocuteur__**. Cela permet de faire preuve de votre disponibilité, physiquement et temporellement, vis-à-vis de l'autre. __En reformulant ce qu'il a dit, vous démontrez que vous êtes en plein dans la conversation__. Il en résulte une relation apaisée.  
-Cela permet aussi de __**faire savoir que vous avez compris la demande du client**__
+- L'autre clé de l'écoute active c'est de **__savoir reformuler le message partagé par votre interlocuteur__**.
+- Cela permet de faire preuve de votre disponibilité, physiquement et temporellement, vis-à-vis de l'autre. __En reformulant ce qu'il a dit, vous démontrez que vous êtes en plein dans la conversation__.
+- Il en résulte une relation apaisée.  
+- Cela permet aussi de __**faire savoir que vous avez compris la demande du client**__
 
 ### Être patient
-Évitez de faire preuve d'impatience comme si vous voulez en finir au plus vite pour la discussion. __Il ne faut pas laisser paraître une quelconque marque de frustration ou d'impatience__. Aussi vous devez vous abstenir des gestes qui risquent de déconcerter l'interlocuteur : __**soupir bruyant, regard perdu au plafond, etc**__.
+- Évitez de faire preuve d'impatience comme si vous voulez en finir au plus vite pour la discussion.
+- __Il ne faut pas laisser paraître une quelconque marque de frustration ou d'impatience__.
+- Aussi vous devez vous abstenir des gestes qui risquent de déconcerter l'interlocuteur : __**soupir bruyant, regard perdu au plafond, etc**__.
 
 ### Le jargon reste entre collégue
-Partout dans le monde, certaines expressions sont plus populaires que d’autres dans les bureaux d’entreprises. La plupart d’entre elles viennent de l’anglais, ce qui **ne facilite pas toujours la communication**.
+- Partout dans le monde, certaines expressions sont plus populaires que d’autres dans les bureaux d’entreprises. La plupart d’entre elles viennent de l’anglais, ce qui **ne facilite pas toujours la communication**.
 
 ### La négation
-« Ne quittez pas »  
-__**Cette phrase comporte une négation, message de « mauvais traitement » reçu par le cerveau de votre interlocuteur**__  
-Cette phrase appartient à un autre temps (celui du « coupez pas ! ») : __**on sait dire à présent « veuillez patienter, je vous mets en relation avec… »**__  
+- « Ne quittez pas »  
+-__**Cette phrase comporte une négation, message de « mauvais traitement » reçu par le cerveau de votre interlocuteur**__  
+- Cette phrase appartient à un autre temps (celui du « coupez pas ! ») : __**on sait dire à présent « veuillez patienter, je vous mets en relation avec… »**__  
 le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 
 ### Personnaliser
-Connaître vos clients sur le bout des doigts : C’est le fondement même de votre métier.  
-Collectez les données essentielles concernant vos clients afin de mieux communiquer avec eux.  
-Par exemple, lors de l’appel, **__utilisez leur nom pour établir efficacement le contact__** (__1 à 3 fois maximum__).  
-Votre réussite repose sur vos échanges avec vos clients, ce qui contribue à valoriser l’image de votre entreprise.  
-Une fois à l’aise avec votre CRM et votre interlocuteur, vous serez automatiquement mieux préparés pour gérer les appels difficiles et maîtriser votre stress au téléphone.
+- Connaître vos clients sur le bout des doigts : C’est le fondement même de votre métier.  
+- Collectez les données essentielles concernant vos clients afin de mieux communiquer avec eux.  
+- Par exemple, lors de l’appel, **__utilisez leur nom pour établir efficacement le contact__** (__1 à 3 fois maximum__).  
+- Votre réussite repose sur vos échanges avec vos clients, ce qui contribue à valoriser l’image de votre entreprise.  
+- Une fois à l’aise avec votre CRM et votre interlocuteur, vous serez automatiquement mieux préparés pour gérer les appels difficiles et maîtriser votre stress au téléphone.
 
 ### Faire bonne impression
-__**Assurez-vous d’utiliser un ton dynamique et courtois**__ !  
-Tout réside dans votre posture et votre attitude.  
-Commencez immédiatement par une présentation claire, ainsi que celle de votre société.  
-__**Évitez le fameux « Allô »**__, qui refroidit immédiatement la conversation.  
-Concentrez-vous à 100 % sur votre appel et évitez de faire patienter votre interlocuteur.
+- __**Assurez-vous d’utiliser un ton dynamique et courtois**__ !  
+- Tout réside dans votre posture et votre attitude.  
+- Commencez immédiatement par une présentation claire, ainsi que celle de votre société.  
+- __**Évitez le fameux « Allô »**__, qui refroidit immédiatement la conversation.  
+- Concentrez-vous à 100 % sur votre appel et évitez de faire patienter votre interlocuteur.
 
 ### Réduire le temps d’attente et les appels non aboutis
-L’un des points essentiels pour personnaliser votre relation client est de réduire le temps d’attente et les appels non aboutis.  
-**__Les clients apprécient la rapidité et l’efficacité du service__**.  Mettez en place des mesures pour optimiser le temps d’attente, comme la mise en place d’un système de rappel ou la gestion proactive des files d’attente.  
-De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter les clients concernés et de résoudre leurs problèmes rapidement.
+- L’un des points essentiels pour personnaliser votre relation client est de réduire le temps d’attente et les appels non aboutis.
+- **__Les clients apprécient la rapidité et l’efficacité du service__**.
+- Mettez en place des mesures pour optimiser le temps d’attente, comme la mise en place d’un système de rappel ou la gestion proactive des files d’attente.
+- De plus, assurez-vous de bien suivre les appels non aboutis afin de recontacter les clients concernés et de résoudre leurs problèmes rapidement.
 
 ## DIVA(S)
 - **Débit**, ne parlez ni trop vite, ni trop lentement
