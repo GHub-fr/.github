@@ -49,23 +49,23 @@ Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagn
  - Balise de paragraphe, utilisée pour définir un texte indépendant dans une page web
 
 ### < h1 > à < h6 >
- - Balises de titre utilisées pour définir les niveaux de titres d'un document HTML, de < h1 > (le plus important) à < h6 > (le moins important)
+ - Balises de titre utilisées pour définir les niveaux de titres d'un document HTML, de `< h1 >` (le plus important) à `< h6 >` (le moins important)
 
 ## Autre
 ### < img >
  - Balise utilisée pour insérer des images dans un document HTML
 
 ### < ul > et < ol >
- - Balises de liste : < ul > (liste non ordonnée) et < ol > (liste ordonnée)
+ - Balises de liste : `< ul >` (liste non ordonnée) et `< ol >` (liste ordonnée)
 
 ### < li >
- - Balise utilisée pour définir chaque élément d'une liste, dans une < ul > ou une < ol >
+ - Balise utilisée pour définir chaque élément d'une liste, dans une `< ul >` ou une `< ol >`
 
 ### < table >
  - Balise utilisée pour créer des tables dans un document HTML
 
 ### < tr > et < td >
- - Balises de table : < tr > (ligne) et < td > (cellule)
+ - Balises de table : `< tr >` (ligne) et `< td >` (cellule)
 
 ## Interfaces
 ### < form >
@@ -93,7 +93,7 @@ Dans ce chapitre, nous allons présenter une liste des éléments HTML accompagn
  - Balises utilisées pour ajouter des médias audio et vidéo à un document HTML
 
 ### < source >
- - Balise utilisée pour définir les sources de fichiers multimédias (audio ou vidéo) dans une balise < audio > ou < video >
+ - Balise utilisée pour définir les sources de fichiers multimédias (audio ou vidéo) dans une balise `< audio >` ou `< video >`
 
 ## Code
 ### < script >
