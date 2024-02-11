@@ -938,11 +938,13 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 - Adresse mail
 
 ## Paiement
+- Dossier complet ([# Suivi de demande de retraite](#Suivi-de-demande-de-retraite))
+- [# Notification du régime de base](#Notification-du-régime-de-base) daté et signé
 
 ### Conditions
 - Si vous avez moins de 100 points vous ne pouvez pas avoir un paiement mensuel, ni un paiement définitif ou provisoire (Paiement unique lors de la liquidation)
-- De 100 à 200 points un [# Paiement provisoire](#paiement-provisoire) annuel peut être crée
-- Vous devez avoir plus 200 points pour avoir un [# Paiement définitif](#paiement-définitif) et demande le [# Paiement provisoire](#paiement-provisoire) mensuel
+- De **100 à 200 points** un [# Paiement provisoire](#paiement-provisoire) **annuel** peut être crée
+- Vous devez avoir plus **200 points** pour avoir un [# Paiement définitif](#paiement-définitif) **mensuel** via le [# Paiement provisoire](#paiement-provisoire) en premier lieu
 
 ### Paiement provisoire
 - Paiement minoré (~ 50%) comparé au paiement définitif
