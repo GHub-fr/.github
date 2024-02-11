@@ -56,48 +56,51 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 ## Lexique
 
 ### Arrco
-pour l'ensemble des salariés
+- pour l'ensemble des salariés
 
 ### Agirc
-si vous êtes ou avez été cadre
+- si vous êtes ou avez été cadre
+
+### CMCR
+- La caisse monégasque de retraite complémentaire
 
 ### NIR
-numéro de sécurité sociale  
-"numéro d'inscription au répertoire"  
+- numéro de sécurité sociale  
+- "numéro d'inscription au répertoire"  
 
 ### GRC
-Gestion relation client
+- Gestion relation client
 
 ### RCR
-Réseau conseil retraite
+- Réseau conseil retraite
 
 ### GPS
 - Groupe de protection sociale  
 - Rassemble plusieurs organismes contrôlés et gérés par les partenaires sociaux à la fois représentants des salariés et des employeurs (groupe paritaire)
 
 ### IRC
-Institution de retraite complémentaire
+- Institution de retraite complémentaire
 
 ### ASPA
-Allocation de solidarité aux personnes âgées
+- Allocation de solidarité aux personnes âgées
 
 ### ESAA
-Espace sécurisé Agirc Arrco  
-[espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
+- Espace sécurisé Agirc Arrco  
+- [espace-personnel . agirc-arrco.fr](https://espace-personnel.agirc-arrco.fr/)
 
 ### Relances
-Des relances mails automatiques sont crées chaque mois pour des documents manquants
+- Des relances mails automatiques sont crées chaque mois pour des documents manquants
 - Il est possible que des clients appellent pour signaler cette relance malgré l'envoie du document déjà réalisé, il sagit en réalité du [# délais de traitement](#délais-de-traitement) naturel
 - Il ne faut re-demander un document qui si il a été envoyé avant le délais de traitement, et est donc "perdu" ou n'a pas été traité correctement.
 
 ### IA
-Informations aux actifs
+- Informations aux actifs
 
 ### DSN
-Déclaration sociale nominative
+- Déclaration sociale nominative
 
 ### BRC
-Bureau retraite complémentaire
+- Bureau retraite complémentaire
 
 ### BO
 - Back office (service d’appui1 ou post-marché selon la terminologie)  
@@ -105,23 +108,23 @@ Bureau retraite complémentaire
 - Il collabore avec le front-office, responsable des activités qui génèrent du revenu ainsi qu'avec le middle-office qui assure le support de ce dernier.
 
 ### RNI
-Référentiels Nationaux Individus
+- Référentiels Nationaux Individus
 
 ### RNGD
-Référentiel National de Gestion des Droits
+- Référentiel National de Gestion des Droits
 
 ### TTC
-Thème type complément  
-ou toutes taxes comprises
+- Thème type complément  
+- ou toutes taxes comprises
 
 ### PCC
-Période de carrière à compléter
+- Période de carrière à compléter
 
 ### PEC
-Prise en charge
+- Prise en charge
 
 ### RCV
-reconstitution carrière à valider
+- reconstitution carrière à valider
 
 ### RGPD
 - [RGPD Wiki](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es)
@@ -157,22 +160,22 @@ reconstitution carrière à valider
 - Mise en paiement
 
 ### Minoration
-Réduction d'une valeurs
+- Réduction d'une valeurs
 
 ### Majoration
-Augmentation d'une valeurs
+- Augmentation d'une valeurs
 
 ### Aidant familial
-une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
+- une personne est considérée comme aidant familial lorsqu'elle s'occupe quotidiennement d'un proche dépendant, handicapé ou malade et quel que soit son âge
 
 ### Rapprochant
-Individu lié à la personne (parent, enfant, marital)
+- Individu lié à la personne (parent, enfant, marital)
 
 ### Plafond de la sécurité sociale
-Valeur maximum pour limiter un calcul
+- Valeur maximum pour limiter un calcul
 
 ### Décote
-réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
+- Réduction qui est appliquée au montant de votre pension de retraite lorsque vous partez en retraite sans avoir droit à une retraite à taux plein.  
 [# Calcul de décote](#Calcul-de-décote)
 
 ### Abattement
@@ -185,7 +188,8 @@ réduction qui est appliquée au montant de votre pension de retraite lorsque vo
 - Permet de passer de % à multiplicateur (exemple : 12% = x1.12)
 
 ### Taux plein
-retraite accordée sans décote. La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
+- retraite accordée sans décote.
+- La retraite de base de l'Assurance retraite de la Sécurité sociale vous est accordée à taux plein notamment dans 2 cas : 
 - Vous partez en __retraite **avant 67 ans** en ayant un nombre précis de trimestres d'assurance retraite__, tous régimes confondus
 - Ou vous partez à la __retraite **à 67 ans**, quel que soit votre nombre de trimestres__ d'assurance retraite
 - [# Trimestres requis pour un taux plein](#Trimestres)
@@ -258,16 +262,16 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 - NB : Lié / est Gesica ? [# Gesica](#Gesica)
 
 ### CP
-Courrier postal
+- Courrier postal
 
 ### AR
-Accusé de réception
+- Accusé de réception
 
 ### PJ
-Pièce jointe
+- Pièce jointe
 
 ### Preuves
-Document ou tout autres informations
+- Document ou tout autres informations
 
 ### Droit direct
 - Droits acquis par une personne au titre de sa carrière personnelle 
@@ -657,6 +661,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Demande unique inter-régime de retraite en ligne
 - Depuis le 15 mars 2019
 - Vous avez la possibilité de faire qu’une seule demande pour l’ensemble de vos régimes de retraite de base et complémentaire
+- Uniquement par demande de l'assuré
 
 ### DLR
 Demande de liquidation retraite
@@ -990,10 +995,20 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 - Adresse postale
 - Adresse mail
 
+### Individus sans NIR
+- NTT (numéro technique temporaire). Ce NTT qui ne permet pas d'avoir droit à des prestations sociales, permet toutefois de faire le lien entre les éléments fournis dans les DSN successives pour un individu
+- La **__demande de retraite doit être par voie postale__**
+
 ### Dossier RHF
 - L'assuré doit en premier lieu contacter le régime dans le pays au quel ses cotisations sont les plus hautes
 - Créer ensuite une portabilité de ses droits vers la France (CARSAT / MSA via le flux [# LURRA](#ALLURE))
 - Corbeille RHF = `S 875 RHF`
+
+### Engagement par un tiers
+- Tutelle, curatelle, personne SDF
+- Noter le tiers appelant
+- Procuration ou mandat pour reçevoir les fonds d'un autre assuré
+- Peut être un organisme d'aide
 
 ## Paiement
 - Dossier complet ([# Suivi de demande de retraite](#Suivi-de-demande-de-retraite))
