@@ -921,6 +921,10 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 
 - Voire : [#Annulation IRCANTEC](#Annulation-ircantec), [# Dossier annulé](#Dossier-annulé)
 
+### Reprise de dossier
+- Impossible si annulé depuis plus de 5 ans
+- Impossible si l'assuré à refusé l'[# attestation de minoration](#Attestation-de-minoration)
+
 ### Dossier annulé
 - En cas de report de date de plus de 6 mois
 - Après 3 relances sans réponses pour des [# PJ](#PJ) obligatoires
