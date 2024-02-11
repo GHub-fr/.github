@@ -889,9 +889,9 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 - Le délais de **traitement pour une demande de retraite est de __4 à 6 mois__**
 
 ## Suivi de demande de retraite
-Pour commencer un suivi de la demande de reraite, le dossier doit être complet
-- **__4 à 6 mois sont préconisés__** pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#Liquidation) 
-- Un dossier complet peut commencer à être payé de manière provisoire jusqu'au paiements définitifs
+- Pour commencer un suivi de la demande de reraite, le dossier doit être complet ([# PJ](#PJ) sur la [# GED](#GED))
+- **__4 à 6 mois sont préconisés__** pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#Liquidation)
+- Un dossier complet peut commencer à être payé de manière [# provisoire](#Paiement-provisoire) jusqu'au paiements [# définitifs](#Paiement-définitif)
 - Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
 - Phase de saisie des documents et d'information au pré-retraité
 
