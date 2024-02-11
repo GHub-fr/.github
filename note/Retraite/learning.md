@@ -13,12 +13,9 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 
 ## To do list
 - Rachat de trimestres / points [lien AA](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/comment-racheter-des-trimestres-et-des-points-agirc-arrco-pour-ameliorer-ma-retraite/)
-- Taux plein ?
 - Inter pro
 - Appels confli
-- Conclusion trame d'appel & prise congé
 - Liste des types d'appels
-- Révision de dossier
 - Trimestres réputés cotisés et non réputés côtisés
 - Appel dissuadé = appel non abouti ?
 - MCPD & MCE peut bloquer un compte à l'étranger
@@ -28,7 +25,6 @@ Ce cours n'est constitué que d'informations OSI (Open source Intelligence), et 
 - Hashtag (Conversion-des-points-Agirc-et-Arrco) [doc previssima .fr](https://www.previssima.fr/question-pratique/que-deviennent-les-anciens-points-agirc-dans-le-regime-unifie-agirc-arrco.html)
 - Personne sans RNI (Par voie postale, Identité complète à noter, Carte ID, bulletins de sallaires)
 - [# RGCU](#RGCU) [# Alice](#Alice) [# Allure](#allure) [# DSN-FIAB](#DSN-FIAB)
-- Lurra = flux de remonté ?
 
 ---
 
@@ -154,6 +150,12 @@ reconstitution carrière à valider
 - Les cotisations Agirc-Arrco sont calculées sur les éléments de rémunération constituant l’assiette des cotisations de la retraite de base. Les cotisations Agirc-Arrco sont donc calculées __à partir du montant brut des salaires__.
 - Les éléments de rémunération entrant dans l’assiette des cotisations
 
+### RAM
+- Revenu annuel moyen
+
+### MEP
+- Mise en paiement
+
 ### Minoration
 Réduction d'une valeurs
 
@@ -210,6 +212,7 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 
 ### DMT
 - Durée moyenne de traitement
+- Doit être entre 6 à 8 minutes
 - Un indicateur clé de performance [# KPI](#KPI) essentiel dans l'univers des centres d'appels, __mesurant le temps moyen qu'un agent passe pour résoudre une interaction client__, que ce soit un __appel téléphonique, un chat en ligne, un e-mail ou toute autre__ forme d'interaction.
 
 ### KPI
@@ -281,6 +284,12 @@ Document ou tout autres informations
 ### Réclamation
 - Une réclamation ne doit jamais être discuté entre collégue par [# RGPD](#RGPD)
 - Durée de traitement : **__10 jours__** ouvrés
+
+### SFPB
+- Service public fédéral belge
+
+### EEE
+- Espace économique Européen
 
 ---
 
@@ -625,6 +634,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ### RAP : relevé actualisé de points
 - récapitule, année par année, l'ensemble des droits que vous avez acquis depuis le début de votre carrière auprès de vos régimes complémentaires
 - Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
+- Pour les personnes encore actives
 
 ### Rendez-vous liquidation
 - Possible uniquement à l'ouverture et à la dernière phase de la liquidation du dossier (Le dossier est déjà engagé et en cours de constitution)
@@ -643,8 +653,21 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Document détaillant les sommes versés et les minorations & majorations calculés
 - Le valider signifie que vous êtes d'accord avec les valeurs inscrites et les acceptés
 
+### DUIRRL
+- Demande unique inter-régime de retraite en ligne
+- Depuis le 15 mars 2019
+- Vous avez la possibilité de faire qu’une seule demande pour l’ensemble de vos régimes de retraite de base et complémentaire
+
 ### DLR
 Demande de liquidation retraite
+
+### Attestation de paiement
+- 3 dernières années max
+- 5 dernières années stockés
+- Interdit par mail ([# ESAA](#ESAA) ou voie postale)
+
+### Dispense de prélèvement sociaux
+- ...
 
 ## Liste d'applications
 ### M@arel
@@ -684,6 +707,7 @@ Système central de liquidation
 
 ### MCPD MCE
 - Questionnaire de mariage / décès
+- Pour les personnes déjà en retraite
 
 ### CRM
 - Informations sur les paiements
@@ -713,7 +737,7 @@ Vous allez recevoir un appel dès que vous êtes celui ayant le timer depuis le 
 Vous êtes connecté, mais pas prêt à recevoir d'appel
 
 - **Wrap-up**
-Délais après chaque appel pour laisser un temps de pause
+Délais après chaque appel pour laisser un temps de pause (Il est de 1 minute par défaut)
 
 - **ACW** 'After call work' (Travail après l'appel)
 Similaire à "Non prêt" mais pour une durée maximum de quelques minutes (Ne se retire pas seul)
@@ -908,7 +932,7 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 - Pour commencer un suivi de la demande de reraite, le dossier doit être complet ([# PJ](#PJ) sur la [# GED](#GED))
 - **__4 à 6 mois sont préconisés__** pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#Liquidation)
 - Un dossier complet peut commencer à être payé de manière [# provisoire](#Paiement-provisoire) jusqu'au paiements [# définitifs](#Paiement-définitif)
-- Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
+- Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), deux derniers avis d'imposition, livret de famille, carte d'identité, un RIB, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base), et une [# dispense de prélèvement sociaux](#Dispense-de-prélèvement-sociaux) si l'assuré l'est
 - Phase de saisie des documents et d'information au pré-retraité
 
 ## Suivi de dossier
@@ -924,6 +948,14 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 ### Reprise de dossier
 - Impossible si annulé depuis plus de 5 ans
 - Impossible si l'assuré à refusé l'[# attestation de minoration](#Attestation-de-minoration)
+
+### Révision de dossier
+- Ne peut être fait que sur des dossiers déjà liquidés / traités
+- Si des éléments n'étaient pas transmis une rétro activité peut avoir lieu
+- Rétro activité à vie en cas d'erreur d'une institution
+- Rétro activité de 5 ans en cas de documents non transmis
+- Les nouveaux éléments auront besoin d'êtres justifiés
+- En cas de contestation du calcul de pension définitif
 
 ### Dossier annulé
 - En cas de report de date de plus de 6 mois
@@ -948,7 +980,7 @@ Définition : [ # Liquidation](#Liquidation)
 - Le régime de base doit notifier avant de liquider complémentaire
 
 ## Cas particulier
-ex : RHF, Reprise de dossier...
+ex : RHF, Reprise de dossier, dossier EEE...
 
 ### Engagement de dossier RHF
 Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suivantes : 
@@ -957,6 +989,11 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 - Nom d'usage
 - Adresse postale
 - Adresse mail
+
+### Dossier RHF
+- L'assuré doit en premier lieu contacter le régime dans le pays au quel ses cotisations sont les plus hautes
+- Créer ensuite une portabilité de ses droits vers la France (CARSAT / MSA via le flux [# LURRA](#ALLURE))
+- Corbeille RHF = `S 875 RHF`
 
 ## Paiement
 - Dossier complet ([# Suivi de demande de retraite](#Suivi-de-demande-de-retraite))
