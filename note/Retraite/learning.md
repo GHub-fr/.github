@@ -863,14 +863,17 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 # RGPD en entreprise
 - [# RGPD](#RGPD)
 
+## Réglementation de la RGPD
 - __Le RGPD s'applique à tous les professionnels, quels que soient leur taille et leur secteur d'activité__, mais l'application du RGPD est modulée selon la nature, le contexte, les finalités et les risques des traitements mis en œuvre
 
 - La conformité au RGPD démontre en effet l'engagement de l'entreprise à effectuer des __traitements de données personnelles de manière responsable__, ce qui renforce la confiance des clients et __prévient les risques de fuites de données ou de violations de la vie privée__ des personnes concernées.
 
+## Type de données RGPD
 - Au sens du RGPD, est __considérée comme une donnée personnelle " toute information se rapportant à une personne__ physique identifiée ou identifiable ". Ainsi, __un élément permettant l'identification de la personne, sera considérée comme une donnée personnelle__.
 
 - Des règles précises s'imposent à vous dans l'utilisation de données personnelles (__nom, email, numéro de téléphone, adresse postale, etc.__) à des fins de sollicitation commerciale ou professionnel.
 
+## Précautions liés au RGPD
 - N'utilisez pas des données personnelles librement accessibles sur internet sans prendre des précautions
 
 - __Rien n'indique que l'utilisateur n'était pas à la recherche d'information__, gardez toujours une méfiance
