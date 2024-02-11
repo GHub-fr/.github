@@ -264,7 +264,7 @@ Document ou tout autres informations
 - (En particulier) Héritier d'un auteur, ou héritage de succession
 
 ### Escalade
-- procédure à suivre avant de transférer un appel vers un superviseur ou vers un opérateur plus spécialisé ou plus qualifié
+- procédure à suivre avant de transférer un appel / mail / ticket vers un superviseur ou vers un opérateur plus spécialisé ou plus qualifié
 - Est lié à une [# Réclamation](#Réclamation)
 
 ### Réclamation
