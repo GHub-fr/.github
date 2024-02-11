@@ -946,6 +946,10 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 - De **100 à 200 points** un [# Paiement provisoire](#paiement-provisoire) **annuel** peut être crée
 - Vous devez avoir plus **200 points** pour avoir un [# Paiement définitif](#paiement-définitif) **mensuel** via le [# Paiement provisoire](#paiement-provisoire) en premier lieu
 
+### Minoration du paiement
+- Si une [# décote](#décote) est présente (< 50%), un [# Accord / Attestation de minoration](#Attestation-de-minoration) devra être signé.e
+- La [# minoration](#minoration) peut être calculé puis signé de manière définitive ou annulé via un [# Report de date](#Report-de-date-de-départ)
+
 ### Paiement provisoire
 - Paiement minoré (~ 50%) comparé au paiement définitif
 - Temporaire le temps de la fin du traitement du dossier
