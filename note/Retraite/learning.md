@@ -139,10 +139,14 @@ reconstitution carrière à valider
 - Avec le RGPD, les transferts de données hors UE, y compris en ce qui concerne l'hébergement, restent possibles à condition d'être encadrés, par exemple par une décision d'adéquation d'un pays tiers, la signature des clauses contractuelles types ou encore l'adhésion à un code de conduite approuvé.
 
 ### Part salariale
-la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire pour être ensuite versée aux organismes chargés du recouvrement (URSSAF)
+- la part des cotisations sociales due par le salarié et prélevée par l’employeur sur son salaire
 
 ### Part patronale
-- Contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse. 
+- la part des cotisations sociales due par l'entreprise et prélevée par l’employeur sur le salaire
+
+#### Part partronale et salariale
+- Somme pour être versée aux organismes chargés du recouvrement (URSSAF)
+- Contient des cotisations de santé, de chômage, d'allocations familiales et d'assurance vieillesse
 - Le montant des charges patronales se situe entre 25% et 42% du salaire brut duquel on soustraie encore 23% à 25% de charges salariales pour obtenir le salaire net que perçoivent les salariés
 
 ### Assiette des cotisations
@@ -250,6 +254,22 @@ Pièce jointe
 
 ### Preuves
 Document ou tout autres informations
+
+### Droit direct
+- Droits acquis par une personne au titre de sa carrière personnelle 
+- par opposition aux droits indirects pour un ayant droit
+
+### Droit indirect
+- Bénéficiaire indirect d'un droit en raison de sa situation juridique, fiscale, financière, ou d'un lien familial avec le bénéficiaire direct de ce droit. 
+- (En particulier) Héritier d'un auteur, ou héritage de succession
+
+### Escalade
+- procédure à suivre avant de transférer un appel vers un superviseur ou vers un opérateur plus spécialisé ou plus qualifié
+- Est lié à une [# Réclamation](#Réclamation)
+
+### Réclamation
+- Une réclamation ne doit jamais être discuté entre collégue par [# RGPD](#RGPD)
+- Durée de traitement : **__10 jours__** ouvrés
 
 ---
 
@@ -413,22 +433,24 @@ Il est possible d’obtenir une retraite au taux maximum dès 65 ans, quel que s
 ### Calcul de décote
 - [lassuranceretraite.fr estimation retraite](https://www.lassuranceretraite.fr/portail-info/hors-menu/annexe/services-en-ligne/estimation-montant-retraite.html)
 
-(TA x SAM x Taux) / TR
+`(TA x SAM x Taux) / TR`
 
 - TA = Trimestres acquis
 - SAM = Salaire annuel moyen
 - Taux = 0.5 : 50% Maximum par régime
 - TR = Trimestres requis
 
-**Exemple** : 
-- Née en **1964**
-- Départ à 63 ans, avec **171 trimestres requis**
-- La personne **n'a côtisé que 160 trimestres**
-- Son **salair moyen annuel est de : 26'780€**
+```
+Exemple : 
+- Née en 1964
+- Départ à 63 ans, avec 171 trimestres requis
+- La personne n'a côtisé que 160 trimestres
+- Son salair moyen annuel est de : 26'780€
 
-(160 * 26780 * 0.5) / 171 = **12'528€ annuel**
+(160 x 26780 x 0.5) / 171 = 12'528€ annuel
 
-12528 **/ 12 = 1044€ mensuel**
+12528 / 12 = 1044€ mensuel
+```
 
 ### Calcul coefficient de décote : Abattement
 - Coefficient de décote = **nombre de __trimestres manquants__ x __taux de décote par trimestre__**
@@ -445,7 +467,7 @@ des droits au départ à la retraite
 - 11 trimestres manquants
 - Ouvre ses droits retraite en 2014
 
-11 * 1.125 = **__12.375%__**
+`11 * 1.125 = 12.375%`
 
 ## Régime complémentaire
 - La retraite complémentaire Agirc-Arrco est un régime de **__retraite par points__**. 
@@ -470,7 +492,7 @@ Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-
 - [agirc-arrco.fr - Points de retraite, comment sont-ils obtenus](https://www.agirc-arrco.fr/ma-retraite/comprendre-ma-retraite/points-de-retraite-comment-sont-ils-obtenus/)
 - [agirc-arrco.fr - Points de retraite et événements de la carrière](https://www.agirc-arrco.fr/ma-retraite/comprendre-ma-retraite/points-de-retraite-et-evenements-de-la-carriere/)
 
-
+#### Taux et formule
 - __**PAA**__ = (SAB x TC) / SR
 - __**Montant annuel**__ = PAA * VPAA
 - __**Montant mensuel**__ = € annuel / 12
@@ -484,6 +506,7 @@ Seuls les points Agirc des salariés cadres ont été convertis en points Agirc-
 
 (__Tranche 3__ : N'existe plus depuis 2016, fin de liquidation des points des cadres tranche 'C' en 2018, de 185 472 à 370 944 euros par mois, de 2 225 664 à 4 451 328 euros par an, soit de 4 à 8 fois le PASS)
 
+#### Valeurs points et PASS
 - __SR__ = Salaire référentiel (17.4316)
 - __PAA__ = Points Agirc-Arrco  
 __VPAA__ = Valeur point Agirc-Arrco (1.4159 : 2023)
@@ -492,12 +515,14 @@ __VPAA__ = Valeur point Agirc-Arrco (1.4159 : 2023)
 - PASS x 8 = 370 944 €
 - (PASS **__Maximum tranche 2__**)
 
+#### Logique à suivre
 - Si le **salair annuel brut est au supérieur ou égal au plafond annuel de la sécurité sociale** :
 Le salair annuel brut devient ; **__SAB = SAB - PASS__**  
 __**Les deux taux doivent être calculés**__ et additionés ensembles  
 - Si le salair annuel brut est inférieur au plafond annuel de la sécurité sociale, le taux 1 doit être calculé seul
 - Convertissez par la suite les points en €
 
+#### Soumis aux cotisations
 Sont **__soumis aux cotisations Agirc-Arrco__** :
 - les **__salaires__**,
 - les **__primes__**,
@@ -558,6 +583,8 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 ### BR : Bilan retraite
 - 57 ans et +  
 - Deux ans avant le départ en retraite
+- Informations avant la départ en retraite
+- Le dossier n'est pas encore engagé 
 
 ### VR : Vérification carrière
 - 25 ans à 57 ans
@@ -589,12 +616,23 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Arrco pour l'ensemble des salariés et Agirc si vous êtes ou avez été cadre
 
 ### Rendez-vous liquidation
-- Possible uniquement à l'ouverture et à la dernière phase de la liquidation du dossier
+- Possible uniquement à l'ouverture et à la dernière phase de la liquidation du dossier (Le dossier est déjà engagé et en cours de constitution)
 - La personne doit donc déjà avoir ouvert ses droits retraite et commencer la liquidation
-- Permet d'avoir des informations sur la liquidation d'un dossier
+- Permet d'avoir des informations sur la liquidation d'un dossier et les [# Paiements](#Paiement)
+
+## Liste des documents
+## Notification du régime de base
+- La notification du régime de base est un **document comportant la date dé départ, le motif** de départ ainsi que les informations de l'assuré
+- Ce document est **obligatoire avant la date d'effet du départ** en retraite pour commencer à liquider un dossier
+- L'IRCANTEC peut demander une notification provenant d'un régime particulier
+- Les informations sur la notification du régime de base vont définir les informations sur le régime complémentaire (Exemple : La date et motif de départ)
+- L'arrivée de la notification __**va générer la création de l'attestation de minoration**__
+
+## Attestation de minoration
+- Document détaillant les sommes versés et les minorations & majorations calculés
+- Le valider signifie que vous êtes d'accord avec les valeurs inscrites et les acceptés
 
 ## Liste d'applications
-
 ### M@arel
 - Simulateur de retraite
 - [agirc-arrco.fr / estimer retraite simulateur marel](https://www.agirc-arrco.fr/mes-services-particuliers/les-experts-retraite/parole-experts/estimer-retraite-simulateur-marel/)
@@ -687,6 +725,9 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 ### ALLURE
 - ?
 
+### PRC
+Ancienne version de [# SCL](#SCL)
+
 ---
 
 # Gestion de la Relation Client
@@ -743,7 +784,7 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 - Cette façon de communiquer permet de créer un **climat de confiance** avec votre interlocuteur. Ainsi, il se sent libre de s'exprimer comme il l'entend, sans jugement de votre part.
 
 ### Ne pas interrompre son interlocuteur
-- La première étape de l'écoute bienveillante consiste à **__laisser votre interlocuteur s'exprimer clairement et librement__**.  
+- La première étape de l'écoute bienveillante consiste à **__laisser votre interlocuteur s'exprimer__** clairement et librement.  
 - Cela suppose que vous ne devez pas l'interrompre. 
 - En effet, **__il nous arrive souvent de couper la parole à notre interlocuteur pour lui faire savoir que l'on a compris__**. Erreur à éviter absolument.  
 - Vous devez aller également au-delà du message verbal, par exemple, interprétez les gestes comme les tics, **__le débit rapide ou le regard fuyant__**.
@@ -759,10 +800,10 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 - L'idée est de l'inviter à exposer avec précision ses points de vue.
 
 ### Faire preuve de disponibilité  
-- L'autre clé de l'écoute active c'est de **__savoir reformuler le message partagé par votre interlocuteur__**.
+- L'autre clé de l'écoute active c'est de **__savoir reformuler le message partagé__** par votre interlocuteur.
 - Cela permet de faire preuve de votre disponibilité, physiquement et temporellement, vis-à-vis de l'autre. __En reformulant ce qu'il a dit, vous démontrez que vous êtes en plein dans la conversation__.
 - Il en résulte une relation apaisée.  
-- Cela permet aussi de __**faire savoir que vous avez compris la demande du client**__
+- Cela permet aussi de __**faire savoir que vous avez compris la demande**__ du client
 
 ### Être patient
 - Évitez de faire preuve d'impatience comme si vous voulez en finir au plus vite pour la discussion.
@@ -812,10 +853,10 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 - Répondre au manque / besoin de l'assuré
 - L'assuré peut avoir perdu confiance face à une perte d'autonomie
 - L'assuré peut passer par une variété de sentiment (colère,  tristesse, incertitudes, stress, ... )
-- Vous ne devez pas réagir à chaud et faire preuve d'objectivité professionnelle
+- **Vous ne devez pas réagir à chaud et faire preuve d'objectivité** professionnelle
 - Vous pouvez re impliquer l'assuré dans le dailogue en lui signalant que nous sommes là pour l'aider,  et que son propre calme l'aidera à régler ces détails au mieux
 - Ne pas utiliser [# La négation](#la-négation))
-- Rassurer l'assuré sur le devenir de sa demande
+- **Rassurer l'assuré** sur le devenir de sa demande
 - Ne mentez jamais à un client, et ne faites pas non plus de promesses, encore plus si difficile à tenir ou incertaine
 - Si l'interlocuteur est beaucoup trop virulent, passez en écoute passive silencieuse
 
@@ -841,33 +882,38 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 # Suivi des clients
 
 ## Délais de traitement
-- Le délais de traitement des documents envoyés est de 3 semaines et pour les documents reçus est de 2 semaines
-- Le délais de traitement pour une demande de retraite est de 4 à 6 mois
+- Le délais de traitement des **documents envoyés est de __3 semaines__** et pour les **documents reçus est de __2 semaines__**
+- Le délais de **traitement pour une demande de retraite est de __4 à 6 mois__**
 
 ## Suivi de demande de retraite
 Pour commencer un suivi de la demande de reraite, le dossier doit être complet
-- 4 à 6 mois sont préconisés pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#liquidation) 
+- **__4 à 6 mois sont préconisés__** pour la création et le suivi de la demande de retraite jusqu'à la [# liquidation](#Liquidation) 
 - Un dossier complet peut commencer à être payé de manière provisoire jusqu'au paiements définitifs
 - Le dossier doit comporter les documents suivants : [# RCV](#RCV), [ # PCC](#PCC), avis d'imposition, livret de famille, carte d'identité, et bulletins de salaire, ansi que la [# notification du régime de base](#notification-du-régime-de-base)
 - Phase de saisie des documents et d'information au pré-retraité
-
-## Notification du régime de base
-- La notification du régime de base est un document comportant la date dé départ, le motif de départ ainsi que les informations de l'assuré
-- Ce document est obligatoire avant la date d'effet du départ en retraite pour commencer à liquider un dossier
-- L'IRCANTEC peut demander une notification provenant d'un régime particulier
-- Les informations sur la notification du régime de base vont définir les informations sur le régime complémentaire (Exemple : La date et motif de départ)
-- L'arrivée de la notification va générer la création de l'attestation de minoration
-
-## Attestation de minoration
-- Document détaillant les sommes versés et les minorations & majorations calculés
-- Le valider signifie que vous êtes d'accord avec les valeurs inscrites et les acceptés 
 
 ## Suivi de dossier
 - Vérifier sur la [# GED](#GED) puis ensuite sur [# SCL](#SCL)
 - Puis commencer à liquider le dossier
 
+### Report de date de départ
+- Si des paiements ont déjà étés effectués, un trop perçu sera crée (Envoie au [# BO](#BO))
+- Si aucun paiement n'a été effectué, la date de départ peut être reporté, ou le dossier annulé
+
+### Dossier annulé
+- En cas de report de date
+
+### Annulation IRCANTEC
+- Vérifier si pas clos à tort sur [# SCL](#SCL) (Envoie au [# BO](#BO) avec [# réclamation](#Réclamation) en fournissant les [# PJ](#PJ))
+- Vérifier la date (Si la date d'effet est dépassée (Mois suivant) Envoie au [# BO](#BO))
+
+### Transfert de dossier IRCANTEC
+- [# Numéro de téléphone](#Numéro-de-téléphone)
+- Couleur verte sur [# SCL](#SCL) si en transfert
+- Couleur Jaune/Rouge en cas d'erreur ou documents manquants
+
 # Liquidation de dossier
-Définition : [ # Liquidation](#liquidation)
+Définition : [ # Liquidation](#Liquidation)
 
 ## Conditions de liquidation
 - Le salarié doit faire la demande de la __liquidation de sa pension de retraite__ au moins 4 ~ 6 mois avant la date à laquelle il souhaite partir, qu'il s'agisse de la retraite de base versée par la Sécurité sociale, ou des retraites complémentaires
