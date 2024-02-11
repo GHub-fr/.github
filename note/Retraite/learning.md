@@ -651,7 +651,7 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Ce document est **obligatoire avant la date d'effet du départ** en retraite pour commencer à liquider un dossier
 - L'IRCANTEC peut demander une notification provenant d'un régime particulier
 - Les informations sur la notification du régime de base vont définir les informations sur le régime complémentaire (Exemple : La date et motif de départ)
-- L'arrivée de la notification __**va générer la création de l'[ # attestation de minoration](#Attestation-de-minoration)**__
+- L'arrivée de la notification __va générer la création de l'[# attestation de minoration](#Attestation-de-minoration)__
 
 ### Attestation de minoration
 - Document détaillant les sommes versés et les minorations & majorations calculés
