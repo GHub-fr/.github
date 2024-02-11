@@ -632,16 +632,19 @@ Source : [mes-allocs.fr](https://www.mes-allocs.fr/guides/aides-sociales/)
 - Permet d'avoir des informations sur la liquidation d'un dossier et les [# Paiements](#Paiement)
 
 ## Liste des documents
-## Notification du régime de base
+### Notification du régime de base
 - La notification du régime de base est un **document comportant la date dé départ, le motif** de départ ainsi que les informations de l'assuré
 - Ce document est **obligatoire avant la date d'effet du départ** en retraite pour commencer à liquider un dossier
 - L'IRCANTEC peut demander une notification provenant d'un régime particulier
 - Les informations sur la notification du régime de base vont définir les informations sur le régime complémentaire (Exemple : La date et motif de départ)
 - L'arrivée de la notification __**va générer la création de l'[ # attestation de minoration](#Attestation-de-minoration)**__
 
-## Attestation de minoration
+### Attestation de minoration
 - Document détaillant les sommes versés et les minorations & majorations calculés
 - Le valider signifie que vous êtes d'accord avec les valeurs inscrites et les acceptés
+
+### DLR
+Demande de liquidation retraite
 
 ## Liste d'applications
 ### M@arel
@@ -940,11 +943,8 @@ Définition : [ # Liquidation](#Liquidation)
 
 - Le régime de base doit notifier avant de liquider complémentaire
 
-## DLR
-Demande de liquidation retraite
-
 ## Cas particulier
-ex : RHF, ...
+ex : RHF, Reprise de dossier...
 
 ### Engagement de dossier RHF
 Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suivantes : 
