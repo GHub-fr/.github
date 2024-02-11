@@ -218,6 +218,17 @@ retraite accordée sans décote. La retraite de base de l'Assurance retraite de 
 - Un indicateur utilisé pour l'__aide à la décision dans les organisations__.
 - Ils sont utilisés particulièrement en gestion de la performance organisationnelle.
 
+### BUM
+- Business Unit Manager
+- Responsable d'unité commerciale
+- Professionnel de l'analyse financière. 
+- Il a pour objectif principal d'améliorer le chiffre d'affaires et de limiter les éventuelles pertes de l'entreprise dans laquelle il exerce
+
+### TL
+- Team leader
+- Chef d'équipe
+- Un chef d'équipe est celui des membres d'une équipe qui répond de l'activité de celle-ci vis-à-vis de l'extérieur et a autorité formelle ou informelle sur les membres de celle-ci. Suivant la nature de l'activité, il porte des titres très variés : contremaître, manager, chef de rayon, capitaine, etc
+
 ### ARE
 - Amortir rebondir enchainer
 - Méthode de gestion des appels
@@ -717,16 +728,18 @@ Attention certaines entreprise ne veulent pas l'utiliser afin de ne pas surcharg
 [ivanti.com](https://www.ivanti.com/fr/company/history/pulse-secure)
 
 ### Alice
-- ?
+- Correspond à [# SCL](#SCL)
 
 ### DSN-FIAB
 - ?
 
 ### ALLURE
-- ?
+- Flux de transfert des documents et dossiers sur le système de retraite entre le [# régime de base](#Régime-de-base) et les [# régimes complémentaires](#Régime-complémentaire)
+- ALLURE OU LLURA ?
 
 ### PRC
-Ancienne version de [# SCL](#SCL)
+- Ancienne version de [# SCL](#SCL)
+- Des dossiers peuvent encore être engagé via PRC
 
 ---
 
@@ -900,11 +913,15 @@ le verbe « quitter » n’est pas des plus positifs, n’est-ce pas ?
 - Puis commencer à liquider le dossier
 
 ### Report de date de départ
-- Si des paiements ont déjà étés effectués, un trop perçu sera crée (Envoie au [# BO](#BO))
-- Si aucun paiement n'a été effectué, la date de départ peut être reporté, ou le dossier annulé
+- Si des **paiements ont déjà étés effectués, un __trop perçu__ sera crée** (Envoie au [# BO](#BO))
+- Si __aucun paiement__ n'a été effectué, la **date de départ peut être __reporté si moins de 6 mois__**, ou le **dossier __annulé si plus de 6 mois__** dans [# SCL](#SCL)
+
+- Voire : [#Annulation IRCANTEC](#Annulation-ircantec), [# Dossier annulé](#Dossier-annulé)
 
 ### Dossier annulé
-- En cas de report de date
+- En cas de report de date de plus de 6 mois
+- Après 3 relances sans réponses pour des [# PJ](#PJ) obligatoires
+- L'assuré doit contacter ou être recontacté par le régime concerné
 
 ### Annulation IRCANTEC
 - Vérifier si pas clos à tort sur [# SCL](#SCL) (Envoie au [# BO](#BO) avec [# réclamation](#Réclamation) en fournissant les [# PJ](#PJ))
@@ -965,11 +982,12 @@ Pour engager un dossier [# RHF](#RHF) vous devez disposer des informations suiva
 - Paiement non minoré
 - Le calcul est "définitif" et le paiement suivra ce dit calcul
 - 1 à 3 mois sont requis pour passer de paiement provisoire à définitif
+- La date de départ doit déjà être dépassé (Personne déjà en retraite)
 
 ### Arrêt ou annulation des paiements
 - Engendrera un trop perçu des sommes versés via les paiements provisoire
 - Trop perçu remboursable par échelonnage
-- Exemple : L'assuré change sa date de départ
+- Exemple : L'assuré change sa date de départ et engendre un [# dossier annuél](#dossier-annulé) ou un [# report de date](#Report-de-date-de-départ)
 
 ## Conclusion
 La personne obtient le statut de "retraité" / dossier payé une fois le dossier de retraite liquidé, les mensualités seront envoyés aux dates prévus
