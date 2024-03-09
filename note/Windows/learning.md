@@ -5,11 +5,11 @@ cours sur Windows
 - `Win + V` Historique des copier / coller
 - `Win + E` Explorateur de fichiers
 - `Win + ➡` Déplacer la fenêtre sélectionnée
-- `Windows + Tab` Changer de fenêtre
+- `Windows + ↹` Changer de fenêtre
 - `Windows + Shift` Changer de fenêtre en arrière
 - `Control + Descendre/Monter la molette de souris` Gestion du zoom
 - `Control + Z` Annuler / Retour en arrière
-- `Tab`, `Shift + Tab` Se déplacer dans un champ de saisie/bouton suivant/précédent
+- `↹`, `Shift + ↹` Se déplacer dans un champ de saisie/bouton suivant/précédent
 - `Control + Alt + Suppr` Menu de secours pour la gestion Windows
 
 # Console
