@@ -86,7 +86,7 @@ Ou encore en décomponsant le calcul en puissance de 2 (Et oui), des divisons, d
 exemple soon
 ```
 
-![https://www.maxicours.com/se/media/img/5/7/9/2/579261.png]()
+![addition binaire](https://www.maxicours.com/se/media/img/5/7/9/2/579261.png)
 
 - [maxicours.com /se/cours/ effectuer-des-operations-en-binaire](https://www.maxicours.com/se/cours/effectuer-des-operations-en-binaire)
 
