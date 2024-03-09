@@ -4,6 +4,9 @@ cours sur Windows
 - `Win + R` Recherche ou commande
 - `Win + V` Historique des copier / coller
 - `Win + E` Explorateur de fichiers
+- `Win + ➡` Déplacer la fenêtre sélectionnée
+- `Alt + Tab` Changer de fenêtre
+- `Shift + Tab` Changer de fenêtre en arrière
 - `Control + Descendre/Monter la molette de souris` Gestion du zoom
 - `Control + Z` Annuler / Retour en arrière
 - `Tab`, `Shift + Tab` Se déplacer dans un champ de saisie/bouton suivant/précédent
