@@ -56,8 +56,16 @@ Pour modifier la couleur d’arrière-plan de la fenêtre d’invite de commande
 # ActiveDirectory
 
 # Installation via ISO
-- Clef USB
+## Télécharger l'ISO
+- [microsoft.com/fr-fr/software-download/windows10ISO](https://www.microsoft.com/fr-fr/software-download/windows10ISO)
+- Liens ISO autre bientôt...
+
+## Déplacer l'ISO sur un support
+- Clef USB / réseau (server de mastering) / CD, ...
+
+## BIOS
 - Booter d'ISO vs auto setup
-- Lien win micro iso offi
-- BIOS
-- Setup
+
+## Setup
+### Astuces
+Hors réseau = pas de demande de compte Microsoft
