@@ -86,6 +86,8 @@ Ou encore en décomponsant le calcul en puissance de 2 (Et oui), des divisons, d
 exemple soon
 ```
 
+- [https://www.maxicours.com/se/cours/effectuer-des-operations-en-binaire](maxicours.com /se/cours/ effectuer-des-operations-en-binaire)
+
 # Un octet ?
 
 # Créer du text
