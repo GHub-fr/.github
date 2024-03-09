@@ -65,7 +65,14 @@ Pour modifier la couleur d’arrière-plan de la fenêtre d’invite de commande
 
 ## BIOS
 - Booter d'ISO vs auto setup
+### Touches du BIOS
+- touche `F1` à `F12`
+- peut-être la touche `Suppr`
+### Boot order
+- Le boot order signifie l'ordre de démarrage des supports de stockage
+- Dès qu'un système compatible est chargé il est lancé (Système, comme outil)
 
 ## Setup
+### Configuration IP
 ### Astuces
 Hors réseau = pas de demande de compte Microsoft
