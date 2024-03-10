@@ -18,7 +18,7 @@ Les Media Query permettent d'adapter le contenu et la mise en page de votre site
 ## Syntaxe de base
 ```
 @media screen and (min-width: 768px) {
-  /* Code CSS à appliquer quand la condition est remplie */
+  ( Code CSS à appliquer quand la condition est remplie )
 }
 ```
 Dans cet exemple, le code CSS entre les accolades s'applique uniquement si l'écran a une largeur minimale de `768px`.
@@ -30,7 +30,7 @@ Supposons que vous souhaitez afficher un menu déroulant seulement quand l'écra
 ```
 @media screen and (min-width: 768px) {
   nav ul {
-    display: block; /* or inline-block, flex, grid... */
+    display: block; ( or inline-block, flex, grid... )
   }
 }
 ```
@@ -42,7 +42,7 @@ Supposons que vous souhaitez cacher certaines images lorsque l'écran a une larg
 ```
 @media screen and (max-width: 1024px) {
   img.large {
-    display: block; /* or inline-block, flex, grid... */
+    display: block; ( or inline-block, flex, grid... )
   }
 }
 
