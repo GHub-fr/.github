@@ -6,11 +6,11 @@ cours sur Windows
 - `Win` + `V` Historique des copier / coller
 - `Win` + `E` Explorateur de fichiers
 
-- `Control` + `Alt` + `Suppr` Menu de secours pour la gestion Windows
+- `Control / CTRL` + `Alt` + `Suppr` Menu de secours pour la gestion Windows
 
 ### TaskManager
-- Raccourcis `Ctrl` + `Alt` + `Suppr`, `↹ TAB, ↹ TAB, ...`, `Entrée`
-- `Ctrl` + `↑ Shift` + `Escape` Raccourcis direct
+- Raccourcis `Control / CTRL` + `Alt` + `Suppr`, `↹ TAB, ↹ TAB, ...`, `Entrée`
+- `Control / CTRL` + `↑ Shift` + `Escape` Raccourcis direct
 
 ## Fenêtres
 - `Win` + `➡` Déplacer la fenêtre sélectionnée dans la direction de la flèche
@@ -23,7 +23,11 @@ cours sur Windows
 - `ALT` + `F4` Fermer la fenêtre
 - `F11` Plein écran
 
-- `Control` + `Descendre/Monter la molette de souris` Gestion du zoom
+- `↻ F5` Recharger la fenêtre
+- `↑ Shift` + `↻ F5` Recharger la fenêtre en vidant le cache
+- `Control / CTRL` + `↑ Shift` + `↻ F5` Recharger la fenêtre en vidant le cache
+
+- `Control / CTRL` + `Descendre/Monter la molette de souris` Gestion du zoom
 
 - `↑ Shift` + `Descendre/Monter la molette de souris` Se déplacer à l'horizontale
 - `Descendre/Monter la molette de souris` Se déplacer à la verticale
@@ -33,7 +37,7 @@ cours sur Windows
 - `Windows` + `Espace` Changer de langue
 
 ## Déplacement au clavier
-- `Control` + `Z` Annuler / Retour en arrière
+- `Control / CTRL` + `Z` Annuler / Retour en arrière
 
 - `↹ TAB` Se déplacer dans un champ de saisie/bouton suivant
 - `↑ Shift` + `↹ TAB` Se déplacer dans un champ de saisie/bouton précédent
