@@ -66,9 +66,6 @@ Pour modifier la couleur d’arrière-plan de la fenêtre d’invite de commande
 - Raccourcis `Ctrl Alt Suppr`, `TAB, TAB` `Entrée`
 - `Ctrl + Shift + Escape` Raccourcis direct
 
-# ActiveDirectory
-Soon ...
-
 # Installation via ISO
 ## Télécharger l'ISO
 - [microsoft.com/fr-fr/software-download/windows10ISO](https://www.microsoft.com/fr-fr/software-download/windows10ISO)
@@ -79,9 +76,11 @@ Soon ...
 
 ## BIOS
 - Booter d'ISO vs auto setup
+
 ### Touches du BIOS
 - touche `F1` à `F12`
 - peut-être la touche `Suppr`
+
 ### Boot order
 - Le boot order signifie l'ordre de démarrage des supports de stockage
 - Dès qu'un système compatible est chargé il est lancé (Système, comme outil)
@@ -92,11 +91,22 @@ Soon ...
 ## Setup
 ![Setup image](https://user.oc-static.com/upload/2021/05/18/1621371554096_image21.png)
 
+### Astuces
+- Hors réseau = pas de demande de compte Microsoft.  Connectez vous après au réseau
+
 ### Configuration IP
 ![Setup IP](https://github.com/GHub-fr/.github/assets/84735589/6bc12b12-09f0-4842-833e-3162fb8fb3fe)
 
 - `Panneau de configuration\Réseau et Internet\Connexions réseau` Chemin d'explorateur
 - `Windows` + `connexions réseau` Menu de recherche Windows
 
-### Astuces
-- Hors réseau = pas de demande de compte Microsoft.  Connectez vous après au réseau
+### Sous-réseau
+
+### Box / Routeurs / Switch
+
+### Local
+
+### Network storage
+
+# ActiveDirectory
+Soon ...
