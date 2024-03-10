@@ -2,37 +2,37 @@ cours sur Windows
 
 # Raccourcis
 ## Menus
-- `Win + R` Recherche ou commande
-- `Win + V` Historique des copier / coller
-- `Win + E` Explorateur de fichiers
+- `Win` + `R` Recherche ou commande
+- `Win` + `V` Historique des copier / coller
+- `Win` + `E` Explorateur de fichiers
 
-- `Control + Alt + Suppr` Menu de secours pour la gestion Windows
+- `Control` + `Alt` + `Suppr` Menu de secours pour la gestion Windows
 
 ### TaskManager
-- Raccourcis `Ctrl Alt Suppr`, `TAB, TAB` `Entrée`
-- `Ctrl + Shift + Escape` Raccourcis direct
+- Raccourcis `Ctrl` + `Alt` + `Suppr`, `↹ TAB, ↹ TAB, ...`, `Entrée`
+- `Ctrl` + `↑ Shift` + `Escape` Raccourcis direct
 
 ## Fenêtres
-- `Win + ➡` Déplacer la fenêtre sélectionnée dans la direction de la flèche
-- `Win + ↑` Vers le haut ou le bas : Cache ou maximise la taille de fenêtre
+- `Win` + `➡` Déplacer la fenêtre sélectionnée dans la direction de la flèche
+- `Win` + `↑` Vers le haut ou le bas : Cache ou maximise la taille de fenêtre
 
-- `Windows + ↹` Changer de fenêtre (suivante)
-- `Windows + ↹` Changer de fenêtre (précédente)
+- `Windows` + `↹ TAB` Changer de fenêtre (suivante)
+- `Windows` + `↹ TAB` Changer de fenêtre (précédente)
 
-- `Control + Descendre/Monter la molette de souris` Gestion du zoom
+- `Control` + `Descendre/Monter la molette de souris` Gestion du zoom
 
-- `↑ Shift + Descendre/Monter la molette de souris` Se déplacer à l'horizontale
+- `↑ Shift` + `Descendre/Monter la molette de souris` Se déplacer à l'horizontale
 - `Descendre/Monter la molette de souris` Se déplacer à la verticale
 
 ## Autres raccourcis
-- `Windows + ↑ Shift` Changer de langue
-- `Windows + Espace` Changer de langue
+- `Windows` + `↑ Shift` Changer de langue
+- `Windows` + `Espace` Changer de langue
 
 ## Déplacement au clavier
-- `Control + Z` Annuler / Retour en arrière
+- `Control` + `Z` Annuler / Retour en arrière
 
 - `↹ TAB` Se déplacer dans un champ de saisie/bouton suivant
-- `↑ Shift + ↹` Se déplacer dans un champ de saisie/bouton précédent
+- `↑ Shift` + `↹ TAB` Se déplacer dans un champ de saisie/bouton précédent
 
 - `Enter` / `Touche Entrée` Appuis sur le bouton ou ajoute une ligne vide sur un champ de text
 
