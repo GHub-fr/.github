@@ -23,8 +23,8 @@ font-family: Arial, sans-serif;
 ### Margin
 Ajoute une marge autour d'un élément CSS.
 ```
-margin: 20px; /* ajoute des marges de 10 pixels à droite, gauche, haut et bas */
-margin: 10px 5px 20px 30px; /* ajoute des marges différentes aux côtés */
+margin: 20px; ( ajoute des marges de 10 pixels à droite, gauche, haut et bas )
+margin: 10px 5px 20px 30px; ( ajoute des marges différentes aux côtés )
 ```
 ### Padding
 Ajoute une zone d'emboîtement autour d'un élément CSS.
