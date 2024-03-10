@@ -3,11 +3,11 @@ Dans ce chapitre, nous allons présenter une liste des propriétés CSS accompag
 # Propriétés CSS : Liste et définitions
 ## Propriétés de base
 ### Color
-Définit la couleur d'un élément CSS.
+Définit la couleur d'un élément CSS. (RGB, Hex, HSL)
 ```
-color: rouge; /* RGB */
-color: #F00; /* HEX */
-color: hsl(0, 100%, 50%); /* HSL */
+color: rouge;
+color: #F00;
+color: hsl(0, 100%, 50%);
 ```
 ### Background-Color
 Définit la couleur de fond d'un élément CSS.
