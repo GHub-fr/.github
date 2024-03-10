@@ -34,7 +34,7 @@ cours sur Windows
 - `↹ TAB` Se déplacer dans un champ de saisie/bouton suivant
 - `↑ Shift` + `↹ TAB` Se déplacer dans un champ de saisie/bouton précédent
 
-- `Enter` / `Touche Entrée` Appuis sur le bouton ou ajoute une ligne vide sur un champ de text
+- `↵ Enter` / `↵ Entrée` Appuis sur le bouton ou ajoute une ligne vide sur un champ de text
 
 # Console
 - `Echo` Affiche du text
