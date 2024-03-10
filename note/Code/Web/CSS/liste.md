@@ -3,9 +3,11 @@ Dans ce chapitre, nous allons présenter une liste des propriétés CSS accompag
 # Propriétés CSS : Liste et définitions
 ## Propriétés de base
 ### Color
-Définit la couleur d'un élément CSS.
+Définit la couleur d'un élément CSS. (RGB, Hex, HSL)
 ```
-color: rouge; ( Par nom )
+color: rouge; ( Nom )
+color: rgb(255 0 0); ( RGB )
+color: rgb(255 0 0, 0); ( RGB transparent )
 color: #F00; ( Hex )
 color: hsl(0, 100%, 50%); ( HSL )
 ```
@@ -29,13 +31,13 @@ margin: 10px 5px 20px 30px; ( ajoute des marges différentes aux côtés )
 ### Padding
 Ajoute une zone d'emboîtement autour d'un élément CSS.
 ```
-padding: 10px; ( ajoute des espaces de 5 pixels à droite, gauche, haut et bas ( 
-padding: 5px 10px 20px 30px; ( ajoute des espaces différents aux côtés ( 
+padding: 10px; ( ajoute des espaces de 5 pixels à droite, gauche, haut et bas )
+padding: 5px 10px 20px 30px; ( ajoute des espaces différents aux côtés )
 ```
 ### Box-Sizing
 Définit comment les marges, le padding et la largeur d'un élément sont calculées.
 ```
-box-sizing: border-box; ( inclut la bordure dans la largeur total de l'élément ( 
+box-sizing: border-box; ( inclut la bordure dans la largeur total de l'élément )
 ```
 ### Width et Height
 Définit la largeur et la hauteur d'un élément CSS respectivement.
@@ -47,35 +49,35 @@ height: 150px;
 ### Text-Align
 Définit l'alignement du texte dans un élément CSS.
 ```
-text-align: center; ( centre ( 
-text-align: left; ( gauche ( 
-text-align: right; ( droite ( 
-text-align: justify; ( justifie le texte ( 
+text-align: center; ( centre )
+text-align: left; ( gauche )
+text-align: right; ( droite )
+text-align: justify; ( justifie le texte )
 ```
 ### Text-Decoration
 Ajoute des décorations au texte d'un élément CSS.
 ```
-text-decoration: underline; ( soulignement ( 
-text-decoration: overline; ( ligne horizontale ( 
-text-decoration: line-through; ( trait de travers ( 
+text-decoration: underline; ( soulignement )
+text-decoration: overline; ( ligne horizontale )
+text-decoration: line-through; ( trait de travers )
 ```
 ## Propriétés d'écriture et de lettres
 ### Text-Transform
 Permet de convertir des caractères en majuscules ou minuscules.
 ```
-text-transform: uppercase; ( majuscules ( 
-text-transform: lowercase; ( minuscules ( 
+text-transform: uppercase; ( majuscules )
+text-transform: lowercase; ( minuscules )
 ```
 ### Letter-Spacing et Word-Spacing
 Définit l'espacement entre lettres et mots respectivement.
 ```
-letter-spacing: 1px; ( espacement entre lettres ( 
-word-spacing: 1px; ( espacement entre mots ( 
+letter-spacing: 1px; ( espacement entre lettres )
+word-spacing: 1px; ( espacement entre mots )
 ```
 ### Text-Shadow
 Ajoute une ombre au texte d'un élément CSS.
 ```
-text-shadow: 2px 2px #ccc; ( ombre avec décalage et couleur ( 
+text-shadow: 2px 2px #ccc; ( ombre avec décalage et couleur )
 ```
 ## Propriétés de bordures
 ### Border
@@ -93,15 +95,15 @@ border-radius: 5px;
 Permet de créer des conteneurs flexibles et contrôler l'alignement de leurs enfants.
 ```
 display: flex;
-align-items: center; ( centre horizontal ( 
-align-items: flex-start; ( alignement vertical au début ( 
-align-items: flex-end; ( alignement vertical à la fin ( 
+align-items: center; ( centre horizontal )
+align-items: flex-start; ( alignement vertical au début )
+align-items: flex-end; ( alignement vertical à la fin )
 ```
 ## Propriétés de positionnement et de floats
 ### Position, Left, Right, Top, Bottom
 Permet de définir la position et les marges absolues d'un élément CSS.
 ```
-position: absolute; ( élément positionné absolu ( 
+position: absolute; ( élément positionné absolu )
 left: 10px;
 right: 20px;
 top: 30px;
@@ -110,14 +112,14 @@ bottom: 40px;
 ### Clear
 Empêcher les éléments flottants de perturber le positionnement des autres éléments.
 ```
-clear: left; ( empêche un élément flottant de se chevaucher avec un autre à sa gauche ( 
-clear: right; ( empêche un élément flottant de se chevaucher avec un autre à sa droite ( 
+clear: left; ( empêche un élément flottant de se chevaucher avec un autre à sa gauche )
+clear: right; ( empêche un élément flottant de se chevaucher avec un autre à sa droite )
 ```
 ## Propriétés de transition et d'animation
 ### Transition
 Permet de définir une durée pour les changements de propriété.
 ```
-transition: all 0.5s; ( tout changement de propriété sur 0,5 seconde ( 
+transition: all 0.5s; ( tout changement de propriété sur 0,5 seconde )
 ```
 ### Animation
 Permet de créer des animations personnalisées pour des éléments CSS.
@@ -128,6 +130,6 @@ Permet de créer des animations personnalisées pour des éléments CSS.
 }
 
 .example {
-  animation: example 5s infinite; ( l'animation se répète 5 secondes ( 
+  animation: example 5s infinite; ( l'animation se répète 5 secondes )
 }
 ```
