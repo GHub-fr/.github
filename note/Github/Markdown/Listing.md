@@ -4,6 +4,8 @@
 
 ### Titre niveau 3
 
+---
+
 [Text du lien](https://pages.github.com/)
 
 [Un lien local](/CONTRIBUTING.md)
@@ -12,20 +14,20 @@
 
 ---
 
-**This is bold text**
+**Text en gras**
 
-*This text is italicized*
+*Text en italique*
 
-~~This was mistaken text~~
+~~Text erroné~~
 
-__this text is underlined__
+__Text souligné__
 
 <details>
-<summary>Title</summary>
+<summary>Titre</summary>
 Text
 </details>
 
-`Code`
+Du text et `un peut de code`, avec du text
 
 ```
 Bloc de code
