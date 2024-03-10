@@ -10,7 +10,7 @@ La feuille de style **CSS** (__**Cascading Style Sheets**__) permet d'améliorer
 
 ---
 
-# **Syntaxe**
+# Syntaxe de CSS
 Choisir des éléments HTML à traiter à l'aide d'un type d'élément HTML, et y attribuer une propriété
 ```
   body {
