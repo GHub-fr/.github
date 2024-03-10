@@ -19,6 +19,10 @@ cours sur Windows
 - `Windows` + `↹ TAB` Changer de fenêtre (suivante)
 - `Windows` + `↹ TAB` Changer de fenêtre (précédente)
 
+- `Windows` + `D` Réduire toutes les fenêtres, et aller vers le bureau
+- `ALT` + `F4` Fermer la fenêtre
+- `F11` Plein écran
+
 - `Control` + `Descendre/Monter la molette de souris` Gestion du zoom
 
 - `↑ Shift` + `Descendre/Monter la molette de souris` Se déplacer à l'horizontale
