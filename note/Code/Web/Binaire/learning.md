@@ -83,9 +83,9 @@ Ou encore en décomponsant le calcul en puissance de 2 (Et oui), des divisons, d
 - il faut donc placer 0 et mettre une retenue de 1 sur le bit suivant. Il faut que les nombres à additionner soient de même taille
 
 ```
-  0 0 0¹ 1¹ 1 0¹ 0¹ 1
-+ 0 0 0  1  1 0  1  1
-= 0 0 1  1  0 1  0  0
+   0  0  0¹ 1¹ 1 0¹ 0¹ 1
++  0  0  0  1  1 0  1  1
+=  0  0  1  1  0 1  0  0
 ```
 
 ![addition binaire](https://www.maxicours.com/se/media/img/5/7/9/2/579261.png)
