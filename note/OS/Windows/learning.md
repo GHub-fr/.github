@@ -1,16 +1,28 @@
 cours sur Windows
 
 # Raccourcis
+## Menus
 - `Win + R` Recherche ou commande
 - `Win + V` Historique des copier / coller
 - `Win + E` Explorateur de fichiers
-- `Win + ➡` Déplacer la fenêtre sélectionnée
-- `Windows + ↹` Changer de fenêtre
-- `Windows + ↑ Shift` Changer de fenêtre en arrière
-- `Control + Descendre/Monter la molette de souris` Gestion du zoom
-- `Control + Z` Annuler / Retour en arrière
-- `↹`, `↑ Shift + ↹` Se déplacer dans un champ de saisie/bouton suivant/précédent
 - `Control + Alt + Suppr` Menu de secours pour la gestion Windows
+
+## Fenêtres
+- `Win + ➡` Déplacer la fenêtre sélectionnée dans la direction de la flèche
+- `Win + ↑` Vers le haut ou le bas : Cache ou maximise la taille de fenêtre
+- `Windows + ↹` Changer de fenêtre (suivante)
+- `Windows + ↹` Changer de fenêtre (précédente)
+
+- `Control + Descendre/Monter la molette de souris` Gestion du zoom
+
+## Autres raccourcis
+- `Windows + ↑ Shift` Changer de langue
+
+## Déplacement au clavier
+- `Control + Z` Annuler / Retour en arrière
+- `↹ TAB` Se déplacer dans un champ de saisie/bouton suivant
+- `↑ Shift + ↹` Se déplacer dans un champ de saisie/bouton précédent
+- `Enter` / `Touche Entrée` Appuis sur le bouton ou ajoute une ligne vide sur un champ de text
 
 # Console
 - `Echo` Affiche du text
@@ -51,9 +63,11 @@ Pour modifier la couleur d’arrière-plan de la fenêtre d’invite de commande
 - `taskkill /f /pid [process ID]` Tuer un processus par son ID
 
 # TaskManager
-- Raccourcis `Ctrl Alt Suppr`, `TAB` `Entrée`
+- Raccourcis `Ctrl Alt Suppr`, `TAB, TAB` `Entrée`
+- `Ctrl + Shift + Escape` Raccourcis direct
 
 # ActiveDirectory
+Soon ...
 
 # Installation via ISO
 ## Télécharger l'ISO
@@ -71,8 +85,18 @@ Pour modifier la couleur d’arrière-plan de la fenêtre d’invite de commande
 ### Boot order
 - Le boot order signifie l'ordre de démarrage des supports de stockage
 - Dès qu'un système compatible est chargé il est lancé (Système, comme outil)
+- Vous pouvez le changer en déplacent vers le haut le support requis
+
+![Boot order image](https://www.intel.com/content/dam/support/us/en/images/server-products/59753_image1.png)
 
 ## Setup
+![Setup image](https://user.oc-static.com/upload/2021/05/18/1621371554096_image21.png)
+
 ### Configuration IP
+![Setup IP](https://github.com/GHub-fr/.github/assets/84735589/6bc12b12-09f0-4842-833e-3162fb8fb3fe)
+
+- `Panneau de configuration\Réseau et Internet\Connexions réseau` Chemin d'explorateur
+- `Windows` + `connexions réseau` Menu de recherche Windows
+
 ### Astuces
-Hors réseau = pas de demande de compte Microsoft
+- Hors réseau = pas de demande de compte Microsoft.  Connectez vous après au réseau
