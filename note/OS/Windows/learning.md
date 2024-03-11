@@ -46,6 +46,8 @@ cours sur Windows
 
 # Console
 
+![Console](https://supportkb.dell.com/img/ka06P000000TwITQA0/ka06P000000TwITQA0_fr_1.jpeg)
+
 ## Ouverture de la console
 - `Windows` + écrire `console`
 - `Windows` + `R`, écrire `CMD`
