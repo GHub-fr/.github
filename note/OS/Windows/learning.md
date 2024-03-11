@@ -45,6 +45,12 @@ cours sur Windows
 - `↵ Enter` / `↵ Entrée` Appuis sur le bouton ou ajoute une ligne vide sur un champ de text
 
 # Console
+
+## Ouverture de la console
+- `Windows` + écrire `console`
+- `Windows` + `R`, écrire `CMD`
+
+## Commandes classiques
 - `Echo` Affiche du text
 - `:Text` Crée le début d'une boucle nommé 'Text'
 - `goto :Text` Le code va exécuter la boucle 'Text'
