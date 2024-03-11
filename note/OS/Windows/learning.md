@@ -16,8 +16,11 @@ cours sur Windows
 - `Win` + `➡` Déplacer la fenêtre sélectionnée dans la direction de la flèche
 - `Win` + `↑` Vers le haut ou le bas : Cache ou maximise la taille de fenêtre
 
-- `Windows` + `↹ TAB` Changer de fenêtre (suivante)
-- `Windows` + `↹ TAB` Changer de fenêtre (précédente)
+- `Windows` + `↹ TAB` Changer de bureau (suivante)
+- `Windows` + `↑ Shift` +`↹ TAB` Changer de bureau (précédente)
+
+- `ALT` + `↹ TAB` Changer de fenêtre (suivante)
+- `ALT` + `↑ Shift` + `↹ TAB` Changer de fenêtre (précédente)
 
 - `Windows` + `D` Réduire toutes les fenêtres, et aller vers le bureau
 - `ALT` + `F4` Fermer la fenêtre
