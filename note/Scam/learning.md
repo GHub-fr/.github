@@ -29,4 +29,20 @@ Une arnaque plus simple ou le but est de faire chanter la victime en faisant pre
 Cette arnaque repose sur l'intelligence artificielle, en simulant un appel / visio conférence ou le président ou comptable ordonnera à l'oral de créer un virement en donnant une fausse raison (contrat secret, opération commercial, ...)
 
 ## Arnaque au quit ou double
-Une arnaque simple à détecter,  mais créant toujours des dégâts ou le principe est de faire croire à la cinle qu'elle va pouvoir gagner de l'argent suite à un virement / investissement, souvent en se faisant passer pour une célébrité 
+Une arnaque simple à détecter,  mais créant toujours des dégâts ou le principe est de faire croire à la cinle qu'elle va pouvoir gagner de l'argent suite à un virement / investissement, souvent en se faisant passer pour une célébrité
+
+# Social engineering
+Méthode de manipulation sociale et comportementale
+
+# Exit scam
+Sortir d'une arnaque "avec la caisse"
+
+# Blanchiment 
+## Injection d'argent
+Le but est de trouver une société avec la quelle vous allez créer de fausses ventes pour blanchir l'argent
+
+## RIB
+La sortie d'argent depuis des comptes bancaires est le plus risqué car il vous faudra contacter et inciter la personne à recevoir de l'argent et vous renvoyer votre part par liquide ou assets financier
+
+## Crypto-monnaies
+La sortie via crypto monnaies sont les plus simples, que ce soit avec du liquide ou une carte, l'achat de certaines monnaies est difficilement traçable (Achat de jeton dans des kiosques en libre service, mixeur de crypto-monnaie, échange de pair à pair, ...)
