@@ -75,6 +75,13 @@ Le but est de trouver une société avec la quelle vous allez créer de fausses 
 ## RIB
 La sortie d'argent depuis des comptes bancaires est le plus risqué car il vous faudra contacter et inciter la personne à recevoir de l'argent et vous renvoyer votre part par liquide ou assets financier
 
+Aussi appelé Schtroumpfage (ou cuckoo smurfing)
+Le schtroumpfage, également appelé structuration, est probablement la méthode la plus courante pour blanchir de l'argent. Cette méthode consiste à déposer des petites sommes en espèces dans des comptes bancaires détenus par des personnes différentes et d'un montant modeste pour ne pas attirer l'attention. 
+
+Les complices titulaires de ces comptes, appelés « schtroumpfs », vont toucher une commission. Parfois, il s'agit même de naïfs qui ont été manipulés.
+
+Très répandue, cette technique est notamment utilisée pour les petits trafics de drogue où les sommes à blanchir sont de quelques milliers d'euros
+
 ## Crypto-monnaies
 La sortie via crypto monnaies sont les plus simples, que ce soit avec du liquide ou une carte, l'achat de certaines monnaies est difficilement traçable (Achat de jeton dans des kiosques en libre service, mixeur de crypto-monnaie, échange de pair à pair, ...)
 
