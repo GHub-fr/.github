@@ -30,7 +30,7 @@ Le « Baiting » est un composant clé de toutes les formes de phishing, et d’
 Cette arnaque cible des personnes potentiellement aisés financièrement, en leurs faisant croire à une opportunité d'investissement, qui se révélera être simplement fausses (Formation sans valeur, crypto-monnaie non connu, titre d'action en perte, ...)
 
 ## Arnaque à la formation business
-L'arnaque cette fois cible les personnes en recherche de nouvelles opportunités, en vous proposant une formation à un prix élevé, mais sans réel valeurs ou déjà disponible en ligne gratuitement)
+L'arnaque cette fois cible les personnes en recherche de nouvelles opportunités, en vous proposant une formation à un prix élevé, mais sans réel valeurs ou déjà disponible en ligne gratuitement
 
 ## Pyramide de ponzi
 Cette arnaque est plus difficile à détecter, elle repose sur un investissement trompeur, ou les rémunérations des investisseurs sont en réalité les investissement des nouveaux entrants, créant une spirale infinie ou les nouveaux arrivant paye les anciens souhaitent récupérer l'investissement
