@@ -10,6 +10,13 @@ L'arnaque cible les demandeurs d'emploi, leurs proposant un poste simple, mais p
 L'arnaque cible les personnes ayant déjà eu des fuites de donnés (Nom, prénom, et certe bancaire)
 le scammer va vous faire croire à un remboursement, mais en réalité va vous faire confirmer sur votre banque un paiement
 
+## Nigerian 419
+Cette arnaque consiste à convaincre la victime d’aider une personne malade à transférer son argent vers une banque étrangère en échange d’une partie des fonds.
+
+Depuis des décennies, les emails de « prince nigérien » inondent les boites mails du monde entier au point d’être devenus un sujet de plaisanterie. Pourtant, cette technique d’ingénierie sociale demeure efficace et de nombreuses personnes se laissent piéger.
+
+En 2007, le trésorier d’un comté du Michigan a donné 1,2 million de dollars de fonds publics à un arnaqueur en espérant gagner un peu d’argent.
+
 ## Arnaque à l'investissement
 Cette arnaque cible des personnes potentiellement aisés financièrement, en leurs faisant croire à une opportunité d'investissement, qui se révélera être simplement fausses (Formation sans valeur, crypto-monnaie non connu, titre d'action en perte, ...)
 
@@ -32,7 +39,13 @@ Cette arnaque repose sur l'intelligence artificielle, en simulant un appel / vis
 Une arnaque simple à détecter,  mais créant toujours des dégâts ou le principe est de faire croire à la cinle qu'elle va pouvoir gagner de l'argent suite à un virement / investissement, souvent en se faisant passer pour une célébrité
 
 # Social engineering
-Méthode de manipulation sociale et comportementale
+- Méthode de manipulation sociale et comportementale
+
+- L'ingénierie sociale est, dans le contexte de la sécurité de l'information, une pratique de manipulation psychologique à des fins d'escroquerie. 
+
+- Les termes plus appropriés à utiliser sont le piratage psychologique ou la fraude psychologique.
+
+- En guise d’exemples, on peut citer les attaques de phishing et de smishing. Ce type de cyberattaques reposent entièrement sur la tromperie et l’usurpation d’identité, puisqu’elles visent à persuader la victime d’installer un malware sur son PC ou son smartphone.
 
 # Exit scam
 Sortir d'une arnaque "avec la caisse"
