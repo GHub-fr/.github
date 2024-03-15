@@ -6,6 +6,8 @@ L'arnaque se centre sur la location d'un faux appartement n'appartenant pas au s
 ## Arnaque à la proposition d'emploi
 L'arnaque cible les demandeurs d'emploi, leurs proposant un poste simple, mais par la suite leurs demandent d'acheter du matériel qui ne sera jamais remboursé
 
+En 2011, l’entreprise de cybersécurité RSA a été compromise lorsque deux employés ont ouvert un malware en pièce jointe d’un email de phishing portant le nom de fichier « plan de recrutement 2011 ».
+
 ## Arnaque au faux remboursement
 L'arnaque cible les personnes ayant déjà eu des fuites de donnés (Nom, prénom, et certe bancaire)
 le scammer va vous faire croire à un remboursement, mais en réalité va vous faire confirmer sur votre banque un paiement
