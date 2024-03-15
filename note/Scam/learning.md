@@ -59,7 +59,16 @@ Une arnaque simple à détecter,  mais créant toujours des dégâts ou le princ
 # Exit scam
 Sortir d'une arnaque "avec la caisse"
 
-# Blanchiment 
+# Blanchiment
+
+Le blanchiment d'argent se fait généralement en trois étapes :
+
+- la phase de placement : l'argent d'origine criminelle est introduit dans le système financier ;
+
+- la phase d'empilement : de nombreuses transactions sont effectuées pour compliquer le suivi de l'origine des fonds ;
+
+- la phase finale : les fonds sont présentés comme le produit des investissements réalisés dans des secteurs variés.
+
 ## Injection d'argent
 Le but est de trouver une société avec la quelle vous allez créer de fausses ventes pour blanchir l'argent
 
