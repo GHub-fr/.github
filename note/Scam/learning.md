@@ -85,6 +85,18 @@ Très répandue, cette technique est notamment utilisée pour les petits trafics
 ## Crypto-monnaies
 La sortie via crypto monnaies sont les plus simples, que ce soit avec du liquide ou une carte, l'achat de certaines monnaies est difficilement traçable (Achat de jeton dans des kiosques en libre service, mixeur de crypto-monnaie, échange de pair à pair, ...)
 
+## Casinos
+Les blanchisseurs se rendent au casino, où ils se procurent des jetons en échange d’argent comptant pour ensuite encaisser leurs jetons sous forme de chèque
+
+## Achat de tickets gagnants
+...
+
+## Prêt adossé (« back-to-back-loan »)
+Le prêt adossé consiste à obtenir un prêt immobilier auprès d'une banque française, en apportant comme garantie des capitaux illicites déposés sur un compte dans un paradis fiscal.
+
+## Auto-prêt (« loan-back »)
+Le trafiquant remet à un complice une somme d’argent sale. Ce complice lui « prête » une somme équivalente, documents de prêt à l’appui, avec un calendrier de remboursement pour ajouter une apparence de légitimité. Cette technique peut être plus complexe avec l'utilisation d'un montage juridique via une société civile immobilière ou un trust.
+
 ## Liquides
 Si votre sortie doit se faire vers du liquide, vous pourrez vendre les informations, cartes et chèques, contre une partie de ce qu'elles contient en liquide
 
