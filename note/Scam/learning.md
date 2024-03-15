@@ -88,6 +88,9 @@ La sortie via crypto monnaies sont les plus simples, que ce soit avec du liquide
 ## Liquides
 Si votre sortie doit se faire vers du liquide, vous pourrez vendre les informations, cartes et chèques, contre une partie de ce qu'elles contient en liquide
 
+## Mandats
+Les mandats-poste connus sous le nom de mandat cash et chèques de voyage consistent à échanger des sommes en espèces contre des mandats-poste, lesquels sont encaissés à l’étranger pour fin de dépôt bancaire
+
 # Sécurité
 ## Fiscale
 ## Identité
