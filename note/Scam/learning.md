@@ -19,6 +19,13 @@ Depuis des décennies, les emails de « prince nigérien » inondent les boites 
 
 En 2007, le trésorier d’un comté du Michigan a donné 1,2 million de dollars de fonds publics à un arnaqueur en espérant gagner un peu d’argent.
 
+## Spear phishing
+Le « spear phishing » ou « whaling » est une variante plus sophistiquée du phishing. Elle est généralement employée pour les cibles à haute valeur, d’où l’analogie avec la pêche à la baleine.
+
+Les attaquants passent du temps à chercher la victime, qui est généralement une personne très fortunée. Ils conçoivent ensuite une arnaque sur mesure, unique et personnalisée pour piéger leur proie.
+
+Le « Baiting » est un composant clé de toutes les formes de phishing, et d’autres types d’arnaque. Il s’agit d’appâter la victime avec une tentation, par exemple la promesse d’une somme d’argent ou d’un beau cadeau.
+
 ## Arnaque à l'investissement
 Cette arnaque cible des personnes potentiellement aisés financièrement, en leurs faisant croire à une opportunité d'investissement, qui se révélera être simplement fausses (Formation sans valeur, crypto-monnaie non connu, titre d'action en perte, ...)
 
