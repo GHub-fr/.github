@@ -46,3 +46,13 @@ La sortie d'argent depuis des comptes bancaires est le plus risqué car il vous 
 
 ## Crypto-monnaies
 La sortie via crypto monnaies sont les plus simples, que ce soit avec du liquide ou une carte, l'achat de certaines monnaies est difficilement traçable (Achat de jeton dans des kiosques en libre service, mixeur de crypto-monnaie, échange de pair à pair, ...)
+
+## Liquides
+Si votre sortie doit se faire vers du liquide, vous pourrez vendre les informations, cartes et chèques, contre une partie de ce qu'elles contient en liquide
+
+# Sécurité
+## Fiscale
+## Identité
+## Traçable
+## Internet et réseaux
+## Fausse identité
