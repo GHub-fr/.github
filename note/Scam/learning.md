@@ -56,6 +56,12 @@ Une arnaque simple à détecter,  mais créant toujours des dégâts ou le princ
 
 - En guise d’exemples, on peut citer les attaques de phishing et de smishing. Ce type de cyberattaques reposent entièrement sur la tromperie et l’usurpation d’identité, puisqu’elles visent à persuader la victime d’installer un malware sur son PC ou son smartphone.
 
+# Arnaque au faux coursier
+Un habitant d’Arras-en-Lavedan a reçu le 10 mars dernier un SMS lui demandant de mettre à jour son compte Ameli. Quelques heures plus tard, la victime se faisait appeler par un faux conseiller lui affirmant qu’elle venait de subir une arnaque et qu’il lui fallait nécessairement « réencoder ses cartes ».
+
+Vigilance de la banque
+Le prétendu conseiller lui a alors demandé son code de carte bleue et a envoyé un coursier à son domicile afin de récupérer sa carte. Visiblement dépassée par les événements, la victime lui a remis son moyen de paiement sans broncher. Une erreur fatale : le coursier s’est empressé de réaliser plusieurs retraits dans des distributeurs automatiques jusqu’à atteindre le plafond bancaire.
+
 # Exit scam
 Sortir d'une arnaque "avec la caisse"
 
