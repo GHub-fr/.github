@@ -7,6 +7,9 @@ cours sur Windows
 - `Win` + `E` Explorateur de fichiers
 
 - `Control / CTRL` + `Alt` + `Suppr` Menu de secours pour la gestion Windows
+- `Control / CTRL` + `D` Ajouter la page en favoris
+- `Control / CTRL` + `F` Rechercher un texte dans la page
+- `Control / CTRL` + `A` Sélectionner tout le text
 
 ### TaskManager
 - Raccourcis `Control / CTRL` + `Alt` + `Suppr`, `↹ TAB, ↹ TAB, ...`, `Entrée`
